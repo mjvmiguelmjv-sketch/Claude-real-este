@@ -1,72 +1,74 @@
-# 02 — TikTok Playbook
+# 02 — Playbook de TikTok
 
-## Role of TikTok in the system
-The **top-of-funnel reach + discovery engine.** TikTok's algorithm shows content to
-non-followers faster than any other platform, so this is where we win attention with
-sharp hooks (fees, frozen funds, chargebacks, "who's behind your gateway") and where the
-**founder's authenticity** plays best — TikTok rewards real-person, unpolished, talking-head content.
+## Rol de TikTok en el sistema
+El **motor de alcance + descubrimiento de la parte alta del embudo.** El algoritmo de TikTok
+muestra contenido a no-seguidores más rápido que cualquier otra plataforma, así que aquí es
+donde ganamos atención con hooks afilados (comisiones, fondos congelados, chargebacks, "quién
+está detrás de tu pasarela") y donde la **autenticidad del founder** funciona mejor — TikTok
+premia el contenido de persona real, sin pulir, talking-head.
 
-## Profile setup
-- **Handle:** @zenobank. Name: "Zeno Bank — Crypto Payments 0.1%".
-- **Bio:** "Accept crypto @ 0.1%. No chargebacks. Built in public by Hugo 👇" + link to dashboard/link-in-bio.
-- **Pinned 3 videos:** founder origin (FV-01), fee-shock (SF-01), a viral-style myth-bust (SF-07).
+## Configuración del perfil
+- **Handle:** @zenobank. Nombre: "Zeno Bank — Pagos Cripto 0,1%".
+- **Bio:** "Acepta cripto al 0,1%. Sin chargebacks. Construido en público por Hugo 👇" + enlace al dashboard/link-in-bio.
+- **3 vídeos fijados:** origen del founder (FV-01), choque de comisiones (SF-01), un rompe-mitos estilo viral (SF-07).
 
-## Content philosophy on TikTok
-- **Hook in the first 1 second.** No logo intro. Open on a face + a bold claim or a number on screen.
-- **Talk to one person.** Direct, conversational, "you."
-- **Native, not an ad.** Looks filmed on a phone, because trust > polish here.
-- **Value or emotion fast.** Either teach something useful or trigger recognition ("that's literally me / my Stripe bill").
-- **Length:** 15–34s is the sweet spot for reach; founder stories can run 45–60s.
+## Filosofía de contenido en TikTok
+- **Hook en el primer 1 segundo.** Sin intro de logo. Abre con una cara + una afirmación rotunda o un número en pantalla.
+- **Háblale a una persona.** Directo, conversacional, "tú".
+- **Nativo, no un anuncio.** Que parezca grabado con un móvil, porque aquí confianza > pulido.
+- **Valor o emoción rápido.** O enseñas algo útil o disparas el reconocimiento ("ese soy yo / esa es mi factura de Stripe").
+- **Duración:** 15–34s es el punto dulce para alcance; las historias del founder pueden llegar a 45–60s.
 
-## Hook library (steal these — pair with `05` scripts)
-**Fee/money:**
-- "Your payment processor is robbing you and you don't even notice."
-- "I'll show you exactly how much Stripe took from you this year."
-- "0.1% vs 2.9%. Let me show you what that does to $100k in sales."
+## Librería de hooks (róbalos — empareja con los guiones de `05`)
+**Comisiones/dinero:**
+- "Tu pasarela de pago te está robando y ni te enteras."
+- "Te muestro exactamente cuánto te quitó Stripe este año."
+- "0,1% vs 2,9%. Déjame mostrarte qué le hace eso a 100.000 $ en ventas."
 
-**Chargebacks/freezes (segment B/C):**
-- "PayPal can freeze your money tomorrow. Here's how to make that impossible."
-- "Digital sellers lose almost every chargeback. Unless the payment can't be reversed."
-- "If a processor ever rejected your business, this is for you."
+**Chargebacks/bloqueos (segmento B/C):**
+- "PayPal puede congelarte el dinero mañana. Aquí está cómo hacer eso imposible."
+- "Los vendedores digitales pierden casi todos los chargebacks. Salvo que el pago no se pueda revertir."
+- "Si una pasarela rechazó alguna vez tu negocio, esto es para ti."
 
-**Trust/founder (the differentiator):**
-- "Every crypto payment app hides who runs it. I don't. Hi, I'm Hugo."
-- "Is this a rug? You SHOULD ask that. Let me answer."
-- "Would you trust an anonymous company with your revenue? Me neither — so I built the opposite."
+**Confianza/founder (el diferencial):**
+- "Toda app de pagos cripto esconde quién la dirige. Yo no. Hola, soy Hugo."
+- "¿Es esto un rug? DEBERÍAS preguntarlo. Déjame responder."
+- "¿Confiarías tus ingresos a una empresa anónima? Yo tampoco — así que construí lo contrario."
 
-**Curiosity/myth:**
-- "Accepting crypto doesn't mean dealing with volatility. Here's the part nobody explains."
-- "You think you can't accept crypto on Shopify. You can — in 5 minutes."
+**Curiosidad/mito:**
+- "Aceptar cripto no significa lidiar con volatilidad. Aquí está la parte que nadie explica."
+- "Crees que no puedes aceptar cripto en Shopify. Sí puedes — en 5 minutos."
 
-## Format types to rotate
-1. **Talking-head founder** (FV series) — trust + story. TikTok's bread and butter.
-2. **Screen-record demos** — connect a store, take a payment, show the 0.1% line, the on-chain receipt.
-3. **"POV / text-story"** — relatable pain framed as POV ("POV: PayPal just froze $40k").
-4. **Green-screen reactions** — Hugo reacts to a Stripe statement, a frozen-funds Reddit post, a competitor's anonymous "about" page.
-5. **Listicle/rapid value** — "3 reasons crypto checkout converts better."
-6. **Duet/stitch** — stitch crypto/e-commerce creators' pain points with the Zeno answer.
+## Tipos de formato para rotar
+1. **Talking-head del founder** (serie FV) — confianza + historia. El pan de cada día de TikTok.
+2. **Demos de screen-record** — conecta una tienda, cobra un pago, muestra la línea del 0,1%, el recibo on-chain.
+3. **"POV / historia en texto"** — dolor relatable como POV ("POV: PayPal acaba de congelarte 40.000 $").
+4. **Reacciones con green-screen** — Hugo reacciona a un extracto de Stripe, a un post de Reddit de fondos congelados, a la página "about" anónima de un competidor.
+5. **Listicle/valor rápido** — "3 razones por las que el checkout cripto convierte mejor".
+6. **Duet/stitch** — haz stitch a los dolores de creadores cripto/e-commerce con la respuesta de Zeno.
 
-## Algorithm & growth tactics
-- **Post 1–2x/day** in the ramp phase (first 6–8 weeks), then 1/day sustainably. Volume = data = reach on TikTok.
-- **Watch-time & rewatches** are king: tight edits, no dead air, a loop-back ending.
-- **Reply to comments with video** — turns one question into a new post and signals activity.
-- **Trend-jack carefully:** use trending sounds/formats only when they fit a real point (don't dance for crypto fees).
-- **Series & hooks people remember:** "Zeno in the open — week N" trains the algo + audience.
-- **Caption:** short, keyword-rich, a question to drive comments. 3–5 hashtags max.
-- **Hashtags:** #cryptopayments #crypto #ecommerce #shopify #smallbusiness #stablecoin #buildinpublic (mix niche + broad; don't over-tag).
-- **CTA discipline:** verbal CTA + "link in bio." TikTok throttles external links in-app, so drive to **profile → link-in-bio**, and convert via follows/DMs.
+## Tácticas de algoritmo y crecimiento
+- **Publica 1–2x/día** en la fase de arranque (primeras 6–8 semanas), luego 1/día de forma sostenible. Volumen = datos = alcance en TikTok.
+- **El tiempo de visionado y las repeticiones** son el rey: ediciones ajustadas, sin aire muerto, un final que vuelve al principio (loop).
+- **Responde a comentarios con vídeo** — convierte una pregunta en un post nuevo y señala actividad.
+- **Trend-jacking con cuidado:** usa sonidos/formatos en tendencia solo cuando encajen con un punto real (no bailes por las comisiones cripto).
+- **Series y hooks que la gente recuerda:** "Zeno a la vista de todos — semana N" entrena al algoritmo + a la audiencia.
+- **Caption:** corto, rico en palabras clave, una pregunta para impulsar comentarios. 3–5 hashtags máximo.
+- **Hashtags:** #cryptopayments #crypto #ecommerce #shopify #smallbusiness #stablecoin #buildinpublic (mezcla nicho + amplio; no satures).
+- **Disciplina de CTA:** CTA hablado + "enlace en bio". TikTok limita los enlaces externos en la app, así que dirige al **perfil → link-in-bio**, y convierte vía seguidores/DMs.
 
-## Repurposing flow
-TikTok is the **factory**: film/batch here → cross-post the winners to **IG Reels** and
-**YouTube Shorts** (strip the TikTok watermark, re-upload natively). Let TikTok tell you
-what's working (cheap, fast signal), then put paid spend behind proven hooks in Meta Ads.
+## Flujo de reutilización
+TikTok es la **fábrica**: graba/lotea aquí → cruza los ganadores a **IG Reels** y
+**YouTube Shorts** (quita la marca de agua de TikTok, re-súbelo de forma nativa). Deja que
+TikTok te diga qué funciona (señal barata y rápida), y luego pon presupuesto pagado detrás de
+los hooks probados en Meta Ads.
 
-## What NOT to do
-- No corporate VO-over-stock-footage. No watermarked reposts. No 30-tag spam.
-- No financial-guarantee or tax-avoidance framing (guardrails apply identically here).
-- Don't bury the hook behind an intro — you have ~1 second.
+## Lo que NO hay que hacer
+- Nada de VO corporativa sobre stock. Nada de reposts con marca de agua. Nada de spam de 30 tags.
+- Nada de garantías financieras ni encuadres de evasión fiscal (los guardrails aplican igual aquí).
+- No entierres el hook tras una intro — tienes ~1 segundo.
 
-## KPIs (see `09`)
-Views, average watch time / completion rate, shares, comments, follower growth, profile
-visits, and link-in-bio clicks → dashboard signups. Watch **completion rate** and **shares**
-as the leading quality signals.
+## KPIs (ver `09`)
+Visualizaciones, tiempo medio de visionado / tasa de finalización, compartidos, comentarios,
+crecimiento de seguidores, visitas al perfil y clics en link-in-bio → registros en el dashboard.
+Vigila la **tasa de finalización** y los **compartidos** como señales líderes de calidad.

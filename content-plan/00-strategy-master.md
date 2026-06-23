@@ -1,76 +1,78 @@
-# 00 — Strategy Master
+# 00 — Estrategia Maestra
 
-## 1. The one-sentence positioning
-**Zeno Bank is the crypto payment gateway with a real face behind it — Hugo Pino —
-that lets crypto-fluent businesses accept stablecoins and major crypto at a flat 0.1%
-fee, settle instantly, and never eat a chargeback again.**
+## 1. El posicionamiento en una frase
+**Zeno Bank es la pasarela de pagos cripto con una cara real detrás — Hugo Pino — que
+permite a negocios cripto-fluidos aceptar stablecoins y las principales criptomonedas con
+una comisión plana del 0,1%, liquidar al instante y no volver a comerse un chargeback.**
 
-## 2. Why we win (the strategic wedge)
-Every crypto payment gateway sells the same four bullets: low fees, fast settlement,
-no chargebacks, easy integration. They are interchangeable, and most are run by
-**anonymous teams** — which, in an industry full of exit scams and frozen funds, is
-the single biggest reason a merchant hesitates to route real revenue through them.
+## 2. Por qué ganamos (la cuña estratégica)
+Todas las pasarelas de pago cripto venden los mismos cuatro puntos: comisiones bajas,
+liquidación rápida, sin chargebacks, integración fácil. Son intercambiables, y la mayoría
+las llevan **equipos anónimos** — lo cual, en un sector lleno de exit scams y fondos
+congelados, es el mayor motivo por el que un comercio duda en mover ingresos reales por ahí.
 
-Zeno's wedge is not a feature. It is **trust through transparency:**
-- The founder, **Hugo Pino**, is the public face — on camera, named, reachable, accountable.
-- We build in public: roadmap, numbers, decisions, even mistakes.
-- The product itself mirrors this: **on-chain record of every sale** (radical financial
-  transparency) and **your choice of custody** (we don't hide your money — you can hold your own keys).
+La cuña de Zeno no es una funcionalidad. Es **confianza a través de la transparencia:**
+- El founder, **Hugo Pino**, es la cara pública — en cámara, con nombre, contactable, responsable.
+- Construimos en público: hoja de ruta, números, decisiones, incluso errores.
+- El propio producto lo refleja: **registro on-chain de cada venta** (transparencia financiera
+  radical) y **tú eliges la custodia** (no escondemos tu dinero — puedes tener tus propias claves).
 
-So the message ladder is: *Transparent founder → transparent product → a gateway you
-can actually trust with your revenue → and by the way, it's also 30x cheaper.*
-Fees get them to stop scrolling. **Trust gets them to switch.**
+Así que la escalera del mensaje es: *Founder transparente → producto transparente → una
+pasarela en la que de verdad puedes confiar tus ingresos → y, por cierto, también es 30x más barata.*
+Las comisiones hacen que dejen de hacer scroll. **La confianza hace que cambien.**
 
-## 3. Messaging pillars (rotate across all channels)
-1. **Save on fees** — 0.1% vs 2.9%+. Margin math, "what your processor isn't telling you."
-2. **Get paid anywhere** — same 0.1% in any country, instant on-chain settlement, no FX games.
-3. **No more chargebacks** — on-chain finality kills friendly fraud and processor reserves.
-4. **Live in minutes** — WooCommerce/Shopify plugin, hosted checkout, or API/SDK.
-5. **Crypto income, done right** — compliance-positive education: record it, value it, declare it cleanly (on-chain record = audit-ready books). *Not tax advice.*
-6. **Proof** — merchant stories, before/after fee numbers, 300+ merchants, 5/5.
-7. **Founder & transparency** — Hugo building Zeno in public; "who's behind your money."
+## 3. Pilares de mensaje (rotan en todos los canales)
+1. **Ahorra en comisiones** — 0,1% vs 2,9%+. Matemática de margen, "lo que tu pasarela no te cuenta".
+2. **Cobra desde cualquier lugar** — mismo 0,1% en cualquier país, liquidación on-chain instantánea, sin juegos de tipo de cambio.
+3. **Adiós a los chargebacks** — la finalidad on-chain mata el fraude amistoso y las reservas que retienen las pasarelas.
+4. **En marcha en minutos** — plugin de WooCommerce/Shopify, checkout alojado, o API/SDK.
+5. **Ingresos en cripto, bien hechos** — educación pro-cumplimiento: regístralo, valóralo, decláralo limpio (registro on-chain = libros listos para auditoría). *No es asesoramiento fiscal.*
+6. **Pruebas** — historias de comercios, números de comisión antes/después, +300 comercios, 5/5.
+7. **Founder y transparencia** — Hugo construyendo Zeno en público; "quién está detrás de tu dinero".
 
-Target pillar mix per week: ~40% pillars 1–3 (pain/benefit hooks for reach), ~25%
-pillar 7 + founder face (trust/retention/conversion), ~20% pillars 4–6 (education/proof),
-~15% trend-jacking / reactive.
+Mezcla objetivo de pilares por semana: ~40% pilares 1–3 (hooks de dolor/beneficio para
+alcance), ~25% pilar 7 + cara del founder (confianza/retención/conversión), ~20% pilares
+4–6 (educación/pruebas), ~15% trend-jacking / reactivo.
 
-## 4. Audience (summary — full detail in `00b`)
-Crypto-fluent digital merchants doing ~$10k–$500k/mo who already touch crypto and are
-friction-aware. Three segments: (1) crypto-native Shopify/WooCommerce stores, (2) global
-digital-goods/SaaS/creator businesses, (3) cross-border / high-risk-vertical merchants
-& agencies. We do **not** do crypto-101 — we speak to people who already get it.
+## 4. Audiencia (resumen — detalle completo en `00b`)
+Comercios digitales cripto-fluidos que facturan ~10.000–500.000 $/mes, que ya tocan cripto
+y son conscientes de la fricción. Tres segmentos: (1) tiendas Shopify/WooCommerce cripto-nativas,
+(2) negocios globales de productos digitales/SaaS/creadores, (3) comercios y agencias
+transfronterizos / de verticales "difíciles de bancarizar". **No** hacemos cripto-101 —
+hablamos con gente que ya lo entiende.
 
-## 5. Voice & tone
-- **Straight-talking operator, not a hype influencer.** We sound like a founder who has
-  felt the pain, not a marketer. Confident, specific, numbers-first.
-- **Receipts over adjectives.** Show the fee line, the dashboard, the on-chain tx — don't claim "best," prove "0.1%."
-- **Calm about crypto.** No moon/lambo energy. Stablecoins and boring reliability are the heroes.
-- **Transparent to a fault.** Name the tradeoffs (e.g. "crypto is volatile — that's why we push stablecoins"). Honesty *is* the brand.
-- **Founder-personal.** First person from Hugo where it fits. "I built this because…"
-- Reading level: plain, punchy English. Short sentences. One idea per line on video.
+## 5. Voz y tono
+- **Operador que habla claro, no un influencer de hype.** Sonamos como un founder que ha
+  sentido el dolor, no como un marketero. Con confianza, específicos, los números primero.
+- **Recibos por encima de adjetivos.** Muestra la línea de comisión, el dashboard, la tx on-chain — no afirmes "el mejor", demuestra "0,1%".
+- **Calma con el cripto.** Nada de energía moon/lambo. Las stablecoins y la fiabilidad aburrida son las heroínas.
+- **Transparentes hasta el extremo.** Nombra los trade-offs (p. ej. "el cripto es volátil — por eso empujamos stablecoins"). La honestidad *es* la marca.
+- **Personal del founder.** En primera persona desde Hugo cuando encaje. "Construí esto porque…"
+- Nivel de lectura: español claro y directo. Frases cortas. Una idea por línea en vídeo.
 
-**Avoid:** financial-guarantee language, "get rich," anything that reads as tax-dodging,
-fake scarcity, jargon walls, and the word "revolutionary."
+**Evita:** lenguaje de garantía financiera, "hazte rico", cualquier cosa que suene a
+esquivar impuestos, escasez falsa, muros de jerga y la palabra "revolucionario".
 
-## 6. Funnel & how content maps to it
-| Stage | Goal | Organic role | Paid role | Primary CTA |
+## 6. Embudo y cómo el contenido se mapea a él
+| Etapa | Objetivo | Rol orgánico | Rol pagado | CTA principal |
 |---|---|---|---|---|
-| **Awareness (TOFU)** | Stop the scroll, name the pain | Hooky Reels/TikToks (fees, chargebacks, freezes) | Video-views / reach ads | Follow / watch |
-| **Consideration (MOFU)** | Build trust + show how | Founder content, demos, carousels, case studies | Traffic/engagement, retarget viewers | "See how it works" → site/demo |
-| **Conversion (BOFU)** | Get the signup | Proof, objection-busters, founder DMs | Conversion ads, retarget site/dashboard visitors | "Start in minutes" → dashboard.zenobank.io |
-| **Retention/Advocacy** | Turn merchants into proof | Merchant features, build-in-public wins | Lookalikes off converters | "Share your numbers" |
+| **Conocimiento (TOFU)** | Parar el scroll, nombrar el dolor | Reels/TikToks con gancho (comisiones, chargebacks, bloqueos) | Anuncios de alcance / reproducciones | Seguir / ver |
+| **Consideración (MOFU)** | Generar confianza + mostrar cómo | Contenido del founder, demos, carruseles, casos | Tráfico/interacción, retarget de espectadores | "Mira cómo funciona" → web/demo |
+| **Conversión (BOFU)** | Conseguir el registro | Pruebas, rompe-objeciones, DMs del founder | Anuncios de conversión, retarget de visitantes web/dashboard | "Empieza en minutos" → dashboard.zenobank.io |
+| **Retención/Recomendación** | Convertir comercios en pruebas | Features de comercios, victorias build-in-public | Lookalikes de los que convirtieron | "Comparte tus números" |
 
-North-star metric: **qualified dashboard signups** (merchant creates account + connects a store/checkout). See `09`.
+Métrica estrella (north-star): **registros cualificados en el dashboard** (el comercio crea
+cuenta + conecta una tienda/checkout). Ver `09`.
 
-## 7. Compliance guardrails (apply to EVERY asset — non-negotiable)
-- [ ] No framing of Zeno or content as a way to **avoid/evade tax** or **hide income** from authorities.
-- [ ] "No KYC" is described **only** as fast/low-friction onboarding, never as anonymity-from-the-taxman.
-- [ ] Any fiscal/"tax office" content is **educational** (declare correctly, keep clean records) and carries: *"This is general information, not tax or legal advice — consult a licensed professional in your country."*
-- [ ] No guaranteed returns / profit promises. Where holding crypto is mentioned, note volatility and that **stablecoins** mitigate it.
-- [ ] Claims are backed (0.1% fee, instant settlement, no chargebacks, 300+ merchants). Don't invent stats.
-- [ ] Meta Ads: respect Meta's crypto/financial-products policy (advertiser may need to be on Meta's approved crypto list / show licensing where required). Flag in `07`.
+## 7. Guardrails de cumplimiento (aplicar a CADA activo — innegociable)
+- [ ] Nada de enmarcar Zeno o el contenido como forma de **evitar/evadir impuestos** u **ocultar ingresos** a las autoridades.
+- [ ] El "sin KYC" se describe **solo** como alta rápida y sin fricción, nunca como anonimato-frente-al-fisco.
+- [ ] Cualquier contenido fiscal / "agencia tributaria" es **educativo** (declarar correctamente, llevar libros limpios) y lleva: *"Esto es información general, no asesoramiento fiscal ni legal — consulta a un profesional colegiado en tu país."*
+- [ ] Sin rentabilidades garantizadas / promesas de beneficio. Donde se mencione mantener cripto, señala la volatilidad y que las **stablecoins** la mitigan.
+- [ ] Las afirmaciones están respaldadas (comisión 0,1%, liquidación instantánea, sin chargebacks, +300 comercios). No inventes estadísticas.
+- [ ] Meta Ads: respeta la política de productos cripto/financieros de Meta (puede que el anunciante deba estar en la lista de anunciantes cripto aprobados / mostrar licencias donde se requiera). Señalado en `07`.
 
-## 8. Brand kit pointers (for designers / Canva / Higgsfield)
-- Keep visuals clean, fintech-trustworthy: dark UI + one accent, real dashboard screenshots, the on-chain receipt motif, and **Hugo's face** as a recurring brand asset.
-- Recurring visual devices: the "0.1% vs 2.9%" number smash, the "✅ settled" on-chain stamp, split-screen "old way / Zeno way."
-- Founder lower-third: "Hugo Pino — Founder, Zeno Bank" on every face-to-camera clip (reinforces the transparency wedge).
+## 8. Apuntes de brand kit (para diseñadores / Canva / Higgsfield)
+- Mantén lo visual limpio y con confianza fintech: UI oscura + un acento, capturas reales del dashboard, el motivo del recibo on-chain, y **la cara de Hugo** como activo de marca recurrente.
+- Recursos visuales recurrentes: el choque de cifras "0,1% vs 2,9%", el sello on-chain "✅ liquidado", la pantalla dividida "método antiguo / método Zeno".
+- Rótulo del founder: "Hugo Pino — Founder, Zeno Bank" en cada clip a cámara (refuerza la cuña de transparencia).

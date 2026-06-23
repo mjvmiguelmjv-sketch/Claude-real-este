@@ -1,100 +1,103 @@
-# 04 — 90-Day Content Calendar (12 weeks)
+# 04 — Calendario de Contenido de 90 Días (12 semanas)
 
-> Executable, not abstract: every slot references a real asset ID from
-> `05-shortform-scripts.md` (SF-xx), `10-founder-brand-playbook.md` (FV-xx), or
-> `06-carousels-and-captions.md` (CR-xx). Net-new ideas beyond the starter assets are
-> marked `[new]` — produce them using the same script template.
+> Ejecutable, no abstracto: cada hueco referencia un ID de activo real de
+> `05-shortform-scripts.md` (SF-xx), `10-founder-brand-playbook.md` (FV-xx) o
+> `06-carousels-and-captions.md` (CR-xx). Las ideas nuevas más allá de los activos iniciales
+> se marcan con `[nuevo]` — prodúcelas con la misma plantilla de guion.
 
-## Operating rhythm
-- **TikTok:** 1–2 short videos/day (lead platform; the factory).
-- **Instagram:** 4–5 Reels/week + 2–3 carousels/week + daily Stories.
-- **YouTube:** daily Shorts (repurposed) + 1 long-form/week (start week 2).
-- **Founder track:** ≥2–3 founder-led posts/week + 1 build-in-public (FV-04/FV-08/SF-10) every Mon or Fri.
-- **Repurpose flow:** film/batch on TikTok → winners to Reels + Shorts. Put paid behind proven hooks (see `07`).
-- **Weekly review (Fri):** check `09` metrics, double down on top hooks, retire flops.
+## Ritmo operativo
+- **TikTok:** 1–2 vídeos cortos/día (plataforma líder; la fábrica).
+- **Instagram:** 4–5 Reels/semana + 2–3 carruseles/semana + Stories a diario.
+- **YouTube:** Shorts a diario (reutilizados) + 1 formato largo/semana (empieza en la semana 2).
+- **Pista del founder:** ≥2–3 posts del founder/semana + 1 build-in-public (FV-04/FV-08/SF-10) cada lunes o viernes.
+- **Flujo de reutilización:** graba/lotea en TikTok → ganadores a Reels + Shorts. Pon pago detrás de los hooks probados (ver `07`).
+- **Revisión semanal (vie):** revisa las métricas de `09`, dobla la apuesta en los mejores hooks, retira los flops.
 
-## Phase map
-- **Weeks 1–4 — Foundation & reach:** establish pillars, seed the founder story, find winning hooks. Ads start at week 2 (TOFU only).
-- **Weeks 5–8 — Momentum & trust:** scale winners, deepen founder/build-in-public, layer MOFU ads + retargeting.
-- **Weeks 9–12 — Conversion & proof:** proof-heavy, objection-busting, BOFU ads + lookalikes; merchant features.
-
----
-
-## WEEK 1 — Launch: fees + founder intro
-| Day | TikTok/Reels | IG Carousel | Founder/Stories | YouTube |
-|---|---|---|---|---|
-| Mon | FV-01 (origin) | — | Build-in-public Story | Channel trailer (FV-01 cut) |
-| Tue | SF-01 (0.1% smash) | CR-01 (cost of fees) | Ask Hugo Story | Short: SF-01 |
-| Wed | SF-08 (POV Stripe) | — | Merchant DM Story | Short: SF-08 |
-| Thu | SF-03 (who's behind it) | CR-02 (who's behind) | Poll: "your fee?" | Short: SF-03 |
-| Fri | SF-10 (week 1 in the open) | — | Shipped recap | Short: SF-10 |
-| Sat | SF-14 (what 3% pays for) | — | BTS Story | Short: SF-14 |
-| Sun | FV-05 (math your Stripe bill) | — | Q&A sticker | — |
-
-## WEEK 2 — Chargebacks & trust (ADS START: TOFU)
-| Day | TikTok/Reels | IG Carousel | Founder/Stories | YouTube |
-|---|---|---|---|---|
-| Mon | SF-02 (un-reversible) | — | Build-in-public | Long-form #1 (Shopify setup) |
-| Tue | FV-02 (chargeback origin) | CR-08 (5 reasons convert) | Ask Hugo | Short: SF-02 |
-| Wed | SF-09 (PayPal froze) | — | Merchant win | Short: FV-02 |
-| Thu | FV-03 (is it a rug?) | CR-05 (why merchants switched) | Poll | Short: FV-03 |
-| Fri | SF-10 (week 2) | — | Shipped recap | Short: SF-10 |
-| Sat | SF-13 (processor said no) | — | BTS | Short: SF-13 |
-| Sun | SF-15 (AMA) | — | Q&A | — |
-
-## WEEK 3 — Cross-border & setup
-| Day | TikTok/Reels | IG Carousel | Founder/Stories | YouTube |
-|---|---|---|---|---|
-| Mon | SF-04 (same fee any country) | — | Build-in-public | Long-form #2 (Woo setup) |
-| Tue | SF-06 (Shopify in 5 min) | CR-03 (Shopify how-to) | Ask Hugo | Short: SF-06 |
-| Wed | FV-09 (banned? blockchain doesn't) | — | Merchant DM | Short: SF-04 |
-| Thu | SF-07 (volatility myth) | CR-04 (stablecoins) | Poll: "what stops you?" | Short: SF-07 |
-| Fri | FV-04 (what we shipped) | — | Shipped recap | Short: FV-04 |
-| Sat | `[new]` agency/dev angle | — | BTS | Short: repurpose |
-| Sun | FV-10 (ask the founder) | — | Q&A | — |
-
-## WEEK 4 — Custody & proof (find your winners)
-| Day | TikTok/Reels | IG Carousel | Founder/Stories | YouTube |
-|---|---|---|---|---|
-| Mon | SF-12 (your keys or ours) | — | Build-in-public | Long-form #8 (founder doc) |
-| Tue | FV-06 (custody choice) | CR-06 (custodial vs not) | Ask Hugo | Short: SF-12 |
-| Wed | SF-05 (300 merchants) | — | Merchant win | Short: SF-05 |
-| Thu | `[new]` re-cut of Wk1-3 top hook | CR-05 (proof) | Poll | Short |
-| Fri | SF-10 (week 4) | — | Month-1 recap (numbers!) | Short: SF-10 |
-| Sat | FV-08 (why I show our numbers) | — | BTS | Short: FV-08 |
-| Sun | SF-15 (AMA #2) | — | Q&A | — |
-
-> **End of Phase 1:** identify your 3–5 best-performing hooks (views, watch-time, saves,
-> profile visits). These become your scaled organic series **and** your Meta Ads creatives.
+## Mapa de fases
+- **Semanas 1–4 — Fundación y alcance:** establece pilares, siembra la historia del founder, encuentra hooks ganadores. Los ads arrancan en la semana 2 (solo TOFU).
+- **Semanas 5–8 — Momentum y confianza:** escala ganadores, profundiza founder/build-in-public, añade capa de ads MOFU + retargeting.
+- **Semanas 9–12 — Conversión y pruebas:** mucho contenido de prueba, rompe-objeciones, ads BOFU + lookalikes; features de comercios.
 
 ---
 
-## WEEKS 5–8 — Momentum & trust (compressed)
-Repeat the weekly skeleton (Mon build-in-public, Fri recap, ≥3 founder posts/wk) and:
-- **Double down** on the top hooks from Phase 1 — make variations (new examples, new numbers).
-- **Founder depth:** more FV-04/FV-08/FV-10 (build-in-public, transparency, AMAs). This is the trust-compounding phase.
-- **Education layer:** SF-11 + CR-07 (clean books) once for trust; CR-04/CR-06 reinforced.
-- **New assets to produce `[new]`:** 1 merchant interview Short, 1 "competitor comparison (fair)" piece, 1 "developer/agency" piece, 2 fresh fee/chargeback hooks weekly.
-- **Long-form (YT):** #3 (gateways compared), #4 (Stripe vs crypto), #5 (stop chargebacks).
-- **Ads:** scale TOFU winners; launch **MOFU** (retarget 25–95% video viewers + engagers) → traffic to demo/site. (See `07`.)
-- **Cadence target:** TikTok 1–2/day, Reels 5/wk, carousels 3/wk, Shorts daily.
+## SEMANA 1 — Lanzamiento: comisiones + presentación del founder
+| Día | TikTok/Reels | Carrusel IG | Founder/Stories | YouTube |
+|---|---|---|---|---|
+| Lun | FV-01 (origen) | — | Story build-in-public | Trailer del canal (corte FV-01) |
+| Mar | SF-01 (choque 0,1%) | CR-01 (coste de comisiones) | Story Pregúntale a Hugo | Short: SF-01 |
+| Mié | SF-08 (POV Stripe) | — | Story DM de comercio | Short: SF-08 |
+| Jue | SF-03 (quién está detrás) | CR-02 (quién está detrás) | Encuesta: "¿tu comisión?" | Short: SF-03 |
+| Vie | SF-10 (semana 1 en abierto) | — | Resumen de lo lanzado | Short: SF-10 |
+| Sáb | SF-14 (para qué da el 3%) | — | Story BTS | Short: SF-14 |
+| Dom | FV-05 (cuenta tu factura Stripe) | — | Sticker de preguntas | — |
 
-## WEEKS 9–12 — Conversion & proof (compressed)
-- **Proof-heavy:** weekly merchant feature/testimonial (Reel + carousel + Story), SF-05/CR-05 variations, real numbers.
-- **Objection-busting:** FV-03, SF-15, "is Zeno safe" deep-dives; address every recurring comment objection on camera.
-- **Compliance education revisited:** SF-11/CR-07 again (now that audience is warmer) — strictly guardrail-compliant.
-- **Founder push:** Hugo does a "why now / where we're going" build-in-public milestone.
-- **Long-form (YT):** #6 (custody), #7 (clean books), #9 (international), #10 (developer guide).
-- **Ads:** launch **BOFU** conversion campaign (retarget site + dashboard-signup-started) + **lookalikes** off signups; founder trust ad (AD-V-06) as a scaling creative. (See `07`.)
-- **End of Phase 3:** full-funnel review in `09`; lock the evergreen "always-on" set (top 10 organic hooks + top 3 ads) for ongoing rotation.
+## SEMANA 2 — Chargebacks y confianza (ARRANCAN ADS: TOFU)
+| Día | TikTok/Reels | Carrusel IG | Founder/Stories | YouTube |
+|---|---|---|---|---|
+| Lun | SF-02 (irreversible) | — | Build-in-public | Formato largo #1 (setup Shopify) |
+| Mar | FV-02 (origen chargeback) | CR-08 (5 razones convierte) | Pregúntale a Hugo | Short: SF-02 |
+| Mié | SF-09 (PayPal congeló) | — | Victoria de comercio | Short: FV-02 |
+| Jue | FV-03 (¿es un rug?) | CR-05 (por qué se cambiaron) | Encuesta | Short: FV-03 |
+| Vie | SF-10 (semana 2) | — | Resumen de lo lanzado | Short: SF-10 |
+| Sáb | SF-13 (la pasarela dijo no) | — | BTS | Short: SF-13 |
+| Dom | SF-15 (AMA) | — | Preguntas | — |
+
+## SEMANA 3 — Transfronterizo y setup
+| Día | TikTok/Reels | Carrusel IG | Founder/Stories | YouTube |
+|---|---|---|---|---|
+| Lun | SF-04 (misma comisión cualquier país) | — | Build-in-public | Formato largo #2 (setup Woo) |
+| Mar | SF-06 (Shopify en 5 min) | CR-03 (cómo en Shopify) | Pregúntale a Hugo | Short: SF-06 |
+| Mié | FV-09 (¿baneado? la blockchain no) | — | DM de comercio | Short: SF-04 |
+| Jue | SF-07 (mito de la volatilidad) | CR-04 (stablecoins) | Encuesta: "¿qué te frena?" | Short: SF-07 |
+| Vie | FV-04 (lo que lanzamos) | — | Resumen de lo lanzado | Short: FV-04 |
+| Sáb | `[nuevo]` ángulo agencia/dev | — | BTS | Short: reutilizar |
+| Dom | FV-10 (pregúntale al founder) | — | Preguntas | — |
+
+## SEMANA 4 — Custodia y pruebas (encuentra tus ganadores)
+| Día | TikTok/Reels | Carrusel IG | Founder/Stories | YouTube |
+|---|---|---|---|---|
+| Lun | SF-12 (tus claves o las nuestras) | — | Build-in-public | Formato largo #8 (documental founder) |
+| Mar | FV-06 (elección de custodia) | CR-06 (custodial vs no) | Pregúntale a Hugo | Short: SF-12 |
+| Mié | SF-05 (300 comercios) | — | Victoria de comercio | Short: SF-05 |
+| Jue | `[nuevo]` recorte del mejor hook S1–3 | CR-05 (pruebas) | Encuesta | Short |
+| Vie | SF-10 (semana 4) | — | Resumen del mes 1 (¡números!) | Short: SF-10 |
+| Sáb | FV-08 (por qué muestro nuestros números) | — | BTS | Short: FV-08 |
+| Dom | SF-15 (AMA #2) | — | Preguntas | — |
+
+> **Fin de la Fase 1:** identifica tus 3–5 hooks con mejor rendimiento (visualizaciones,
+> tiempo de visionado, guardados, visitas al perfil). Estos pasan a ser tu serie orgánica
+> escalada **y** tus creatividades de Meta Ads.
 
 ---
 
-## Always-on backlog (pull from when a slot opens)
-Trend-jacks, comment-reply videos, stitch/duet reactions, "Stripe statement" reactions
-(FV-05 format), merchant DMs, new fee math for current volumes, seasonal angles
-(year-end "add up your fees", tax-season "keep clean books" — guardrail-safe).
+## SEMANAS 5–8 — Momentum y confianza (comprimido)
+Repite el esqueleto semanal (lun build-in-public, vie resumen, ≥3 posts de founder/sem) y:
+- **Dobla la apuesta** en los mejores hooks de la Fase 1 — haz variaciones (nuevos ejemplos, nuevos números).
+- **Profundidad de founder:** más FV-04/FV-08/FV-10 (build-in-public, transparencia, AMAs). Esta es la fase de confianza compuesta.
+- **Capa educativa:** SF-11 + CR-07 (libros limpios) una vez para confianza; CR-04/CR-06 reforzados.
+- **Nuevos activos a producir `[nuevo]`:** 1 entrevista a comercio en Short, 1 pieza "comparativa de competidores (justa)", 1 pieza "developer/agencia", 2 hooks frescos de comisiones/chargebacks por semana.
+- **Formato largo (YT):** #3 (pasarelas comparadas), #4 (Stripe vs cripto), #5 (parar chargebacks).
+- **Ads:** escala los ganadores TOFU; lanza **MOFU** (retarget 25–95% de espectadores de vídeo + interactores) → tráfico a demo/web. (Ver `07`.)
+- **Cadencia objetivo:** TikTok 1–2/día, Reels 5/sem, carruseles 3/sem, Shorts a diario.
 
-## Production tip
-Batch-film **a full week of founder clips in one sitting**. Consistency of the founder
-face is the entire trust strategy — protect it with batching so it never slips.
+## SEMANAS 9–12 — Conversión y pruebas (comprimido)
+- **Mucha prueba:** feature/testimonio de comercio semanal (Reel + carrusel + Story), variaciones de SF-05/CR-05, números reales.
+- **Rompe-objeciones:** FV-03, SF-15, profundizaciones "¿es seguro Zeno?"; aborda cada objeción recurrente de los comentarios a cámara.
+- **Educación de cumplimiento revisitada:** SF-11/CR-07 otra vez (ahora que la audiencia está más caliente) — estrictamente conforme a guardrails.
+- **Empujón de founder:** Hugo hace un hito build-in-public de "por qué ahora / hacia dónde vamos".
+- **Formato largo (YT):** #6 (custodia), #7 (libros limpios), #9 (internacional), #10 (guía para devs).
+- **Ads:** lanza la campaña de conversión **BOFU** (retarget web + registro-iniciado en dashboard) + **lookalikes** de los registros; el ad de confianza del founder (AD-V-06) como creatividad de escalado. (Ver `07`.)
+- **Fin de la Fase 3:** revisión de embudo completo en `09`; fija el set "always-on" perenne (top 10 hooks orgánicos + top 3 ads) para rotación continua.
+
+---
+
+## Backlog always-on (saca de aquí cuando se abra un hueco)
+Trend-jacks, vídeos de respuesta a comentarios, reacciones stitch/duet, reacciones a
+"extracto de Stripe" (formato FV-05), DMs de comercios, nueva cuenta de comisiones para
+volúmenes actuales, ángulos de temporada (fin de año "suma tus comisiones", temporada de
+impuestos "lleva libros limpios" — seguro frente a guardrails).
+
+## Consejo de producción
+Graba por lotes **una semana entera de clips de founder en una sola sesión**. La consistencia
+de la cara del founder es toda la estrategia de confianza — protégela con el lote para que
+nunca se descuide.

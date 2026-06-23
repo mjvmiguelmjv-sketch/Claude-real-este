@@ -1,115 +1,117 @@
-# 06 — Instagram Carousels & Caption Bank
+# 06 — Carruseles de Instagram y Banco de Captions
 
-> 8 save-worthy carousels (IDs CR-01…CR-08), slide-by-slide. Carousels are the
-> teaching/trust format — they earn saves and shares and rank in IG search. Design:
-> big type, one idea per slide, brand accent, screenshots, last slide = CTA + "save this."
+> 8 carruseles que merece la pena guardar (IDs CR-01…CR-08), slide a slide. Los carruseles
+> son el formato de enseñanza/confianza — ganan guardados y compartidos y rankean en la
+> búsqueda de IG. Diseño: tipografía grande, una idea por slide, color de acento de marca,
+> capturas, última slide = CTA + "guarda esto".
 
 ---
 
-### CR-01 · "The real cost of card fees" (Pillar 1)
-1. **0.1% vs 2.9%. Here's what that actually costs you.**
-2. On $10k/mo: cards ≈ $290+/mo. Zeno: $10.
-3. On $100k/mo: cards ≈ $2,900+/mo. Zeno: $100.
-4. That's ~$33,000/year vs ~$1,200. Same sales.
-5. Plus cross-border + FX surcharges cards add on foreign orders.
-6. Crypto rails: flat 0.1%, instant settlement, any country.
-7. **Run it on your volume → zenobank.io. Save this for your next P&L.**
-- **Caption:** Most merchants never add up a full year of processing fees. Do it once and 0.1% stops sounding too good to be true. What's your monthly volume? 👇
+### CR-01 · "El coste real de las comisiones de tarjeta" (Pilar 1)
+1. **0,1% vs 2,9%. Esto es lo que de verdad te cuesta.**
+2. En 10.000 €/mes: tarjetas ≈ 290 €+/mes. Zeno: 10 €.
+3. En 100.000 €/mes: tarjetas ≈ 2.900 €+/mes. Zeno: 100 €.
+4. Eso es ~33.000 €/año vs ~1.200 €. Mismas ventas.
+5. Más recargos transfronterizos + de cambio que las tarjetas suman en pedidos extranjeros.
+6. Redes cripto: 0,1% plano, liquidación instantánea, cualquier país.
+7. **Hazlo con tu volumen → zenobank.io. Guarda esto para tu próxima cuenta de resultados.**
+- **Caption:** La mayoría de comercios nunca suman un año entero de comisiones de procesamiento. Hazlo una vez y el 0,1% deja de sonar demasiado bueno para ser verdad. ¿Cuál es tu volumen mensual? 👇
 - **#:** #ecommerce #stripe #cryptopayments #smallbusiness #profitmargin
 
-### CR-02 · "Who's actually behind your payment gateway?" (Pillar 7 / Trust)
-1. **Before you trust a gateway with your revenue — ask this.**
-2. Most crypto gateways: anonymous team. No name. No face.
-3. In an industry full of frozen funds & exit scams, that should worry you.
-4. Zeno is built in public by **Hugo Pino**, Founder. Named. Reachable.
-5. And you can go **non-custodial** — funds hit YOUR wallet, your keys.
-6. Trust shouldn't be required. But if you want it, here's a face for it.
-7. **Meet the team behind your money → zenobank.io. Save this.**
-- **Caption:** Anonymous is normal in crypto payments. We think that's exactly the problem. Hi, I'm Hugo. 👋
+### CR-02 · "¿Quién está de verdad detrás de tu pasarela de pago?" (Pilar 7 / Confianza)
+1. **Antes de confiar tus ingresos a una pasarela — pregunta esto.**
+2. La mayoría de pasarelas cripto: equipo anónimo. Sin nombre. Sin cara.
+3. En un sector lleno de fondos congelados y exit scams, eso debería preocuparte.
+4. Zeno está construido en público por **Hugo Pino**, Founder. Con nombre. Contactable.
+5. Y puedes ir **non-custodial** — los fondos llegan a TU wallet, tus claves.
+6. La confianza no debería ser obligatoria. Pero si la quieres, aquí hay una cara para ella.
+7. **Conoce al equipo detrás de tu dinero → zenobank.io. Guarda esto.**
+- **Caption:** Lo anónimo es lo normal en pagos cripto. Nosotros creemos que ese es justo el problema. Hola, soy Hugo. 👋
 - **#:** #buildinpublic #fintech #crypto #founder #cryptopayments
 
-### CR-03 · "How to accept crypto on Shopify (no code)" (Pillar 4)
-1. **Accept crypto on Shopify in 5 minutes. No developer.**
-2. Step 1: Create your Zeno dashboard account.
-3. Step 2: Integrations → Shopify → copy your API key.
-4. Step 3: Add the Zeno checkout / paste the key.
-5. Step 4: Send a test payment. See it settle instantly.
-6. Done. 0.1% fee, no merchant account, no PCI headache.
-7. **Full guide → zenobank.io. Save for setup day.**
-- **Caption:** "Crypto checkout is too technical" is a myth. Here's the whole thing in 5 steps. Save it for when you set up. 
+### CR-03 · "Cómo aceptar cripto en Shopify (sin código)" (Pilar 4)
+1. **Acepta cripto en Shopify en 5 minutos. Sin desarrollador.**
+2. Paso 1: Crea tu cuenta en el dashboard de Zeno.
+3. Paso 2: Integraciones → Shopify → copia tu API key.
+4. Paso 3: Añade el checkout de Zeno / pega la key.
+5. Paso 4: Envía un pago de prueba. Mira cómo liquida al instante.
+6. Listo. Comisión 0,1%, sin cuenta de comercio, sin quebraderos de PCI.
+7. **Guía completa → zenobank.io. Guárdala para el día del setup.**
+- **Caption:** "El checkout cripto es demasiado técnico" es un mito. Aquí está todo en 5 pasos. Guárdalo para cuando lo montes.
 - **#:** #shopify #ecommerce #cryptopayments #tutorial #onlinebusiness
 
-### CR-04 · "Stablecoins, explained for business owners" (Pillar 5 / education)
-1. **You can accept crypto without touching volatility. Here's how.**
-2. Stablecoins (USDC, USDT, PYUSD) are pegged 1:1 to the US dollar.
-3. Customer pays $100 in USDC → you receive $100 in USDC.
-4. No price swings between checkout and settlement.
-5. They move on fast, cheap chains (Base, Solana, Polygon, Tron…).
-6. You decide what you accept — stablecoins only, if you want.
-7. **Accept dollars, on-chain → zenobank.io. Save this.**
-- **Caption:** The #1 objection to crypto payments is volatility. Stablecoins quietly solved it. *(Crypto involves risk — do your own research.)*
+### CR-04 · "Stablecoins, explicadas para dueños de negocio" (Pilar 5 / educación)
+1. **Puedes aceptar cripto sin tocar la volatilidad. Aquí está cómo.**
+2. Las stablecoins (USDC, USDT, PYUSD) están ancladas 1:1 al dólar estadounidense.
+3. El cliente paga 100 $ en USDC → tú recibes 100 $ en USDC.
+4. Sin oscilaciones de precio entre el checkout y la liquidación.
+5. Se mueven por redes rápidas y baratas (Base, Solana, Polygon, Tron…).
+6. Tú decides qué aceptas — solo stablecoins, si quieres.
+7. **Acepta dólares, on-chain → zenobank.io. Guarda esto.**
+- **Caption:** La objeción nº1 a los pagos cripto es la volatilidad. Las stablecoins la resolvieron en silencio. *(El cripto implica riesgo — haz tu propia investigación.)*
 - **#:** #stablecoins #usdc #usdt #cryptopayments #ecommerce
 
-### CR-05 · "Why merchants switched to Zeno" (Pillar 6 / Proof)
-1. **300+ merchants. 5/5. Here's what they actually wanted.**
-2. "I was done losing 3% on every sale." → 0.1%.
-3. "I lost another chargeback dispute." → on-chain = final.
-4. "PayPal held my payout 90 days." → your wallet, your keys.
-5. "My processor rejected my niche." → permissionless settlement.
-6. "Who even runs this thing?" → Hugo Pino, in public.
-7. **Join 300+ merchants → zenobank.io. Save this.**
-- **Caption:** Every switch story is one of these five pains. Which one's yours? 👇
+### CR-05 · "Por qué los comercios se cambiaron a Zeno" (Pilar 6 / Pruebas)
+1. **300+ comercios. 5/5. Esto es lo que de verdad querían.**
+2. "Estaba harto de perder el 3% en cada venta." → 0,1%.
+3. "Perdí otra disputa de chargeback." → on-chain = final.
+4. "PayPal me retuvo el pago 90 días." → tu wallet, tus claves.
+5. "Mi pasarela rechazó mi nicho." → liquidación permisionless.
+6. "¿Quién dirige esto?" → Hugo Pino, en público.
+7. **Únete a 300+ comercios → zenobank.io. Guarda esto.**
+- **Caption:** Cada historia de cambio es uno de estos cinco dolores. ¿Cuál es el tuyo? 👇
 - **#:** #socialproof #ecommerce #saas #cryptopayments #smallbusiness
 
-### CR-06 · "Custodial vs non-custodial (and why you should care)" (Trust/education)
-1. **Who holds your money? With Zeno, that's YOUR choice.**
-2. **Custodial:** Zeno secures the wallet & keys. Zero effort for you.
-3. **Non-custodial:** funds go straight to your wallet. You hold the keys.
-4. Most gateways decide for you. We let you choose.
-5. Either way: 0.1% fee, instant settlement, on-chain record.
-6. Want control? Go non-custodial. Want convenience? We've got it.
-7. **Pick your setup → zenobank.io. Save this.**
-- **Caption:** "Not your keys, not your coins" applies to your business too. So we made it your call.
+### CR-06 · "Custodial vs non-custodial (y por qué te importa)" (Confianza/educación)
+1. **¿Quién guarda tu dinero? Con Zeno, eso lo eliges TÚ.**
+2. **Custodial:** Zeno asegura la wallet y las claves. Cero esfuerzo para ti.
+3. **Non-custodial:** los fondos van directos a tu wallet. Tú tienes las claves.
+4. La mayoría de pasarelas deciden por ti. Nosotros te dejamos elegir.
+5. En ambos casos: comisión 0,1%, liquidación instantánea, registro on-chain.
+6. ¿Quieres control? Ve non-custodial. ¿Quieres comodidad? La tenemos.
+7. **Elige tu configuración → zenobank.io. Guarda esto.**
+- **Caption:** "Not your keys, not your coins" también aplica a tu negocio. Así que lo dejamos en tu mano.
 - **#:** #selfcustody #web3 #crypto #fintech #cryptopayments
 
-### CR-07 · "Keep clean books on crypto sales" (Pillar 5 / compliance-positive)
-1. **Paid in crypto? Here's how to stay audit-ready.** *(Not tax advice.)*
-2. Every sale is recorded **on-chain** — a permanent, timestamped receipt.
-3. Export your transaction history from the dashboard.
-4. Record each sale's value **at the time it happened**.
-5. Crypto income is **declarable income** — treat it like any revenue.
-6. Hand clean records to a licensed accountant. Done right, not hidden.
-7. **Audit-ready by design → zenobank.io.** *Consult a pro in your country.*
-- **Caption:** Transparency is the whole point — for us and for your books. This is general info, not tax advice; talk to a licensed professional where you operate.
+### CR-07 · "Lleva libros limpios de las ventas en cripto" (Pilar 5 / pro-cumplimiento)
+1. **¿Cobras en cripto? Aquí está cómo estar listo para auditoría.** *(No es asesoramiento fiscal.)*
+2. Cada venta queda registrada **on-chain** — un recibo permanente y con fecha.
+3. Exporta tu historial de transacciones desde el dashboard.
+4. Registra el valor de cada venta **en el momento en que ocurrió**.
+5. Los ingresos en cripto son **ingresos declarables** — trátalos como cualquier facturación.
+6. Entrega registros limpios a un contable colegiado. Bien hecho, no escondido.
+7. **Listo para auditoría por diseño → zenobank.io.** *Consulta a un profesional en tu país.*
+- **Caption:** La transparencia es el sentido de todo esto — para nosotros y para tus libros. Esto es información general, no asesoramiento fiscal; habla con un profesional colegiado donde operes.
 - **#:** #bookkeeping #smallbusiness #crypto #accounting #ecommerce
 
-### CR-08 · "5 reasons crypto checkout converts better" (Pillar 2/3 mixed)
-1. **5 reasons crypto checkout can beat cards on conversion.**
-2. No card declines on international orders.
-3. No chargebacks → no risk-based blocking of good customers.
-4. Instant settlement → better cash flow.
-5. Reaches 1B+ crypto users cards don't serve well.
-6. Mobile-ready hosted checkout, no PCI friction.
-7. **Add it alongside cards → zenobank.io. Save this.**
-- **Caption:** Crypto checkout isn't either/or — add it next to cards and stop losing the customers cards reject. 
+### CR-08 · "5 razones por las que el checkout cripto convierte mejor" (Pilar 2/3 mezclado)
+1. **5 razones por las que el checkout cripto puede ganar a las tarjetas en conversión.**
+2. Sin tarjetas rechazadas en pedidos internacionales.
+3. Sin chargebacks → sin bloqueo por riesgo de buenos clientes.
+4. Liquidación instantánea → mejor flujo de caja.
+5. Llega a +1.000 M de usuarios cripto a los que las tarjetas no sirven bien.
+6. Checkout alojado mobile-ready, sin fricción de PCI.
+7. **Añádelo junto a las tarjetas → zenobank.io. Guarda esto.**
+- **Caption:** El checkout cripto no es o lo uno o lo otro — añádelo junto a las tarjetas y deja de perder a los clientes que las tarjetas rechazan.
 - **#:** #conversion #ecommerce #crypto #crossborder #onlinebusiness
 
 ---
 
-## Reusable caption bank (mix & match)
-- "Cards take 2.9%+. We take 0.1%. The other 2.9% stays yours."
-- "Your revenue shouldn't live in someone else's account."
-- "Anonymous gateway? In crypto? Hard pass. Hi, I'm Hugo."
-- "On-chain payments are final — there's nothing to charge back."
-- "Same fee in every country. The blockchain doesn't do borders."
-- "Stablecoins = dollars on-chain. Volatility is optional."
-- "Built in public. My name's on it. Your keys can be too."
+## Banco de captions reutilizables (mezcla y combina)
+- "Las tarjetas se llevan 2,9%+. Nosotros 0,1%. El otro 2,9% se queda tuyo."
+- "Tus ingresos no deberían vivir en la cuenta de otro."
+- "¿Pasarela anónima? ¿En cripto? Paso. Hola, soy Hugo."
+- "Los pagos on-chain son finales — no hay nada que hacer chargeback."
+- "Misma comisión en cada país. La blockchain no entiende de fronteras."
+- "Stablecoins = dólares on-chain. La volatilidad es opcional."
+- "Construido en público. Mi nombre está en ello. Tus claves también pueden."
 
-## Comment-prompt bank (drive engagement on every post)
-- "What's your monthly processing fee? Guess, then check. 👇"
-- "Ever lost a chargeback? Tell me what happened."
-- "What country are your customers in?" · "What's stopping you from accepting crypto?"
+## Banco de prompts de comentario (impulsa interacción en cada post)
+- "¿Cuál es tu comisión mensual de procesamiento? Adivina, luego compruébalo. 👇"
+- "¿Has perdido alguna vez un chargeback? Cuéntame qué pasó."
+- "¿En qué país están tus clientes?" · "¿Qué te frena para aceptar cripto?"
 
-## Guardrail note
-CR-07 (and any fiscal caption) **must** keep the "not tax advice / consult a licensed
-professional" line, and never imply hiding income. Transparency = clean & declarable, always.
+## Nota de guardrails
+CR-07 (y cualquier caption fiscal) **debe** mantener la línea "no es asesoramiento fiscal /
+consulta a un profesional colegiado", y nunca insinuar ocultar ingresos. Transparencia =
+limpio y declarable, siempre.

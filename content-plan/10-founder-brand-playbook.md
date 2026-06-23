@@ -1,111 +1,108 @@
-# 10 — Founder Brand Playbook: Hugo Pino (the trust engine)
+# 10 — Playbook de Marca del Founder: Hugo Pino (el motor de confianza)
 
-> This is Zeno's unfair advantage. Competitors are faceless; Hugo is the face. This
-> playbook turns "who's behind it?" — the #1 reason crypto merchants hesitate — into
-> the #1 reason they choose Zeno.
+> Esta es la ventaja injusta de Zeno. La competencia no tiene cara; Hugo sí. Este playbook
+> convierte el "¿quién está detrás?" — el motivo nº1 por el que un comercio cripto duda —
+> en el motivo nº1 por el que elige Zeno.
 
-## The core idea
-People don't trust logos with their revenue; they trust **people who put their name and
-face on the line.** Every faceless competitor is a frozen-funds horror story waiting to
-happen in a merchant's mind. Hugo standing there — named, reachable, building in public —
-is the antidote. We make the founder inseparable from the brand.
+## La idea central
+La gente no confía sus ingresos a logos; confía en **personas que ponen su nombre y su
+cara**. Cada competidor sin cara es, en la mente del comercio, una historia de terror de
+fondos congelados esperando a pasar. Hugo ahí de pie — con nombre, contactable, construyendo
+en público — es el antídoto. Hacemos al founder inseparable de la marca.
 
-## Hugo's founder narrative (the spine of all founder content)
-Use and remix these beats; keep them honest and specific (fill brackets with real detail):
-1. **The pain that started it:** "I watched businesses lose [X] to fees / get their funds
-   frozen / get rejected by processors — including [my own / a friend's] business."
-2. **The faceless-industry problem:** "Every crypto gateway promised low fees. None of
-   them would tell you who they were. I wouldn't trust them with $10 — why would you trust them with your revenue?"
-3. **The bet:** "So I built Zeno in the open. My name's on it. You can hold your own keys.
-   Every sale is on-chain. 0.1%. No hiding — from me or from your accountant."
-4. **The mission:** "Make accepting money as a business cheap, instant, global, and
-   trustworthy — by a company you can actually look in the eye."
+## La narrativa del founder de Hugo (la columna de todo el contenido de founder)
+Usa y remezcla estos beats; mantenlos honestos y específicos (rellena los corchetes con datos reales):
+1. **El dolor que lo inició:** "Vi a negocios perder [X] en comisiones / que les congelaran los fondos / que las pasarelas los rechazaran — incluido [mi propio / el de un amigo] negocio."
+2. **El problema del sector sin cara:** "Todas las pasarelas cripto prometían comisiones bajas. Ninguna te decía quién era. No les confiaría ni 10 $ — ¿por qué les confiarías tus ingresos?"
+3. **La apuesta:** "Así que construí Zeno a la vista de todos. Mi nombre está en ello. Puedes tener tus propias claves. Cada venta queda on-chain. 0,1%. Sin esconder nada — ni de mí ni de tu contable."
+4. **La misión:** "Hacer que cobrar como negocio sea barato, instantáneo, global y de confianza — de la mano de una empresa a la que puedes mirar a los ojos."
 
-> Always pair transparency with compliance: "in the open" means honest and auditable,
-> never "off the books." Hugo is the guy who makes your books *cleaner*, not the guy who hides money.
+> Empareja siempre transparencia con cumplimiento: "a la vista de todos" significa honesto
+> y auditable, nunca "fuera de los libros". Hugo es el tipo que hace tus libros *más limpios*,
+> no el que esconde dinero.
 
-## Content formats for the founder track
-1. **"Why I built Zeno" origin clips** (15–60s, face-to-camera). The emotional anchor.
-2. **Build-in-public updates** — weekly: shipped features, merchant count, a number, a decision, a mistake fixed. Radical transparency as content.
-3. **Objection-busters** — Hugo answers one hard question per video ("Is Zeno a rug? Here's why it can't be."). Confidence + receipts.
-4. **Fee/chargeback reactions** — Hugo reacts to a merchant's Stripe statement or chargeback horror story, does the math live.
-5. **"Ask the founder"** — Hugo answers DMs/comments on camera. Reachability = trust.
-6. **Behind-the-scenes** — the real human: workspace, team, shipping, the unglamorous reality. Anti-hype.
-7. **Merchant calls / testimonials with Hugo** — founder + customer on screen together.
+## Formatos de contenido para la pista del founder
+1. **Clips de origen "Por qué construí Zeno"** (15–60s, a cámara). El ancla emocional.
+2. **Updates build-in-public** — semanal: features lanzadas, número de comercios, una cifra, una decisión, un error corregido. Transparencia radical como contenido.
+3. **Rompe-objeciones** — Hugo responde una pregunta difícil por vídeo ("¿Es Zeno un rug? Aquí está por qué no puede serlo."). Confianza + recibos.
+4. **Reacciones a comisiones/chargebacks** — Hugo reacciona al extracto de Stripe de un comercio o a una historia de terror de chargebacks, hace la cuenta en directo.
+5. **"Pregúntale al founder"** — Hugo responde DMs/comentarios a cámara. Estar accesible = confianza.
+6. **Behind-the-scenes** — el humano real: espacio de trabajo, equipo, lanzando, la realidad poco glamurosa. Anti-hype.
+7. **Llamadas/testimonios con comercios y Hugo** — founder + cliente juntos en pantalla.
 
-## Cadence (sustainable, not heroic)
-- **2–3 founder-led posts/week** minimum across IG+TikTok (repurpose to YouTube Shorts).
-- **1 build-in-public update/week** (Mon or Fri) — make it a recurring, expected series.
-- **1 long-form/week optional** on YouTube (founder talking head or merchant interview).
-- Batch-film: record 4–6 short clips in one sitting to stay consistent without daily filming.
+## Cadencia (sostenible, no heroica)
+- **2–3 posts liderados por el founder/semana** mínimo entre IG+TikTok (reutilízalos a YouTube Shorts).
+- **1 update build-in-public/semana** (lunes o viernes) — conviértelo en una serie recurrente y esperada.
+- **1 formato largo/semana opcional** en YouTube (talking head del founder o entrevista a comercio).
+- Graba por lotes: 4–6 clips cortos en una sola sesión para mantener consistencia sin filmar a diario.
 
-## Production notes (low-friction, high-trust)
-- **Authentic > polished.** Phone camera, good light, clean audio, real settings beat
-  over-produced ads for a trust play. Subtitles always (most watch muted).
-- **Lower-third every clip:** "Hugo Pino — Founder, Zeno Bank."
-- **First 1.5s = a face + a claim.** A real human face stops the scroll and signals trust instantly.
-- **End every founder video** with a transparent CTA: "I'm Hugo. DM me 'ZENO' or try it at zenobank.io. Your keys, your call."
+## Notas de producción (poca fricción, mucha confianza)
+- **Auténtico > pulido.** Cámara de móvil, buena luz, audio limpio y escenarios reales ganan
+  a anuncios sobreproducidos en una jugada de confianza. Subtítulos siempre (la mayoría ve sin sonido).
+- **Rótulo en cada clip:** "Hugo Pino — Founder, Zeno Bank."
+- **Primer 1,5s = una cara + una afirmación.** Una cara humana real para el scroll y transmite confianza al instante.
+- **Cierra cada vídeo de founder** con un CTA transparente: "Soy Hugo. Mándame un DM con 'ZENO' o pruébalo en zenobank.io. Tus claves, tu decisión."
 
-## 10 ready-to-shoot founder video scripts (IDs FV-01 … FV-10)
+## 10 guiones de vídeo de founder listos para grabar (IDs FV-01 … FV-10)
 
-**FV-01 — "Why I put my face on a crypto company" (origin / trust)**
-- Hook (on cam): "Every crypto payment company hides who runs it. I'm doing the opposite — and here's why."
-- Beats: faceless industry → frozen-funds fear → "so I'm Hugo, this is my company, my name's on it" → your-keys option → 0.1%.
-- CTA: "You should know who's behind the company holding your money. Now you do."
+**FV-01 — "Por qué pongo mi cara en una empresa cripto" (origen / confianza)**
+- Hook (a cámara): "Todas las empresas de pagos cripto esconden quién las dirige. Yo hago lo contrario — y aquí está el porqué."
+- Beats: sector sin cara → miedo a fondos congelados → "así que soy Hugo, esta es mi empresa, mi nombre está en ella" → opción tus-claves → 0,1%.
+- CTA: "Deberías saber quién está detrás de la empresa que guarda tu dinero. Ahora lo sabes."
 
-**FV-02 — "The chargeback that made me build Zeno" (origin / pain)**
-- Hook: "A business lost [$X] to a single chargeback. That's the day Zeno started."
-- Beats: tell the story → "with on-chain payments, this literally can't happen — final the second it confirms" → quick how.
-- CTA: "Never lose a chargeback again. zenobank.io."
+**FV-02 — "El chargeback que me hizo construir Zeno" (origen / dolor)**
+- Hook: "Un negocio perdió [X $] por un solo chargeback. Ese fue el día en que nació Zeno."
+- Beats: cuenta la historia → "con pagos on-chain, esto literalmente no puede pasar — final en el segundo en que confirma" → cómo, rápido.
+- CTA: "No vuelvas a perder un chargeback. zenobank.io."
 
-**FV-03 — "Is Zeno a rug? Let me answer that directly." (objection-buster)**
-- Hook: "People ask if Zeno's a rug. Good. You SHOULD ask that about every crypto company."
-- Beats: name the fear → 3 reasons it can't be (non-custodial option = your keys; named founder = me; on-chain = public) → "ask me anything in the comments."
-- CTA: "Ask the hard questions. I'll answer on camera."
+**FV-03 — "¿Es Zeno un rug? Déjame responder directamente." (rompe-objeciones)**
+- Hook: "La gente pregunta si Zeno es un rug. Bien. DEBERÍAS preguntar eso de cada empresa cripto."
+- Beats: nombra el miedo → 3 razones por las que no puede serlo (non-custodial = tus claves; founder con nombre = yo; on-chain = público) → "pregúntame lo que sea en los comentarios".
+- CTA: "Haz las preguntas difíciles. Las respondo a cámara."
 
-**FV-04 — Build-in-public: "What we shipped this week" (recurring series)**
-- Hook: "Zeno, in the open — week [N]." 
-- Beats: 1 feature shipped + 1 real number (merchants/volume) + 1 thing we got wrong and fixed.
-- CTA: "Following the build? Hit follow. Trying it? zenobank.io."
+**FV-04 — Build-in-public: "Lo que lanzamos esta semana" (serie recurrente)**
+- Hook: "Zeno, a la vista de todos — semana [N]."
+- Beats: 1 feature lanzada + 1 número real (comercios/volumen) + 1 cosa que hicimos mal y corregimos.
+- CTA: "¿Sigues la construcción? Dale a seguir. ¿Lo pruebas? zenobank.io."
 
-**FV-05 — "I'll do the math on your Stripe bill" (fee reaction)**
-- Hook: "Send me your Stripe statement. I'll show you what Zeno would've charged."
-- Beats: take a real/example statement → 2.9%+ vs 0.1% → annualize the savings on camera.
-- CTA: "DM me your numbers. I'll run it. No pitch."
+**FV-05 — "Te hago la cuenta de tu factura de Stripe" (reacción a comisiones)**
+- Hook: "Mándame tu extracto de Stripe. Te muestro lo que te habría cobrado Zeno."
+- Beats: coge un extracto real/de ejemplo → 2,9%+ vs 0,1% → anualiza el ahorro a cámara.
+- CTA: "Mándame tus números por DM. Te lo calculo. Sin pitch."
 
-**FV-06 — "Your keys or mine — you choose. Most companies don't let you." (product transparency)**
-- Hook: "With most gateways, your money sits in their wallet. With Zeno, that's YOUR choice."
-- Beats: custodial vs non-custodial explained simply → "we built non-custodial because trust shouldn't be required" → 0.1% either way.
-- CTA: "Hold your own keys. Try it."
+**FV-06 — "Tus claves o las mías — tú eliges. La mayoría no te deja." (transparencia de producto)**
+- Hook: "Con la mayoría de pasarelas, tu dinero está en SU wallet. Con Zeno, eso lo eliges TÚ."
+- Beats: custodial vs non-custodial explicado sencillo → "construimos lo non-custodial porque la confianza no debería ser obligatoria" → 0,1% en ambos casos.
+- CTA: "Ten tus propias claves. Pruébalo."
 
-**FV-07 — "How to keep clean books on crypto sales" (compliance-positive education)**
-- Hook: "Getting paid in crypto doesn't mean messy taxes. Here's how to keep it clean."
-- Beats: every sale is on-chain = a permanent receipt → export records → "value it at sale, record it, give it to your accountant."
-- On-screen + caption disclaimer: "General info, not tax advice — talk to a licensed pro in your country."
-- CTA: "Audit-ready by design. That's the point."
+**FV-07 — "Cómo llevar libros limpios de ventas en cripto" (educación pro-cumplimiento)**
+- Hook: "Cobrar en cripto no significa impuestos hechos un lío. Aquí está cómo mantenerlo limpio."
+- Beats: cada venta está on-chain = un recibo permanente → exporta los registros → "valóralo en el momento de la venta, regístralo, dáselo a tu contable".
+- Disclaimer en pantalla + caption: "Información general, no asesoramiento fiscal — habla con un profesional colegiado en tu país."
+- CTA: "Listo para auditoría por diseño. Ese es el punto."
 
-**FV-08 — "Why I show our real numbers" (radical transparency)**
-- Hook: "Most founders hide their metrics. I'll show you ours — here's why that matters for YOU."
-- Beats: transparency as a promise → "if I'll show you our numbers, you can trust how we handle yours."
-- CTA: "Follow the build. zenobank.io."
+**FV-08 — "Por qué muestro nuestros números reales" (transparencia radical)**
+- Hook: "La mayoría de founders esconden sus métricas. Yo te muestro las nuestras — aquí está por qué eso te importa a TI."
+- Beats: la transparencia como promesa → "si te muestro nuestros números, puedes confiar en cómo manejamos los tuyos".
+- CTA: "Sigue la construcción. zenobank.io."
 
-**FV-09 — "Got banned by your processor? The blockchain doesn't ban you." (segment C)**
-- Hook: "If a payment processor has ever rejected your business, watch this."
-- Beats: who gets throttled → permissionless settlement → live in minutes, your keys.
-- CTA: "Can't get shut down. zenobank.io."
+**FV-09 — "¿Te baneó tu pasarela? La blockchain no te banea." (segmento C)**
+- Hook: "Si una pasarela de pago ha rechazado alguna vez tu negocio, mira esto."
+- Beats: a quién estrangulan → liquidación permisionless → en marcha en minutos, tus claves.
+- CTA: "No te pueden cerrar. zenobank.io."
 
-**FV-10 — "Ask the founder anything" (reachability)**
-- Hook: "I read every comment. Here are your top 3 questions about Zeno."
-- Beats: answer 3 real comments honestly, including a tradeoff.
-- CTA: "Drop your question. I'll answer the next one on camera."
+**FV-10 — "Pregúntale lo que sea al founder" (accesibilidad)**
+- Hook: "Leo todos los comentarios. Aquí van vuestras 3 preguntas principales sobre Zeno."
+- Beats: responde 3 comentarios reales con honestidad, incluido un trade-off.
+- CTA: "Deja tu pregunta. Respondo la siguiente a cámara."
 
-## Transparency assets to publish (proof, not just words)
-- A public **"Who we are"** page/post: founder name, photo, mission, contact.
-- A recurring **metrics/build-log** post series (merchants, uptime, features).
-- **Non-custodial explainer** pinned content (your-keys proof).
-- **Open comments/DMs policy** — Hugo visibly answering. Responsiveness is the proof.
+## Activos de transparencia para publicar (pruebas, no solo palabras)
+- Una página/post público **"Quiénes somos"**: nombre del founder, foto, misión, contacto.
+- Una serie recurrente de posts de **métricas/registro de construcción** (comercios, uptime, features).
+- **Explicador non-custodial** como contenido fijado (prueba de tus-claves).
+- **Política abierta de comentarios/DMs** — Hugo respondiendo a la vista. La capacidad de respuesta es la prueba.
 
-## Guardrail reminder for founder content
-Transparency = honest, auditable, reachable. It does **not** mean positioning Hugo or
-Zeno as a way to avoid tax or hide money. The founder's credibility depends on staying
-firmly on the right side of that line — it's also what makes the trust play believable.
+## Recordatorio de guardrails para el contenido de founder
+Transparencia = honesto, auditable, accesible. **No** significa posicionar a Hugo ni a Zeno
+como forma de evitar impuestos u ocultar dinero. La credibilidad del founder depende de
+mantenerse firmemente del lado correcto de esa línea — y es justo lo que hace creíble la jugada de confianza.

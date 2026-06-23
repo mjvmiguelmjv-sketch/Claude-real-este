@@ -1,70 +1,71 @@
-# 01 — Instagram Playbook
+# 01 — Playbook de Instagram
 
-## Role of Instagram in the system
-The **trust + consideration** channel. Reels drive reach; carousels drive saves/shares
-and do the teaching; Stories/DMs convert and humanize. Instagram is where the **founder
-brand** lives most richly (Stories, face-to-camera Reels, DMs from Hugo).
+## Rol de Instagram en el sistema
+El canal de **confianza + consideración**. Los Reels generan alcance; los carruseles generan
+guardados/compartidos y son los que enseñan; las Stories/DMs convierten y humanizan. Instagram
+es donde la **marca del founder** vive con más riqueza (Stories, Reels a cámara, DMs de Hugo).
 
-## Profile optimization (do this first)
-- **Handle:** @zenobank (consistent across platforms).
-- **Name field (searchable!):** "Zeno Bank · Crypto Payments 0.1%".
-- **Bio (lead with proof + founder + CTA):**
-  > Accept crypto at 0.1%. Instant settlement, zero chargebacks.
-  > Built in public by Hugo Pino 👋 — your keys or ours.
-  > 👇 Start in minutes
-- **Link:** use a link-in-bio (Start free → dashboard.zenobank.io, Docs, WooCommerce/Shopify plugin, Demo store, Book a call).
-- **Highlights:** ▸ How it works ▸ Fees (0.1%) ▸ No chargebacks ▸ Meet Hugo ▸ Merchant wins ▸ Setup (Shopify/Woo) ▸ FAQ/Trust.
-- **Pinned posts (3):** the founder origin Reel (FV-01), the "0.1% vs 2.9%" fee Reel (SF-01), a merchant proof carousel (CR-05).
+## Optimización del perfil (hazlo primero)
+- **Handle:** @zenobank (consistente en todas las plataformas).
+- **Campo de nombre (¡buscable!):** "Zeno Bank · Pagos Cripto 0,1%".
+- **Bio (empieza con prueba + founder + CTA):**
+  > Acepta cripto al 0,1%. Liquidación instantánea, cero chargebacks.
+  > Construido en público por Hugo Pino 👋 — tus claves o las nuestras.
+  > 👇 Empieza en minutos
+- **Enlace:** usa un link-in-bio (Empieza gratis → dashboard.zenobank.io, Docs, plugin WooCommerce/Shopify, Tienda demo, Reserva una llamada).
+- **Destacadas:** ▸ Cómo funciona ▸ Comisiones (0,1%) ▸ Sin chargebacks ▸ Conoce a Hugo ▸ Victorias de comercios ▸ Setup (Shopify/Woo) ▸ FAQ/Confianza.
+- **Posts fijados (3):** el Reel de origen del founder (FV-01), el Reel de comisión "0,1% vs 2,9%" (SF-01), un carrusel de prueba de comercio (CR-05).
 
-## Format mix (weekly)
-- **Reels: 4–5/week** — primary reach. Hooks from `05-shortform-scripts.md`.
-- **Carousels: 2–3/week** — saves/teaching from `06-carousels-and-captions.md`.
-- **Stories: daily (3–5 frames)** — build-in-public, polls, "ask Hugo," merchant DMs (screenshots w/ permission), behind-the-scenes.
-- **1 founder face-to-camera Reel/week** minimum (FV series).
+## Mezcla de formatos (semanal)
+- **Reels: 4–5/semana** — alcance principal. Hooks de `05-shortform-scripts.md`.
+- **Carruseles: 2–3/semana** — guardados/enseñanza de `06-carousels-and-captions.md`.
+- **Stories: a diario (3–5 frames)** — build-in-public, encuestas, "pregúntale a Hugo", DMs de comercios (capturas con permiso), behind-the-scenes.
+- **1 Reel del founder a cámara/semana** mínimo (serie FV).
 
-## Reels best practices (tuned for this ICP)
-- **Hook in 1.5s** — text on screen + spoken. Numbers ("0.1%", "$3,000 saved") and faces stop the scroll.
-- **Captions/subtitles always** (muted viewing). On-screen text reinforces, doesn't duplicate VO word-for-word.
-- **Keep 15–35s** for benefit/pain content; up to 60s for founder/story.
-- **Native feel** > ad feel. Real dashboard, real receipts, real Hugo.
-- **One idea, one CTA.** End with a verbal + text CTA and a comment prompt ("comment 'FEES' for the breakdown").
-- **Loop & re-hook:** make the last frame flow into the first to boost replays.
+## Buenas prácticas de Reels (afinadas para este ICP)
+- **Hook en 1,5s** — texto en pantalla + hablado. Números ("0,1%", "3.000 $ ahorrados") y caras paran el scroll.
+- **Subtítulos siempre** (visionado sin sonido). El texto en pantalla refuerza, no duplica palabra por palabra la voz en off.
+- **Mantén 15–35s** para contenido de beneficio/dolor; hasta 60s para founder/historia.
+- **Sensación nativa** > sensación de anuncio. Dashboard real, recibos reales, Hugo real.
+- **Una idea, un CTA.** Cierra con un CTA hablado + texto y un prompt de comentario ("comenta 'COMISIONES' para el desglose").
+- **Loop y re-hook:** haz que el último frame fluya hacia el primero para subir las repeticiones.
 
-## Carousels (the save/share engine)
-- 6–10 slides. Slide 1 = scroll-stopping promise/number. Last slide = CTA + "save this."
-- Teaching, comparisons, checklists, "5 ways," before/after fee math, "how to declare crypto income (clean)".
-- Design: high contrast, big type, one point per slide, brand accent, screenshots.
+## Carruseles (el motor de guardado/compartido)
+- 6–10 slides. Slide 1 = promesa/número que para el scroll. Última slide = CTA + "guarda esto".
+- Enseñanza, comparativas, checklists, "5 formas de", cuenta de comisión antes/después, "cómo declarar ingresos en cripto (limpio)".
+- Diseño: alto contraste, tipografía grande, un punto por slide, color de acento de marca, capturas.
 
-## Stories playbook (daily, low effort, high trust)
-- **Mon:** build-in-public ("this week we're shipping…").
-- **Tue/Thu:** "Ask Hugo" sticker → answer in later frames.
-- **Wed:** merchant win / DM screenshot (with permission).
-- **Fri:** "what we shipped" recap + poll.
-- Always include a **link sticker** to the relevant page.
-- Use **polls/quizzes** ("What's your Stripe fee? 2.9% / 3.4% / I don't even know") — engagement + market research.
+## Playbook de Stories (a diario, poco esfuerzo, mucha confianza)
+- **Lun:** build-in-public ("esta semana lanzamos…").
+- **Mar/Jue:** sticker "Pregúntale a Hugo" → responde en frames posteriores.
+- **Mié:** victoria de comercio / captura de DM (con permiso).
+- **Vie:** resumen "lo que lanzamos" + encuesta.
+- Incluye siempre un **sticker de enlace** a la página relevante.
+- Usa **encuestas/quizzes** ("¿Cuál es tu comisión de Stripe? 2,9% / 3,4% / ni lo sé") — interacción + investigación de mercado.
 
-## Hashtag & discovery strategy
-- Use **5–10 relevant** tags, mixing sizes (avoid spammy 30-tag blocks):
-  - Niche/intent: #cryptopayments #acceptcrypto #usdt #stablecoins #cryptocheckout
-  - Audience: #ecommerce #shopify #woocommerce #saas #onlinebusiness #dropshipping
-  - Founder/trust: #buildinpublic #founderjourney #fintech
-- Put the **keyword in the first line of the caption** and in on-screen text (IG search is increasingly semantic).
-- **Collabs:** co-post merchant features (Collab posts) to borrow their audience.
+## Estrategia de hashtags y descubrimiento
+- Usa **5–10 etiquetas relevantes**, mezclando tamaños (evita bloques spam de 30):
+  - Nicho/intención: #cryptopayments #acceptcrypto #usdt #stablecoins #cryptocheckout
+  - Audiencia: #ecommerce #shopify #woocommerce #saas #onlinebusiness #dropshipping
+  - Founder/confianza: #buildinpublic #founderjourney #fintech
+- Pon la **palabra clave en la primera línea del caption** y en el texto en pantalla (la búsqueda de IG es cada vez más semántica).
+- **Colaboraciones:** co-publica features de comercios (posts de Colaboración) para tomar prestada su audiencia.
 
-## Caption framework
-1. **Hook line** (mirror the video hook + a keyword).
-2. **2–4 short lines** of value/story (the "so what").
-3. **CTA** ("Start at zenobank.io" / "comment 'X'").
-4. **Disclaimer** if fiscal/financial.
-5. Hashtags (below a line break or first comment).
+## Estructura del caption
+1. **Línea de hook** (refleja el hook del vídeo + una palabra clave).
+2. **2–4 líneas cortas** de valor/historia (el "y qué").
+3. **CTA** ("Empieza en zenobank.io" / "comenta 'X'").
+4. **Disclaimer** si es fiscal/financiero.
+5. Hashtags (tras un salto de línea o en el primer comentario).
 
-## Growth tactics
-- **Reply to every comment** in the first 60 min (Hugo's voice where possible) — drives ranking + trust.
-- **Pin a top comment** that adds the CTA/link.
-- **Repurpose** top TikToks to Reels (remove TikTok watermark; re-upload natively).
-- **Collab + DM** merchants you feature; turn features into testimonials and Collab posts.
-- Run **engagement Stories** before a big Reel drop to warm the audience.
+## Tácticas de crecimiento
+- **Responde a cada comentario** en los primeros 60 min (con la voz de Hugo donde se pueda) — impulsa ranking + confianza.
+- **Fija un comentario destacado** que añada el CTA/enlace.
+- **Reutiliza** los mejores TikToks a Reels (quita la marca de agua de TikTok; re-súbelo de forma nativa).
+- **Colabora + DM** a los comercios que destaques; convierte features en testimonios y posts de Colaboración.
+- Lanza **Stories de interacción** antes de un Reel grande para calentar a la audiencia.
 
-## KPIs for IG (see `09` for targets)
-Reach, plays, saves, shares (north-star for IG content quality), profile visits → link clicks,
-DM conversations started, follower growth, and link-in-bio → dashboard signups.
+## KPIs de IG (objetivos en `09`)
+Alcance, reproducciones, guardados, compartidos (north-star de la calidad del contenido de IG),
+visitas al perfil → clics en el enlace, conversaciones de DM iniciadas, crecimiento de seguidores
+y link-in-bio → registros en el dashboard.

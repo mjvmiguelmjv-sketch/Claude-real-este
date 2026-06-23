@@ -1,138 +1,138 @@
-# 05 — Short-Form Scripts (Reels / TikTok / Shorts)
+# 05 — Guiones Short-Form (Reels / TikTok / Shorts)
 
-> 15 ready-to-shoot scripts. Each: **ID · pillar · hook · on-screen text · VO/beats ·
-> caption · hashtags · CTA.** Subtitles always. Founder face where noted. Apply the
-> compliance guardrails before publishing. Founder-only scripts (FV-01…FV-10) live in
-> `10-founder-brand-playbook.md` — use both sets in the calendar.
+> 15 guiones listos para grabar. Cada uno: **ID · pilar · hook · texto en pantalla · voz
+> en off/beats · caption · hashtags · CTA.** Subtítulos siempre. Cara del founder donde se
+> indica. Aplica los guardrails de cumplimiento antes de publicar. Los guiones solo-founder
+> (FV-01…FV-10) están en `10-founder-brand-playbook.md` — usa ambos sets en el calendario.
 
 ---
 
-### SF-01 · Pillar 1 (Fees) · "The 0.1% vs 2.9% smash"
-- **Hook (0–1.5s):** Face/cam: "Your payment processor is quietly taking thousands from you. Watch."
-- **On-screen:** "2.9% + 30¢" ⟶ "0.1%"
-- **Beats:** "On $100k in sales, cards take ~$3,000+. Zeno takes $100." [type the math on screen] "Same sale. Same customer. 30x less." [show dashboard fee line]
-- **Caption:** Cards take 2.9%+. We take 0.1%. Do the math on YOUR volume 👇 What's your monthly revenue?
+### SF-01 · Pilar 1 (Comisiones) · "El choque 0,1% vs 2,9%"
+- **Hook (0–1,5s):** A cámara: "Tu pasarela de pago te está quitando miles de euros en silencio. Mira."
+- **Texto en pantalla:** "2,9% + 30¢" ⟶ "0,1%"
+- **Beats:** "En 100.000 € de ventas, las tarjetas se llevan ~3.000 €+. Zeno se lleva 100 €." [escribe la cuenta en pantalla] "Misma venta. Mismo cliente. 30x menos." [muestra la línea de comisión del dashboard]
+- **Caption:** Las tarjetas se llevan 2,9%+. Nosotros 0,1%. Haz la cuenta con TU volumen 👇 ¿Cuál es tu facturación mensual?
 - **Hashtags:** #cryptopayments #ecommerce #shopify #stripe #smallbusiness
-- **CTA:** "Run your numbers at zenobank.io. Comment your volume, I'll tell you what you'd save."
+- **CTA:** "Calcula tus números en zenobank.io. Comenta tu volumen y te digo cuánto ahorrarías."
 
-### SF-02 · Pillar 3 (Chargebacks) · "Make your money un-reversible"
-- **Hook:** "A customer can take your money back months after you shipped. Unless you do this."
-- **On-screen:** "Chargeback = you lose the product AND the money"
-- **Beats:** explain friendly fraud → "on-chain payments are final the second they confirm. No reversal. No dispute. No reserve." → show confirmed tx.
-- **Caption:** Digital sellers lose almost every chargeback. With on-chain payments, there's nothing to reverse. 
+### SF-02 · Pilar 3 (Chargebacks) · "Haz tu dinero irreversible"
+- **Hook:** "Un cliente puede recuperar tu dinero meses después de que enviaras el producto. Salvo que hagas esto."
+- **Texto en pantalla:** "Chargeback = pierdes el producto Y el dinero"
+- **Beats:** explica el fraude amistoso → "los pagos on-chain son finales en el segundo en que confirman. Sin reversión. Sin disputa. Sin reserva." → muestra tx confirmada.
+- **Caption:** Los vendedores digitales pierden casi todos los chargebacks. Con pagos on-chain, no hay nada que revertir.
 - **Hashtags:** #chargebacks #ecommerce #digitalproducts #crypto #onlinebusiness
-- **CTA:** "Stop losing chargebacks → zenobank.io"
+- **CTA:** "Deja de perder chargebacks → zenobank.io"
 
-### SF-03 · Pillar 7 (Trust/Founder) · "Who's behind your gateway?" [Hugo]
-- **Hook (Hugo, cam):** "You're about to route your revenue through a company. Do you even know who runs it?"
-- **On-screen:** "Most crypto gateways: 🤷 anonymous" / "Zeno: Hugo Pino, Founder"
-- **Beats:** "In an industry full of frozen funds and disappearing teams, anonymous should scare you. I'm Hugo. My name's on Zeno. And you can hold your own keys — so you don't even have to trust me."
-- **Caption:** Would you hand your money to a faceless company? Me neither. So I built the opposite.
+### SF-03 · Pilar 7 (Confianza/Founder) · "¿Quién está detrás de tu pasarela?" [Hugo]
+- **Hook (Hugo, a cámara):** "Estás a punto de mover tus ingresos por una empresa. ¿Sabes siquiera quién la dirige?"
+- **Texto en pantalla:** "La mayoría de pasarelas cripto: 🤷 anónimas" / "Zeno: Hugo Pino, Founder"
+- **Beats:** "En un sector lleno de fondos congelados y equipos que desaparecen, anónimo debería darte miedo. Soy Hugo. Mi nombre está en Zeno. Y puedes tener tus propias claves — así ni siquiera tienes que confiar en mí."
+- **Caption:** ¿Le darías tu dinero a una empresa sin cara? Yo tampoco. Así que construí lo contrario.
 - **Hashtags:** #buildinpublic #crypto #fintech #founder #cryptopayments
-- **CTA:** "Meet the team behind your money → zenobank.io"
+- **CTA:** "Conoce al equipo detrás de tu dinero → zenobank.io"
 
-### SF-04 · Pillar 2 (Cross-border) · "Same fee, any country"
-- **Hook:** "Selling internationally? Your card processor is punishing you for it."
-- **On-screen:** "Cross-border card fee: +1–3.5%" / "Zeno: 0.1% everywhere"
-- **Beats:** "Cards add cross-border + FX on every foreign sale. Crypto rails work the same in Mexico, Vietnam, or the Netherlands — 0.1%, instant, no FX games."
-- **Caption:** One checkout. One fee. Every country. 🌍
+### SF-04 · Pilar 2 (Transfronterizo) · "Misma comisión, cualquier país"
+- **Hook:** "¿Vendes a nivel internacional? Tu pasarela de tarjeta te está castigando por ello."
+- **Texto en pantalla:** "Comisión transfronteriza de tarjeta: +1–3,5%" / "Zeno: 0,1% en todas partes"
+- **Beats:** "Las tarjetas suman comisiones transfronterizas + cambio de divisa en cada venta extranjera. Las redes cripto funcionan igual en México, Vietnam o los Países Bajos — 0,1%, instantáneo, sin juegos de tipo de cambio."
+- **Caption:** Un checkout. Una comisión. Cada país. 🌍
 - **Hashtags:** #crossborder #ecommerce #crypto #stablecoins #globalbusiness
-- **CTA:** "Get paid anywhere → zenobank.io"
+- **CTA:** "Cobra desde cualquier lugar → zenobank.io"
 
-### SF-05 · Pillar 6 (Proof) · "300 merchants can't be wrong"
-- **Hook:** "What do 300+ businesses know that you don't?"
-- **On-screen:** "0.1% · instant · no chargebacks · 5/5"
-- **Beats:** quick montage of dashboard + a merchant quote/screenshot (with permission) → the 4 reasons.
-- **Caption:** 300+ merchants. 5/5. 0.1%. The receipts are on-chain. 
+### SF-05 · Pilar 6 (Pruebas) · "300 comercios no pueden estar equivocados"
+- **Hook:** "¿Qué saben 300+ negocios que tú no?"
+- **Texto en pantalla:** "0,1% · instantáneo · sin chargebacks · 5/5"
+- **Beats:** montaje rápido de dashboard + una cita/captura de comercio (con permiso) → las 4 razones.
+- **Caption:** 300+ comercios. 5/5. 0,1%. Los recibos están on-chain.
 - **Hashtags:** #socialproof #ecommerce #cryptopayments #saas #smallbusiness
-- **CTA:** "Join them → zenobank.io"
+- **CTA:** "Únete a ellos → zenobank.io"
 
-### SF-06 · Pillar 4 (Setup) · "Crypto checkout on Shopify in 5 minutes"
-- **Hook:** "You think accepting crypto is complicated. Watch me set it up in real time."
-- **On-screen:** screen-record, timer running.
-- **Beats:** install plugin → paste API key → enable → test payment → "done. Under 5 minutes."
-- **Caption:** No merchant account. No paperwork. Plugin → API key → live. 
+### SF-06 · Pilar 4 (Setup) · "Checkout cripto en Shopify en 5 minutos"
+- **Hook:** "Crees que aceptar cripto es complicado. Mira cómo lo monto en tiempo real."
+- **Texto en pantalla:** screen-record, cronómetro corriendo.
+- **Beats:** instala el plugin → pega la API key → activa → pago de prueba → "listo. Menos de 5 minutos."
+- **Caption:** Sin cuenta de comercio. Sin papeleo. Plugin → API key → en marcha.
 - **Hashtags:** #shopify #woocommerce #ecommerce #cryptopayments #tutorial
-- **CTA:** "Setup guide in bio → zenobank.io"
+- **CTA:** "Guía de setup en la bio → zenobank.io"
 
-### SF-07 · Pillar 5/curiosity · "Accepting crypto ≠ volatility" (myth-bust)
-- **Hook:** "'I can't accept crypto, it's too volatile.' Wrong — and here's the part nobody explains."
-- **On-screen:** "Accept STABLECOINS" / "USDC · USDT · PYUSD = $1"
-- **Beats:** "Stablecoins are pegged to the dollar. You get $100 worth, you keep $100 worth. Volatility is optional — you choose what you accept."
-- **Caption:** Volatility is a choice, not a requirement. Accept stablecoins. 
+### SF-07 · Pilar 5/curiosidad · "Aceptar cripto ≠ volatilidad" (rompe-mitos)
+- **Hook:** "'No puedo aceptar cripto, es demasiado volátil.' Falso — y aquí está la parte que nadie explica."
+- **Texto en pantalla:** "Acepta STABLECOINS" / "USDC · USDT · PYUSD = 1 $"
+- **Beats:** "Las stablecoins están ancladas al dólar. Recibes 100 € de valor, te quedas 100 € de valor. La volatilidad es opcional — tú eliges qué aceptas."
+- **Caption:** La volatilidad es una elección, no un requisito. Acepta stablecoins.
 - **Hashtags:** #stablecoins #usdc #usdt #cryptopayments #ecommerce
-- **CTA:** "Accept dollars-on-chain → zenobank.io"
-- **Note:** include risk nuance; no guarantees.
+- **CTA:** "Acepta dólares-on-chain → zenobank.io"
+- **Nota:** incluye matiz de riesgo; sin garantías.
 
-### SF-08 · Pillar 1 (Fees) · "POV: your Stripe statement" (relatable)
-- **Hook:** "POV: you finally read your Stripe statement for the year."
-- **On-screen:** "Processing fees: $[big number] 😵"
-- **Beats:** react/zoom on the fee total → "that's a salary. That's ad budget. That's 0.1% with Zeno instead."
-- **Caption:** Add up a year of card fees. Then add up 0.1%. We'll wait. 
+### SF-08 · Pilar 1 (Comisiones) · "POV: tu extracto de Stripe" (relatable)
+- **Hook:** "POV: por fin lees tu extracto de Stripe del año."
+- **Texto en pantalla:** "Comisiones de procesamiento: [número grande] € 😵"
+- **Beats:** reacciona/haz zoom al total de comisiones → "eso es un sueldo. Eso es presupuesto de ads. Eso es 0,1% con Zeno en su lugar."
+- **Caption:** Suma un año de comisiones de tarjeta. Luego suma el 0,1%. Esperamos.
 - **Hashtags:** #stripe #ecommerce #smallbusiness #fees #crypto
-- **CTA:** "See what you'd keep → zenobank.io"
+- **CTA:** "Mira lo que te quedarías → zenobank.io"
 
-### SF-09 · Pillar 3/Trust (segment B) · "PayPal froze my money" (pain story)
-- **Hook:** "PayPal can freeze your entire balance tomorrow — no warning, no reason."
-- **On-screen:** "$[X] frozen · 180 days"
-- **Beats:** the freeze story (common reality) → "with non-custodial crypto checkout, the money goes to YOUR wallet. No one can freeze it."
-- **Caption:** Your revenue shouldn't live in someone else's account. Your keys, your money.
+### SF-09 · Pilar 3/Confianza (segmento B) · "PayPal me congeló el dinero" (historia de dolor)
+- **Hook:** "PayPal puede congelarte todo el saldo mañana — sin aviso, sin motivo."
+- **Texto en pantalla:** "[X] € congelados · 180 días"
+- **Beats:** la historia de la congelación (realidad común) → "con checkout cripto non-custodial, el dinero va a TU wallet. Nadie lo puede congelar."
+- **Caption:** Tus ingresos no deberían vivir en la cuenta de otro. Tus claves, tu dinero.
 - **Hashtags:** #paypal #frozenfunds #digitalproducts #crypto #onlinebusiness
-- **CTA:** "Own your payouts → zenobank.io"
+- **CTA:** "Sé dueño de tus cobros → zenobank.io"
 
-### SF-10 · Pillar 7 (Build-in-public) · "Zeno in the open — week N" [Hugo]
-- **Hook (Hugo):** "Zeno, in the open. Week [N]. Here's what we shipped and the number I'm not hiding."
-- **On-screen:** "Shipped: [feature]" / "Merchants: [#]"
-- **Beats:** 1 feature + 1 real metric + 1 thing we'll fix next.
-- **Caption:** Building Zeno in public. Here's the receipt. Follow the build 👇
+### SF-10 · Pilar 7 (Build-in-public) · "Zeno a la vista de todos — semana N" [Hugo]
+- **Hook (Hugo):** "Zeno, a la vista de todos. Semana [N]. Esto es lo que lanzamos y el número que no escondo."
+- **Texto en pantalla:** "Lanzado: [feature]" / "Comercios: [#]"
+- **Beats:** 1 feature + 1 métrica real + 1 cosa que corregiremos a continuación.
+- **Caption:** Construyendo Zeno en público. Aquí está el recibo. Sigue la construcción 👇
 - **Hashtags:** #buildinpublic #startup #fintech #crypto #founder
-- **CTA:** "Follow the build → @zenobank"
+- **CTA:** "Sigue la construcción → @zenobank"
 
-### SF-11 · Pillar 5 (Compliance education) · "Keep crypto sales clean for tax time"
-- **Hook:** "Getting paid in crypto does NOT have to mean a tax mess. Here's how to keep it clean."
-- **On-screen:** "Every sale = an on-chain receipt"
-- **Beats:** "1) every transaction is recorded on-chain — a permanent receipt. 2) export your records. 3) value each sale at the time it happened. 4) hand it to your accountant. Audit-ready by design."
-- **On-screen + caption disclaimer:** "General info, not tax advice — consult a licensed pro in your country."
-- **Caption:** Crypto income is declarable income. Keeping it clean is easy when every sale is on-chain. *(Not tax advice.)*
+### SF-11 · Pilar 5 (Educación pro-cumplimiento) · "Mantén limpias las ventas en cripto para Hacienda"
+- **Hook:** "Cobrar en cripto NO tiene por qué ser un lío de impuestos. Aquí está cómo mantenerlo limpio."
+- **Texto en pantalla:** "Cada venta = un recibo on-chain"
+- **Beats:** "1) cada transacción queda registrada on-chain — un recibo permanente. 2) exporta tus registros. 3) valora cada venta en el momento en que ocurrió. 4) entrégaselo a tu contable. Listo para auditoría por diseño."
+- **Disclaimer en pantalla + caption:** "Información general, no asesoramiento fiscal — consulta a un profesional colegiado en tu país."
+- **Caption:** Los ingresos en cripto son ingresos declarables. Mantenerlos limpios es fácil cuando cada venta está on-chain. *(No es asesoramiento fiscal.)*
 - **Hashtags:** #smallbusiness #bookkeeping #crypto #ecommerce #accounting
-- **CTA:** "Clean records by default → zenobank.io"
+- **CTA:** "Registros limpios por defecto → zenobank.io"
 
-### SF-12 · Pillar 6/Trust · "Your keys or ours? You choose." (custody)
-- **Hook:** "Most payment apps hold your money for you — whether you like it or not."
-- **On-screen:** "Custodial (we hold) ⟷ Non-custodial (YOU hold)"
-- **Beats:** explain both simply → "want zero effort? We secure it. Want full control? Funds go straight to your wallet, your keys. 0.1% either way."
-- **Caption:** The only gateway that lets you decide who holds your money. 
+### SF-12 · Pilar 6/Confianza · "¿Tus claves o las nuestras? Tú eliges." (custodia)
+- **Hook:** "La mayoría de apps de pago guardan tu dinero por ti — te guste o no."
+- **Texto en pantalla:** "Custodial (lo guardamos) ⟷ Non-custodial (lo guardas TÚ)"
+- **Beats:** explica ambas sencillo → "¿quieres cero esfuerzo? Lo aseguramos nosotros. ¿Quieres control total? Los fondos van directos a tu wallet, tus claves. 0,1% en ambos casos."
+- **Caption:** La única pasarela que te deja decidir quién guarda tu dinero.
 - **Hashtags:** #selfcustody #crypto #cryptopayments #web3 #fintech
-- **CTA:** "Your money, your call → zenobank.io"
+- **CTA:** "Tu dinero, tu decisión → zenobank.io"
 
-### SF-13 · Pillar 2/Segment C · "Your processor said no. The blockchain didn't."
-- **Hook:** "If a payment processor ever rejected or banned your business — this is your fix."
-- **On-screen:** "Rejected ❌ → Permissionless ✅"
-- **Beats:** who gets throttled (high-risk verticals, certain countries) → "blockchain rails don't gatekeep. Accept payments globally, settle instantly, your keys."
-- **Caption:** No approvals. No bans. No frozen funds. Just payments.
+### SF-13 · Pilar 2/Segmento C · "Tu pasarela dijo que no. La blockchain no."
+- **Hook:** "Si una pasarela de pago rechazó o baneó alguna vez tu negocio — esta es tu solución."
+- **Texto en pantalla:** "Rechazado ❌ → Permisionless ✅"
+- **Beats:** a quién estrangulan (verticales de alto riesgo, ciertos países) → "las redes blockchain no hacen de portero. Acepta pagos globalmente, liquida al instante, tus claves."
+- **Caption:** Sin aprobaciones. Sin baneos. Sin fondos congelados. Solo pagos.
 - **Hashtags:** #highrisk #payments #crypto #onlinebusiness #ecommerce
-- **CTA:** "Can't be shut down → zenobank.io"
+- **CTA:** "No te pueden cerrar → zenobank.io"
 
-### SF-14 · Pillar 1 (Fees) · "What 0.1% pays for" (reframe)
-- **Hook:** "What could you do with the 3% you hand your processor every month?"
-- **On-screen:** "3% → ads? hires? margin?"
-- **Beats:** quick list (more ad spend, a hire, actual profit) → "Zeno keeps it at 0.1%. The other 2.9% stays yours."
-- **Caption:** Your fees are someone else's budget. Keep them.
+### SF-14 · Pilar 1 (Comisiones) · "Para qué da el 0,1%" (reencuadre)
+- **Hook:** "¿Qué podrías hacer con el 3% que le das a tu pasarela cada mes?"
+- **Texto en pantalla:** "3% → ¿ads? ¿contratar? ¿margen?"
+- **Beats:** lista rápida (más inversión en ads, una contratación, beneficio de verdad) → "Zeno lo mantiene en 0,1%. El otro 2,9% se queda tuyo."
+- **Caption:** Tus comisiones son el presupuesto de otro. Quédatelas.
 - **Hashtags:** #ecommerce #profitmargin #smallbusiness #crypto #stripe
-- **CTA:** "Keep your margin → zenobank.io"
+- **CTA:** "Conserva tu margen → zenobank.io"
 
-### SF-15 · Pillar 7 (Trust/Founder) · "Ask me anything" [Hugo]
-- **Hook (Hugo):** "I read every comment. Here's the question I get most about Zeno — answered straight."
-- **On-screen:** the question, e.g. "Is my money safe?"
-- **Beats:** answer honestly incl. a tradeoff → "got a harder question? Drop it. I'll answer the next one on camera."
-- **Caption:** Ask the founder anything. I'll answer — even the uncomfortable ones.
+### SF-15 · Pilar 7 (Confianza/Founder) · "Pregúntame lo que sea" [Hugo]
+- **Hook (Hugo):** "Leo todos los comentarios. Aquí está la pregunta que más me hacen sobre Zeno — respondida de frente."
+- **Texto en pantalla:** la pregunta, p. ej. "¿Está seguro mi dinero?"
+- **Beats:** responde con honestidad incluido un trade-off → "¿tienes una pregunta más difícil? Déjala. Respondo la siguiente a cámara."
+- **Caption:** Pregúntale lo que sea al founder. Respondo — incluso las incómodas.
 - **Hashtags:** #askmeanything #founder #crypto #buildinpublic #fintech
-- **CTA:** "Comment your question → I'll answer"
+- **CTA:** "Comenta tu pregunta → la respondo"
 
 ---
 
-## Production checklist (every script)
-- [ ] Hook lands in ≤1.5s (text + spoken). [ ] Subtitles burned in. [ ] One CTA.
-- [ ] Founder lower-third on FV/SF-Hugo clips. [ ] Vertical 9:16, clean audio.
-- [ ] Compliance check: no evasion framing; disclaimer on fiscal pieces; no guarantees.
-- [ ] Filmed for repurposing across TikTok → Reels → Shorts.
+## Checklist de producción (cada guion)
+- [ ] El hook aterriza en ≤1,5s (texto + hablado). [ ] Subtítulos incrustados. [ ] Un CTA.
+- [ ] Rótulo del founder en los clips FV/SF-Hugo. [ ] Vertical 9:16, audio limpio.
+- [ ] Chequeo de cumplimiento: sin encuadre de evasión; disclaimer en piezas fiscales; sin garantías.
+- [ ] Grabado para reutilizar entre TikTok → Reels → Shorts.
