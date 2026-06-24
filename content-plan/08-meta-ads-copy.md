@@ -84,6 +84,28 @@
 
 ---
 
+## ➕ Copys Iteración 2 (conversión-first · objeción de confianza · LATAM · comment-to-DM)
+
+> Estos son los copys vigentes. Lenguaje que **autofiltra** al ICP (Andromeda lo usa para
+> targetizar) y CTA de **conversación** (comment-to-DM / Click-to-Message), no "link in bio".
+
+**Ángulo objeción de confianza ("no me fío del 0,1%"):**
+1. "Si una comisión del 0,1% te suena a mentira, bien — desconfía. En cripto, deberías. Te enseño dónde está (y dónde NO está) la trampa: founder con cara, prueba on-chain y tus propias claves. Escríbenos ZENO."
+2. "No competimos por ser baratos. Cryptomus también cobra 0,1%. Competimos porque sabes quién soy (Hugo) y porque el dinero puede ir a TU wallet. Comenta ZENO."
+
+**Ángulo LATAM / necesidad (Venezuela, Perú, Argentina):**
+3. "Tu moneda se devalúa; tus ventas no deberían. Tus clientes ya te pagan en USDT y por Binance Pay — cóbralo en un solo checkout, al 0,1%, y si quieres con tus claves para que nadie te lo congele. Comenta DÓLAR."
+4. "En LATAM el dinero del banco no siempre es tuyo del todo. Cobra en dólar-on-chain, a tu wallet, con un founder que da la cara. Escríbenos y te lo montamos."
+
+**Ángulo testimonio (autofiltra con jerga del ICP):**
+5. "'[CITA DE DOLOR REAL]'. [NEGOCIO] implementó Zeno y [RESULTADO/CIFRA]. 0,1%, sin chargebacks, on-chain. Si esto te suena, comenta CASO."
+
+**CTAs de conversación (para Click-to-Message / comment-to-DM):**
+"Comenta ZENO" · "Comenta DÓLAR" · "Comenta CASO" · "Comenta EXTRACTO (te calculo tu Stripe)"
+· "Escríbenos y Hugo te resuelve las dudas". 
+**Titulares Iteración 2:** "¿Dónde está la trampa del 0,1%?" · "Tus clientes ya pagan en USDT" ·
+"La pasarela cripto con cara" · "Cobra en dólar-on-chain, tus claves".
+
 ## Checklist de cumplimiento para cada anuncio (debe pasar antes de publicar)
 - [ ] Encuadre B2B/comercio (software de pagos) — no inversión / "gana dinero con cripto".
 - [ ] Sin rentabilidades garantizadas, sin "hazte rico", sin urgencia/escasez falsa.

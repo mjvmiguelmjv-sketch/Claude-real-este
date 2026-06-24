@@ -16,15 +16,28 @@ por parte de las pasarelas tradicionales.
 - **Apoyo:** YouTube (Shorts reutilizados + formato largo para búsquedas de alta intención).
 - **Adquisición:** Meta Ads (Instagram/Facebook).
 
+## Dirección actual (Iteración 2)
+- **Canales:** Instagram + YouTube + **Meta Ads**. TikTok despriorizado (`02` queda como opcional/repurposing).
+- **Mercado:** español. España (primario) + **LATAM núcleo: Venezuela, Perú, Argentina** (`00b` Segmento D).
+- **Meta Ads:** conversión-first bajo **Andromeda**, creativo que autofiltra, optimizando por
+  conversión/lead, no por CPC (`12`).
+- **Conversión:** sistema **comment-to-DM** ("comenta X → DM") + Click-to-Message (`11`).
+- **Objeción central:** "no me fío del 0,1%" → se vence con transparencia (`14`).
+
 ## Cómo usar este kit (lee en este orden)
 1. `00-strategy-master.md` — posicionamiento, pilares, voz, embudo y KPIs.
-2. `00b-icp-deep-dive.md` — exactamente a quién apuntamos y las palabras que usan.
+2. `00b-icp-deep-dive.md` — a quién apuntamos (incluye Segmento D LATAM) y las palabras que usan.
 3. `10-founder-brand-playbook.md` — la pista de marca personal de Hugo (el motor de confianza).
-4. `01-instagram-playbook.md` / `02-tiktok-playbook.md` / `03-youtube-suggestions.md` — mecánica de cada canal.
-5. `04-content-calendar-90d.md` — el plan de 12 semanas que secuencia todo.
-6. `05-shortform-scripts.md` / `06-carousels-and-captions.md` — activos orgánicos listos para producir.
-7. `07-meta-ads-plan.md` / `08-meta-ads-copy.md` — la capa de adquisición pagada.
-8. `09-metrics-and-cadence.md` — cómo medimos e iteramos cada semana.
+4. `14-objecion-confianza-comision.md` — cómo vencer la objeción nº1 ("no me fío del 0,1%").
+5. `11-sistema-conversion-comment-to-dm.md` — cómo se convierte (DM, no link in bio).
+6. `12-meta-ads-conversion-andromeda.md` — Meta Ads conversión-first + píxeles explicados.
+7. `01-instagram-playbook.md` / `03-youtube-suggestions.md` — mecánica de canal (`02` TikTok = opcional).
+8. `04-content-calendar-90d.md` — el plan de 12 semanas que secuencia todo.
+9. `05-shortform-scripts.md` — guiones completos palabra por palabra · `06` carruseles.
+10. `07-meta-ads-plan.md` / `08-meta-ads-copy.md` — estructura y copys de anuncios.
+11. `15-competencia-instagram.md` — análisis de competencia (best-effort) y diferenciación.
+12. `13-preguntas-para-hugo.md` — qué falta por rellenar (`[MARCADORES]`).
+13. `09-metrics-and-cadence.md` — cómo medimos e iteramos (incluye EMQ y evento puente).
 
 ## Innegociable: Guardrails de cumplimiento
 Zeno es una pasarela legítima y **todo lo que se recibe se declara.** Los dolores del

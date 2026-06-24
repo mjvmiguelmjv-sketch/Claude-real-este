@@ -75,6 +75,21 @@ metas de mejora.** Enfoque sugerido para fijar objetivos:
 - Frecuencia subiendo + CTR bajando → **fatiga de creatividad**; rota un hook fresco.
 - Cualquier activo que falle en la checklist de cumplimiento → **retíralo de inmediato**, corrige, documenta.
 
+## ➕ Métricas Iteración 2 (conversión-first + comment-to-DM)
+- **Evento puente (arranque):** **lead de DM cualificado** (comment-to-DM / Click-to-Message).
+  Es barato y frecuente → con él la campaña de conversión "aprende" hasta que haya volumen de
+  tienda conectada. KPI: **coste por lead cualificado** y **% de comentarios que son ICP**.
+- **EMQ (Event Match Quality) > 7** en Events Manager: requisito para que Andromeda entregue
+  bien. Si está bajo, mejora el emparejamiento (email/teléfono hasheado con consentimiento, IP, CAPI).
+- **Píxel + CAPI con deduplicación** activos antes de gastar. Verifica que disparan `Lead` (DM),
+  `InitiateRegistration` y `StoreConnected`.
+- **Embudo de conversación:** comentarios con palabra clave → DMs → leads cualificados → clics a
+  dashboard → **tienda conectada**. Mide la caída entre cada paso (afina hooks y lenguaje de autofiltrado).
+- **No mires el CPC.** Las métricas que mandan: **coste por lead cualificado** → **coste por
+  tienda conectada (CPA)**. Define un CPA máximo según el LTV de un comercio y deja que gobierne el gasto.
+- **Calidad > volumen:** un Reel con menos views pero más leads cualificados ICP gana a uno viral
+  que no convierte. Prioriza el lenguaje que filtra.
+
 ## Cómo se ve "bien" por fase
 - **Semanas 1–4:** publicación consistente, ≥3–5 hooks superando la base, primeros registros, pools de ads construyéndose.
 - **Semanas 5–8:** escalando ganadores, velocidad creciente de guardados/compartidos + seguidores, retargeting MOFU convirtiendo más barato que el frío.

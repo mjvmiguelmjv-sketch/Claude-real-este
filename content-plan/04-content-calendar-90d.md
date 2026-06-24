@@ -5,8 +5,15 @@
 > `06-carousels-and-captions.md` (CR-xx). Las ideas nuevas más allá de los activos iniciales
 > se marcan con `[nuevo]` — prodúcelas con la misma plantilla de guion.
 
+> ⚠️ **Iteración 2:** canales = **Instagram + YouTube + Meta Ads** (TikTok despriorizado).
+> Donde abajo pone "TikTok/Reels", léelo como **Reels (IG) + Shorts (YT)**; subir a TikTok es
+> opcional (repurposing). Todos los CTA pasan a **comment-to-DM** (palabra clave → DM, ver `11`).
+> Prioriza en el calendario los guiones de **objeción de confianza (SF-01), testimonio (SF-02)
+> y LATAM (SF-03)**, que son los que convierten.
+
 ## Ritmo operativo
-- **TikTok:** 1–2 vídeos cortos/día (plataforma líder; la fábrica).
+- **Instagram (principal):** 4–5 Reels/semana + 2–3 carruseles + Stories a diario.
+- **(Opcional) TikTok/repurposing:** subir los mismos Reels; coste casi cero.
 - **Instagram:** 4–5 Reels/semana + 2–3 carruseles/semana + Stories a diario.
 - **YouTube:** Shorts a diario (reutilizados) + 1 formato largo/semana (empieza en la semana 2).
 - **Pista del founder:** ≥2–3 posts del founder/semana + 1 build-in-public (FV-04/FV-08/SF-10) cada lunes o viernes.

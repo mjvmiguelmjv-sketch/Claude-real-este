@@ -21,6 +21,17 @@ Así que la escalera del mensaje es: *Founder transparente → producto transpar
 pasarela en la que de verdad puedes confiar tus ingresos → y, por cierto, también es 30x más barata.*
 Las comisiones hacen que dejen de hacer scroll. **La confianza hace que cambien.**
 
+## 2b. Actualización Iteración 2 (lo que manda hoy)
+- **Canales:** Instagram + YouTube + **Meta Ads**. TikTok despriorizado.
+- **Mercado:** español — **España** (primario: ahorro/compliance/Hacienda) + **LATAM núcleo:
+  Venezuela, Perú, Argentina** (necesidad/acceso/devaluación; ver `00b` Segmento D).
+- **Objeción nº1 (transversal, casi un pilar):** *"no me fío de una comisión tan baja, suena a
+  trampa."* No competimos por precio (Cryptomus iguala el 0,1%, Binance Pay 0%): competimos por
+  **confianza**. La objeción se vence enseñándolo todo — founder, on-chain, tus claves (`14`).
+- **Adquisición:** Meta Ads **conversión-first** bajo Andromeda; el **creativo autofiltra** al
+  ICP por el lenguaje; se optimiza por **conversión/lead, no por CPC** (`12`). La conversión se
+  cierra con **comment-to-DM / Click-to-Message** (`11`), no con "link in bio".
+
 ## 3. Pilares de mensaje (rotan en todos los canales)
 1. **Ahorra en comisiones** — 0,1% vs 2,9%+. Matemática de margen, "lo que tu pasarela no te cuenta".
 2. **Cobra desde cualquier lugar** — mismo 0,1% en cualquier país, liquidación on-chain instantánea, sin juegos de tipo de cambio.

@@ -47,6 +47,35 @@ ingresos (fuera de alcance y contra nuestros guardrails).
 > comercios. Dales el contenido de API/SDK/plugin y un motivo para recomendar Zeno
 > (transparente, no va a desaparecer).
 
+### Segmento D — LATAM con banca restringida / alta inflación (NÚCLEO)
+- **Quién:** comercios y vendedores en **Venezuela, Perú, Argentina** (y similares) donde la
+  moneda local se devalúa y el sistema bancario es inestable o restrictivo. Desde tiendas y
+  servicios hasta freelancers que cobran del exterior.
+- **Por qué cripto NO es alternativa sino necesidad (datos para autenticidad):**
+  - Argentina: tras una inflación histórica de ~211%, **~72% de las compras cripto son stablecoins**; >40% de adopción adulta.
+  - Venezuela: **USDT es ubicuo**; los comercios liquidan facturas en Tether para cubrirse de la inflación; el bolívar colapsado empuja todo al dólar-on-chain.
+  - Perú: mercado de más rápido crecimiento; interoperabilidad banca-wallet disparada.
+  - **Binance Pay/P2P es masivo** (Binance Pay ~21M comercios; QR en Argentina, Perú, Bolivia, Brasil). USDT domina (~68% de cuota regional).
+- **El dolor real:** el **consumidor YA paga en USDT o por Binance Pay**. El problema del comercio
+  es **aceptarlo limpio, liquidarlo, y CONFIAR** en la plataforma (han perdido dinero con su
+  moneda y con apps).
+- **Ranking de dolor:** (1) que no le congelen/quiten el dinero (banca + desconfianza), (2)
+  cobrar en dólar-on-chain sin líos, (3) unificar Binance Pay + stablecoins, (4) comisión.
+- **Cuña de Zeno aquí (honesta, NO solo precio):** **non-custodial (tus claves, nadie te lo
+  congela)** — decisivo en entornos de desconfianza; **multi-cadena/multi-wallet**; funciona
+  **donde Binance Pay QR no llega** (p. ej. Venezuela); **checkout unificado** (Shopify/Woo/API)
+  que junta Binance Pay + stablecoins on-chain; y **founder/transparencia**.
+- **Binance Pay** se trata como **feature heroica** del checkout (no como competidor a evitar):
+  "acepta Binance Pay Y stablecoins on-chain en un solo sitio, y si quieres con tus propias claves".
+- **Lenguaje de hook:** "Tus clientes ya te pagan en USDT. ¿Lo estás cobrando bien?" · "Que no
+  te congelen el dinero nunca más" · "Tu moneda se devalúa; tus ventas no deberían."
+- **Nota de cumplimiento:** "que no te lo congelen / tus claves" = **autocustodia y control**,
+  nunca ocultar dinero ni evadir. Se mantiene el encuadre legítimo.
+
+> **Mercado y idioma:** español. **España** (primario: ahorro/compliance/Hacienda) +
+> **LATAM núcleo** (Venezuela, Perú, Argentina: necesidad/acceso/devaluación). Core en español
+> neutro con variantes localizadas por mercado.
+
 ## Jobs-to-be-done (para qué "contratan" de verdad una pasarela)
 1. "Dejar de sangrar margen en cada transacción."
 2. "Que mis ingresos no se puedan congelar ni revertir."

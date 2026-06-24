@@ -1,8 +1,15 @@
 # 07 — Plan de Meta Ads (Instagram + Facebook)
 
+> ⚠️ **ACTUALIZADO (Iteración 2):** la estrategia vigente es **conversión-first bajo Andromeda**
+> (el creativo autofiltra al ICP; se optimiza por conversión/lead, no por CPC), detallada en
+> **`12-meta-ads-conversion-andromeda.md`**, con la conversión cerrada vía **comment-to-DM /
+> Click-to-Message** (`11`). El embudo clásico TOFU→MOFU→BOFU de abajo queda como **material
+> de referencia**: NO montamos escaleras de audiencias manuales; sí conservamos el retargeting
+> básico y los ángulos creativos. Lee `12` y `11` primero; usa esto para audiencias/medición de apoyo.
+
 > La capa de adquisición pagada. Estrategia: deja que el **orgánico encuentre barato los
-> hooks ganadores**, y luego pon presupuesto detrás de creatividades probadas en un embudo
-> estructurado TOFU→MOFU→BOFU que impulse **registros cualificados en el dashboard**.
+> hooks ganadores**, y luego pon presupuesto detrás de creatividades probadas que impulsen
+> **registros cualificados en el dashboard** (y el evento puente de lead por DM).
 > Los copys/creatividades están en `08-meta-ads-copy.md`.
 
 ## ⚠️ Política primero (léelo antes de gastar un euro)

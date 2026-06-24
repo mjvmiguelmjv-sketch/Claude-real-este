@@ -1,5 +1,10 @@
 # 02 — Playbook de TikTok
 
+> ⚠️ **TikTok está DESPRIORIZADO en la Iteración 2.** Los canales activos son Instagram,
+> YouTube y Meta Ads. Conserva este playbook como **opcional**: si grabas para Reels, subir
+> los mismos clips a TikTok es coste casi cero (repurposing). No le dediques esfuerzo propio
+> hasta que IG/YouTube/Meta Ads estén funcionando.
+
 ## Rol de TikTok en el sistema
 El **motor de alcance + descubrimiento de la parte alta del embudo.** El algoritmo de TikTok
 muestra contenido a no-seguidores más rápido que cualquier otra plataforma, así que aquí es
