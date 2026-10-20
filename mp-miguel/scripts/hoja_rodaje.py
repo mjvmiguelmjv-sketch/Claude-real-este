@@ -222,7 +222,7 @@ def main(plantilla, guiones, salida, mes, nota):
         d_ = dia(idx.get(h['codigo'], ''))
         items = [f'{pant}: {v}' for pant, v in h['fondos'] if not v.startswith(NO_SE_PIDE)]
         if items:
-            filas_h.append([[f"{h['codigo']} · {d_}"], items, [f'Dos días antes del {d_}']])
+            filas_h.append([[f"{h['codigo']} · {d_}"], items, [f"Dos días antes del {d_.split(' (')[0]}"]])
     add(para(parte, f'PARTE {n + 2}'))
     add(para(h2, 'Las historias: lo que se graba en mudo'))
     add(para(h2_intro, 'Las historias no se graban hablando: se diseñan. Pero casi todas llevan de fondo un vídeo mudo tuyo, '
