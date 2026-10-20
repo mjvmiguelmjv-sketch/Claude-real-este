@@ -78,6 +78,11 @@ def apply_edits(d, edits, strict=True):
                     if ptext(tr.findall(qn('w:tc'))[0]).strip() == e['fila']
                     for tc in tr.findall(qn('w:tc'))[1:] for p in tc.iter(W_P)]
         hits = [p for p in pool if e['old'] in ptext(p)]
+        if e.get('borrar'):  # quita el párrafo entero cuyo texto es exactamente «old»
+            hits = [p for p in hits if ptext(p).strip() == e['old'].strip()]
+            if len(hits) != 1:
+                errors.append((f'{len(hits)} párrafos para borrar', e)); continue
+            hits[0].getparent().remove(hits[0]); continue
         if e.get('todas') and hits:
             for p in hits: replace_in_p(p, e['old'], e['new'])
             continue
