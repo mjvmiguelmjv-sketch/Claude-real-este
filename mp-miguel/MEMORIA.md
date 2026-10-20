@@ -17,8 +17,8 @@ Para retomar el trabajo en cualquier sesión, aunque se acaben los créditos o s
 
 | Documento | Estado |
 |---|---|
-| Ficha de marca v6 (19 oct) | La buena. Pendiente: v7 |
-| Crítica de la ficha v6 (20 oct) | Puerta abierta: 4 preguntas para la v7 (aplicar partes 3-5; recortar parte 6 y abrir con «Para escribir»; frases de Caleb como suyas; mezcla 80 %) |
+| Ficha de marca v6 (19 oct) | Superada por la v7 del 20 oct |
+| Crítica de la ficha v6 (20 oct) | Aplicada en la v7 (puerta delegada el 20 oct; las 4 preguntas, con la recomendación) |
 | Diagnóstico CALMA v2 y Plan de mejora v2 (15 oct) | Base de la rúbrica y de las decisiones del 15 oct |
 | Guiones nuevos + crítica CALMA v1 (19 oct) | La crítica de noviembre, diciembre y sustitución; 14 piezas nuevas (N21-N27 reels, NS1-NS7 secuencias); dónde va cada una (parte 6); lo que decide Miguel (parte 8); las peores (parte 9) |
 | Guiones noviembre r5 (19 oct, «en preparación, todavía lleva S02 y S05») | Base de noviembre |
@@ -47,7 +47,7 @@ Frases enteras con su porqué; el gancho, con la escena del comprador o un «Có
 
 ## 5. En qué paso del pipeline estamos
 
-1. Ficha v7: puerta abierta (4 preguntas, ver sección 2).
+1. HECHO el 20 oct: ficha v7.
 2. **HECHO el 20 oct: noviembre r6 y diciembre r4 con la crítica CALMA aplicada, y sus hojas de rodaje (noviembre v4, diciembre v1).** Lo pidió Miguel el 20 oct: «critiques con el diagnóstico calma y añadas los guiones y corrijas los guiones según la crítica para sacar el nuevo calendario de guiones de noviembre y diciembre manteniendo exactamente el mismo formato». **Delegó la puerta**: se aplica lo que la crítica marca como «Propongo», y lo que es suyo queda **«Por decidir»** en los Pendientes de cada mes (regla P1). Nada se publica.
 3. Después: la hoja de rodaje nueva (cuando la pase), diciembre a febrero (la ronda de llamadas), publicar y medir.
 
