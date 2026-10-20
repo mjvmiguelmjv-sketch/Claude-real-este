@@ -22,7 +22,14 @@ BLOQUES = [
 
 
 def clasifica(formato):
+    # manda la primera frase: el resto describe el plano y puede nombrar otros formatos
+    cabeza = formato.split('.')[0].lower()
     f = formato.lower()
+    if cabeza.startswith('a cámara con objeto'):
+        return (0, 'A cámara con objeto, sentado') if 'sentado' in f else (2, 'A cámara con objeto, de pie en casa')
+    for clave, res in (('horizontal', (1, 'Horizontal + texto (corte de YouTube)')), ('reacción', (0, 'Reacción')),
+                       ('pantalla dividida', (0, 'Pantalla dividida')), ('pizarra', (1, 'Pizarra'))):
+        if cabeza.startswith(clave): return res
     if 'reacción' in f: return 0, 'Reacción'
     if 'pantalla dividida' in f: return 0, 'Pantalla dividida'
     if 'pizarra' in f: return 1, 'Pizarra'

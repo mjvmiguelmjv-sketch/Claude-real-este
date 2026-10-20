@@ -48,12 +48,20 @@ Frases enteras con su porqué; el gancho, con la escena del comprador o un «Có
 ## 5. En qué paso del pipeline estamos
 
 1. Ficha v7: puerta abierta (4 preguntas, ver sección 2).
-2. **Noviembre r6 y diciembre r4 con la crítica CALMA aplicada.** Lo pidió Miguel el 20 oct: «critiques con el diagnóstico calma y añadas los guiones y corrijas los guiones según la crítica para sacar el nuevo calendario de guiones de noviembre y diciembre manteniendo exactamente el mismo formato». **Delegó la puerta**: se aplica lo que la crítica marca como «Propongo», y lo que es suyo queda **«Por decidir»** en los Pendientes de cada mes (regla P1). Nada se publica.
+2. **HECHO el 20 oct: noviembre r6 y diciembre r4 con la crítica CALMA aplicada, y sus hojas de rodaje (noviembre v4, diciembre v1).** Lo pidió Miguel el 20 oct: «critiques con el diagnóstico calma y añadas los guiones y corrijas los guiones según la crítica para sacar el nuevo calendario de guiones de noviembre y diciembre manteniendo exactamente el mismo formato». **Delegó la puerta**: se aplica lo que la crítica marca como «Propongo», y lo que es suyo queda **«Por decidir»** en los Pendientes de cada mes (regla P1). Nada se publica.
 3. Después: la hoja de rodaje nueva (cuando la pase), diciembre a febrero (la ronda de llamadas), publicar y medir.
 
 ## 6. Lo que se hizo el 20 oct (noviembre r6 y diciembre r4)
 
-Salida en `mp-miguel/entregas/`. El formato es el mismo de sus Docs: se editan sus `.docx` y las piezas nuevas se montan clonando una pieza del propio mes. El detalle pieza a pieza está en `mp-miguel/entregas/cambios-noviembre-diciembre-20oct.md`.
+Salida en `mp-miguel/entregas/`:
+- `MP Miguel · Guiones · noviembre 2026 · r6 · 20 oct 2026.docx`
+- `MP Miguel · Guiones · diciembre 2026 · r4 · 20 oct 2026.docx`
+- `MP Miguel · Hoja de rodaje noviembre 2026 · v4 · 20 oct 2026.docx` y `… diciembre 2026 · v1 …` (por formatos, con el formato de su hoja v3 del 13 oct)
+- `cambios-noviembre-diciembre-20oct.md`: el calendario nuevo y lo que cambió, pieza a pieza.
+
+El formato es el mismo de sus Docs: se editan sus `.docx` y las piezas nuevas se montan copiando una pieza del propio mes; se comprobó renderizando a PDF. En `mp-miguel/trabajo/` están las sustituciones (JSON) y los generadores de cada mes (`gen_nov.py`, `gen_dic.py`): para rehacer un mes hacen falta sus `.docx` de partida (nov r5, dic r3, sustitución r2, crítica del 19 oct y hoja v3), que viven en sus subidas y no están en el repo.
+
+Lo siguiente, cuando Miguel conteste: sus «Por decidir» de cada mes (tabla de Pendientes); la ficha v7; enero y febrero con la misma ronda.
 
 ## 7. Cómo seguir
 

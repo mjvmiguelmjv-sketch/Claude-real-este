@@ -72,7 +72,15 @@ def apply_edits(d, edits, strict=True):
         els = sc.get(e['ambito'])
         if els is None:
             errors.append(('sin ámbito', e)); continue
-        hits = [p for p in paragraphs(els) if e['old'] in ptext(p)]
+        pool = paragraphs(els)
+        if e.get('fila'):  # solo en la fila de tabla cuya primera celda es esa etiqueta
+            pool = [p for el in els for tr in el.iter(qn('w:tr'))
+                    if ptext(tr.findall(qn('w:tc'))[0]).strip() == e['fila']
+                    for tc in tr.findall(qn('w:tc'))[1:] for p in tc.iter(W_P)]
+        hits = [p for p in pool if e['old'] in ptext(p)]
+        if e.get('todas') and hits:
+            for p in hits: replace_in_p(p, e['old'], e['new'])
+            continue
         if len(hits) != 1:
             errors.append((f'{len(hits)} coincidencias', e)); continue
         replace_in_p(hits[0], e['old'], e['new'])

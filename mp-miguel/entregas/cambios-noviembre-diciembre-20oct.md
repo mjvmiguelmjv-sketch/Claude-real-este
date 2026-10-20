@@ -1,0 +1,120 @@
+# Lo que cambió · noviembre r6 y diciembre r4 · 20 oct 2026
+
+Base: tus Docs de noviembre r5 (19 oct) y diciembre r3 (con tus cambios hasta el 20 oct). Se aplica la crítica del 19 oct («Guiones nuevos y crítica»). **Delegaste la puerta**: va lo que la crítica marca como «Propongo» o «Sí». Lo que es tuyo queda en la tabla de Pendientes de cada Doc como **Por decidir**. No se ha publicado nada y no se ha borrado nada de tus Docs anteriores.
+
+Formato: las piezas que se quedan se han editado dentro de tu `.docx`, carácter a carácter, sin tocar estilos. Las que entran se han montado copiando el formato de las piezas de tu propio mes. Comprobado renderizando a PDF y comparando página contra página.
+
+## Noviembre r6 · 15 reels y 11 secuencias
+
+| Día | Reel | Historias |
+|---|---|---|
+| lun 2 | R01 | |
+| mar 3 | **N01** (en el sitio de R02) | S01 |
+| mié 4 | **N23** (en el sitio de R03) | |
+| jue 5 | R04 | — (era S02) |
+| vie 6 | — (era R05) | S03 |
+| lun 9 | R06 | |
+| mar 10 | **N04** | S04 |
+| jue 12 | **N25** | **NS1** |
+| vie 13 | | **NS2** (en el sitio de S06) |
+| lun 16 | R11 | |
+| mar 17 | R12 | S07 |
+| mié 18 | R13 | |
+| jue 19 | R14 | **NS5** |
+| vie 20 | | S09 |
+| lun 23 | **N17** | |
+| mar 24 | **N24** | S10 |
+| mié 25 | R18 | |
+| jue 26 | **N21** | S11 |
+| vie 27 | | S12 |
+
+- **Salen** (siguen en tus Docs anteriores): R02, R03, R05, R08, S06; y S02 y S05, que anunciaban o troceaban un vídeo de YouTube.
+- **Ajustadas:**
+  - **Todas las piezas**: la ronda de llamadas. Todo pasa a DIAGNÓSTICO por WhatsApp con tu fórmula; fuera FRÍAS, VALOR, PILARES, IMPROVISO, el formulario y «sígueme». Tus locuciones que ya decían DIAGNÓSTICO no se han tocado.
+  - **R04**: el escrito «No es que el contenido no funcione en B2B.»
+  - **R06**: fuera «1.200 €».
+  - **R11**: la fase 5 con el filtro de copiar lo viral.
+  - **R12**: la tercera factura es «no saben que existes».
+  - **R13**: la voz recorre la tabla; fuera la promesa sin prueba; tu frase «…probablemente no tengas una estrategia».
+  - **R14**: «Luis tiene razón», sin «mi cliente».
+  - **R18**: sin «20 piezas»; la llamada con lo que miras.
+  - **S01 y S07**: sin el anuncio de V1 y V2.
+  - **S03**: «Trabajo con dos empresas a la vez.» y lo que le pagaste a tu agencia.
+  - **S11**: sin el anuncio de V6.
+  - **La ranura**: 6sense, Edelman y Gartner en vez de BRANDfog, PeopleXBrand y FTI.
+- **Las piezas de la sustitución, retocadas al entrar:**
+  - **N01**: lleva la llamada que le faltaba.
+  - **N04**: el hablado con el filtro.
+  - **N17**: la propuesta se enseña en pantalla; la cifra la decides tú.
+
+## Diciembre r4 · 15 reels, 11 secuencias, SP1 y SP2
+
+| Día | Reel | Historias |
+|---|---|---|
+| lun 30 nov | R21 | |
+| mar 1 | **N07** | S13 |
+| mié 2 | **N13** (en el sitio de R23) | |
+| jue 3 | — (era R24) | **NS6** |
+| vie 4 | R25 | S15 |
+| lun 7 | R26 | |
+| mar 8 | **N26** | S16 |
+| mié 9 | R28 | |
+| jue 10 | | **NS7** |
+| vie 11 | R30 | S18 |
+| lun 14 | R31 | |
+| mar 15 | **N27** | — (era S19) |
+| jue 17 | **N15** | **NS3** |
+| vie 18 | R35 | S21 |
+| lun 21 | **N18** | |
+| mar 22 | **N22** (en el sitio de R37) | S22 |
+| mié 23 | R38 | |
+| jue 24 | — (era R39) | **NS4** |
+| sáb 26 | | S24 |
+| mar 29 / jue 31 | | SP1 / SP2 |
+
+- **Salen:**
+  - **R23**: va N13, el mismo caso con el testimonio de Fernando.
+  - **R24**: tu nota pide rehacerlo como reacción, después de ver el vídeo.
+  - **R33**: la reunión con permiso no ha llegado.
+  - **R37 y R39**.
+  - **S19**.
+  - **S14, S17, S20 y S23**: anunciaban o troceaban un vídeo de YouTube.
+- **Ajustadas:**
+  - **Todas las piezas**: la ronda de llamadas. Las secuencias que vendían «la guía de las tres prácticas» piden DIAGNÓSTICO.
+  - **R21**: «Kallaway lo llama la trampa viral.», el gancho hablado con la agencia y la frase de la llamada de ventas; fuera «Jueves: el vídeo entero».
+  - **R25**: el escrito pasa a «Si vendes B2B High Ticket, más visitas no es más clientes.»
+  - **R26**: «trabajo con dos empresas a la vez» en vez de «resultados espectaculares».
+  - **R28**: el diagnóstico de hoy.
+  - **R30**: la frase del filtro en la fase 3.
+  - **R31**: el escrito con su rótulo.
+  - **R35**: el escrito desde el comprador y el arreglo en la fase 4.
+  - **R38**: la llamada con lo que miras.
+  - **S13**: el crédito a Kallaway, la pregunta de la encuesta y la llamada.
+  - **S15**: erratas.
+  - **S16 y S24**: la agencia en la primera pantalla.
+  - **S22**: «Yo todavía no tengo el mío: cuando lo tenga, lo verás aquí.» Confírmala.
+  - **SP2**: sin el anuncio del vídeo del 7 de enero.
+- **Las piezas de la sustitución, retocadas al entrar:**
+  - **N07**: el escrito con tu escena del CRM, y fuera la promesa de «prevendidos».
+  - **N15**: sin «a medias».
+  - **N18**: el hablado de la agencia que te devolvió la entrevista en clips.
+
+## Hojas de rodaje
+
+Las dos van con el formato de tu hoja v3: ordenadas por formatos y por bloques de cámara, con la ficha, el gancho escrito y lo que dices en cada fase.
+
+- **Noviembre v4**: 15 reels en 3 bloques.
+- **Diciembre v1**: 15 reels en 3 bloques.
+
+R25, R30 y R35 son cortes de V3 y V4: si esos vídeos no se graban, se graban sueltos (Por decidir).
+
+## Lo que es tuyo
+
+Está en la tabla de **Pendientes** de cada Doc. Lo que más bloquea:
+
+1. El mensaje automático de DIAGNÓSTICO y la página del diagnóstico.
+2. Elegir los ganchos: va escrito el favorito.
+3. El visto bueno de Fernando.
+4. Tus respuestas para NS4.
+5. Tu bio para NS2.
+6. Si tu regla de no anunciar el vídeo largo vale también para reels.

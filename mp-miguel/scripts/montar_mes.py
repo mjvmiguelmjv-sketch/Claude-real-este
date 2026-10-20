@@ -99,6 +99,10 @@ def montar(spec):
     for t in spec.get('pendientes_parrafos', []):
         p = para(proto_p, t); last.addnext(p); last = p
 
+    # retoques sobre las piezas ya montadas (las nuevas no existen hasta aquí)
+    for f in spec.get('post', []):
+        e = apply_edits(doc, json.load(open(f)))
+        if e: raise SystemExit(f'retoques que no casan: {e}')
     doc.save(spec['salida'])
     print('guardado', spec['salida'])
 

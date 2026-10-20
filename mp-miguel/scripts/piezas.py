@@ -6,6 +6,7 @@ clonando los párrafos y las tablas de una pieza del propio mes. Así la pieza n
 lleva la misma letra, los mismos colores y las mismas tablas que las de alrededor.
 """
 import copy, re
+from lxml import etree
 from docxedit import qn, W_P, W_T, ptext, style, body_els, piece_code
 
 W_TR, W_TC, W_R = qn('w:tr'), qn('w:tc'), qn('w:r')
@@ -106,11 +107,18 @@ def table(tpl_t, rows):
     El número de columnas sale de la plantilla; si la fila trae más, se juntan en la última."""
     t = copy.deepcopy(tpl_t)
     trs = t.findall(W_TR)
-    proto = trs[1] if len(trs) > 1 else trs[0]
+    # cada fila copia la de la plantilla con su misma etiqueta (en el mes, «Estructura»
+    # va en letra de código y el resto no); si no la hay, una fila de texto normal
+    por_etiqueta = {ptext(tr.findall(W_TC)[0]).strip(): tr for tr in trs}
+    normal = [tr for tr in trs if 'Mono' not in etree.tostring(tr).decode()]
+    proto = (normal[1] if len(normal) > 1 else normal[0]) if normal else trs[0]
     for tr in trs: t.remove(tr)
     ncol = len(proto.findall(W_TC))
     for row in rows:
-        tr = copy.deepcopy(proto)
+        etiqueta = ' '.join(row[0]).strip() if row and ncol > 1 else None
+        base = por_etiqueta.get(etiqueta, proto)
+        if len(base.findall(W_TC)) != ncol: base = proto
+        tr = copy.deepcopy(base)
         tcs = tr.findall(W_TC)
         cells = list(row)
         if len(cells) > ncol:
@@ -174,9 +182,11 @@ def build(piece, plantilla, origen, sitio):
     disp = blocks[i_disp + 1][1] if i_disp is not None else []
     i_gancho = idx('El gancho')
     i_guion = idx('Guion de producción')
+    if i_guion is None:  # algunas secuencias de la crítica pasan del gancho a la primera pantalla
+        i_guion = min(i for i, b in enumerate(blocks) if b[0] == 'p' and b[1].startswith(('FASE', 'PANTALLA'))) - 1
     i_pie = idx('Pie de publicación')
 
-    origen_txt = {'critica': 'la crítica CALMA del 19 oct 2026', 'sust': 'los guiones de sustitución del 9 oct 2026'}[origen]
+    origen_txt = {'critica': 'la crítica del 19 oct 2026', 'sust': 'los guiones de sustitución del 9 oct 2026'}[origen]
     banco = ficha.get('Guion del banco', [''])
     banco = [f'Nuevo, de {origen_txt}; entra en el calendario el {sitio}. PENDIENTE: darlo de alta como guion en el banco.'] \
         if not banco or not ''.join(banco).strip() else banco + [f'Entra en el calendario el {sitio}.']
@@ -200,7 +210,7 @@ def build(piece, plantilla, origen, sitio):
         out.append(table(P.trig_t, [[r[0], sum(r[1:], [])] for r in disp]))
         # el gancho: una sola tabla, como en el mes
         g = {}
-        for b in blocks[i_gancho + 1:i_guion]:
+        for b in blocks[i_gancho + 1:i_guion + 1]:
             if b[0] != 't': continue
             rows = b[1]
             if rows and len(rows[0]) > 2:   # tabla de versiones A, B, C…: se queda fuera
