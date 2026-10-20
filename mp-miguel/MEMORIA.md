@@ -2,7 +2,7 @@
 
 Para retomar el trabajo en cualquier sesión, aunque se acaben los créditos o se corte el contenedor. **Léela entera antes de tocar nada.** Esta carpeta vive dentro del repositorio de otro cliente (Hugo, inmobiliaria: `content-plan/`) solo porque es el único sitio que persiste; lo de Miguel no se mezcla con `content-plan/`.
 
-Última actualización: 20 oct 2026, noche.
+Última actualización: 20 oct 2026, noche (tercera ronda cerrada).
 
 ---
 
@@ -54,25 +54,29 @@ Frases enteras con su porqué; el gancho, con la escena del comprador o un «Có
 ## 5. En qué paso del pipeline estamos
 
 1. HECHO el 20 oct: ficha v7.
-2. **HECHO el 20 oct: noviembre r6 y diciembre r4 con la crítica CALMA aplicada, y sus hojas de rodaje (noviembre v4, diciembre v1).** Lo pidió Miguel el 20 oct: «critiques con el diagnóstico calma y añadas los guiones y corrijas los guiones según la crítica para sacar el nuevo calendario de guiones de noviembre y diciembre manteniendo exactamente el mismo formato». **Delegó la puerta**: se aplica lo que la crítica marca como «Propongo», y lo que es suyo queda **«Por decidir»** en los Pendientes de cada mes (regla P1). Nada se publica.
-3. Después: la hoja de rodaje nueva (cuando la pase), diciembre a febrero (la ronda de llamadas), publicar y medir.
+2. HECHO el 20 oct: noviembre r6 y diciembre r4 (crítica del 19 oct aplicada; puerta delegada), revisión a ciegas, y segunda pasada (r7 y r5).
+3. **HECHO el 20 oct, noche: tercera ronda, noviembre r8 y diciembre r6**, con lo que Miguel dejó decidido antes de irse y lo que delegó («prueba tú»). Cada decisión de Claude está en los Pendientes de cada mes («Decidido por Claude…») para que la pueda revertir pieza a pieza, y cada cambio en su voz, en «Lo que he cambiado en tu voz».
+4. HECHO: hojas de rodaje nuevas (noviembre v6, diciembre v3), con dos partes de material: lo que hay que tener antes de grabar cada reel y lo que piden de fondo las historias.
+5. HECHO: «Diseño de las historias» (propuesta de firma de imagen fija, sacada de su Canva; no se monta nada en Canva hasta que haya fondos reales y firma cerrada).
+6. En marcha o hecho (mira `entregas/`): textos de publicación de los reels (SOP-11, sin programar nada en Metricool) y revisión final a ciegas (`registro/auditorias-calma-meses-20oct-r8r6.md`).
+7. Después (cuando Miguel vuelva): que revise lo decidido por Claude; el material real de los Pendientes; grabar por bloques; publicar y medir (cierre de noviembre con `cierre-mes`). Enero y febrero, no (decisión suya).
 
-## 6. Lo que se hizo el 20 oct (noviembre r6 y diciembre r4)
+## 6. Lo que hay en `entregas/` (lo bueno; lo superado, en `entregas/Descartados/`)
 
-Salida en `mp-miguel/entregas/` (docx y PDF de cada uno; lo superado, en `entregas/Descartados/`):
-- `MP Miguel · Guiones · noviembre 2026 · r7 · 20 oct 2026` y `… diciembre 2026 · r5 …` (las buenas: la crítica del 19 oct y una segunda pasada tras la revisión a ciegas)
-- `MP Miguel · Hoja de rodaje noviembre 2026 · v5 …` y `… diciembre 2026 · v2 …` (por formatos, con el formato de su hoja v3 del 13 oct)
-- `MP Miguel · Ficha de marca · v7 · 20 oct 2026` (su crítica del 20 oct aplicada; puerta delegada: «sigue tú con todo»; lo suyo, en 10.2 «Por decidir», una sola lista)
-- Lo que salió de la ficha v6 no se perdió: `mp-miguel/registro/` (la nota, la primera llamada, los formularios, notas de proceso, prospectos) y `mp-miguel/banco/arbol-detalle-ficha-v6.md`.
-- Revisión a ciegas de los meses, por dentro: `mp-miguel/registro/auditorias-calma-meses-20oct.md`.
-- `cambios-noviembre-diciembre-20oct.md`: el calendario nuevo y lo que cambió, pieza a pieza.
+- `MP Miguel · Guiones · noviembre 2026 · r8 · 20 oct 2026` y `… diciembre 2026 · r6 …` (docx y PDF): los buenos.
+- `MP Miguel · Hoja de rodaje noviembre 2026 · v6 …` y `… diciembre 2026 · v3 …`: por formatos, con el formato de su hoja v3 del 13 oct.
+- `MP Miguel · Ficha de marca · v7 · 20 oct 2026`.
+- `MP Miguel · Diseño de las historias · noviembre y diciembre 2026 · v1 · 20 oct 2026`.
+- Los textos de publicación y el documento «Para cuando vuelvas», cuando estén.
+- `cambios-noviembre-diciembre-20oct.md`: el calendario y lo que cambió, pieza a pieza.
+- Por dentro: `registro/` (revisiones a ciegas, notas de la ficha v6) y `banco/`.
 
-El formato es el mismo de sus Docs: se editan sus `.docx` y las piezas nuevas se montan copiando una pieza del propio mes; se comprobó renderizando a PDF. En `mp-miguel/trabajo/` están las sustituciones (JSON) y los generadores de cada mes (`gen_nov.py`, `gen_dic.py`): para rehacer un mes hacen falta sus `.docx` de partida (nov r5, dic r3, sustitución r2, crítica del 19 oct y hoja v3), que viven en sus subidas y no están en el repo.
+Qué cambió en la tercera ronda (r8/r6), en corto: los ganchos favoritos elegidos; ningún reel ni historia anuncia ni trocea V3/V4 (R25 y R30 se graban sueltas a cámara, sentado; R35 en pizarra); NS3 pasa al jueves 5 de noviembre; R12 recupera su fase 1; erratas de dictado y sus llamadas habladas a su fórmula; frases de comprador inventadas y urgencias fuera (S16, S18, S21, SP2, S24); la agenda sin contar huecos; SP1 cierra con DIAGNÓSTICO; NS4 con sus palabras de R06 y N01; NS2 con una bio propuesta; S22 sin la cifra del censo de septiembre; fuera de los Doc de mes cualquier nota interna del método; el glosario de la casa en el texto libre.
 
-Lo siguiente (20 oct, noche, en marcha): tercera ronda de los meses con sus decisiones de la noche, hoja de rodaje con el material, textos de publicación, diseño de historias si se puede, y revisión final. Enero y febrero, no (decisión suya).
+El formato es el mismo de sus Docs: se editan sus `.docx` (sustituciones por párrafo que conservan el formato) y se comprueba renderizando a PDF. En `mp-miguel/trabajo/` están las sustituciones (JSON) de cada ronda y los pendientes; en `mp-miguel/scripts/`, las herramientas (`docxedit.py`, `volcado.py`, `piezas.py`, `mover_pieza.py`, `fase_r12.py`, `estado_indice.py`, `rehacer_pendientes.py`, `glosario.py`, `hoja_rodaje.py`).
 
 ## 7. Cómo seguir
 
-- Antes de tocar un Doc suyo: el diff de su versión contra la última entrega (regla madre de `ronda-correccion`).
-- Scripts de montaje en `mp-miguel/scripts/`.
-- Lo que espera a Miguel está en la sección «Por decidir» de cada mes y en la crítica del 19 oct, parte 8.
+- Antes de tocar un Doc suyo: el diff de su versión contra la última entrega (regla madre de `ronda-correccion`). Si Miguel cambia algo a mano en r8/r6, se parte de su versión.
+- Para rehacer una hoja de rodaje: `python3 scripts/hoja_rodaje.py <su hoja v3 .docx> <guiones del mes .docx> <salida.docx> "<mes>" "<nota>"` (la hoja v3 está en `fuentes/`).
+- Lo que espera a Miguel está en los Pendientes de cada mes: «Resuelto por ti», «Decidido por Claude», «Lo que he cambiado en tu voz», las filas de material real y «Tus textos, como los dejaste».
