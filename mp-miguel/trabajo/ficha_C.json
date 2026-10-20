@@ -1,0 +1,851 @@
+[
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "El árbol de piezas que cuelga de las raíces va en la parte siguiente.",
+  "new": "El árbol que cuelga de las raíces, con sus conceptos y sus dolores, va en la parte siguiente."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "«Hazte viral, publica con constancia y aporta valor: cuanta más gente te vea, más clientes.» Y tiene su razón",
+  "new": "Hazte viral, publica con constancia y aporta valor, porque cuanta más gente te vea, más clientes (lo resumo yo: no es una cita). Y tiene su razón"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "(R04, tu versión)",
+  "new": "(R04, tu versión; «subóptima» te la propuso Fer el 8 oct)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Lo has dicho con tus palabras (R04, N01 y Polvoranca, 9:30), pero el 15 oct quitaste de la web «Y las preguntas y objeciones que aparecen en ventas vuelven al contenido». Se pregunta en directo: ¿la vuelta del contenido a la llamada es tuya?",
+  "new": "Lo has dicho con tus palabras (R04, N01 y Polvoranca, 9:30). La vuelta del contenido a la llamada es tuya: la escribiste tú el 9 oct a las 12:32 («Ventas→información→contenido→confianza→conversaciones→ventas ese roadmap»), y sigue en el esquema de tu web. El 15 oct quitaste del bloque 3 de la web «Y las preguntas y objeciones que aparecen en ventas vuelven al contenido»: lo que queda abierto es por qué. Falta preguntártelo en directo y que elijas la frase (6.1)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "La viralidad mal hecha (sin objetivo, sin público y suelta) y el gremio que la vende como estrategia.",
+  "new": "El enemigo, en una línea: la creencia de que cuanta más gente te vea, más clientes tendrás, y el gremio que vende como estrategia la viralidad sin objetivo y sin público."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " Nunca el cliente, nunca la viralidad dentro de tu sector, que es parte del método, y nunca un competidor con nombre.",
+  "new": " Es la única línea del enemigo en la ficha: donde se nombre, remite aquí. La junté yo de la creencia de la parte 1 y de la práctica que decía la v6 (la viralidad mal hecha, sin objetivo, sin público y suelta). POR DECIDIR Que la valides tú. Nunca el cliente, nunca la viralidad dentro de tu sector, que es parte del método, y nunca un competidor con nombre."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "«Subóptima», nunca «mentira» ni «no funciona».",
+  "new": "«Subóptima» es la palabra de Fer, y la aceptaste («Vale, lo puedo decir así.»): nunca «mentira» ni «no funciona»."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "En una línea y sin culpar al que mira:",
+  "new": "En una línea, reescrita por mí y sin culpar al que mira:"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " «El secreto está en que tu contenido",
+  "new": " Reescrita por mí: «El secreto está en que tu contenido"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " «Lo que se sigue preguntando en la llamada vuelve al contenido» es lo que nadie más tiene, y es lo que quitaste de la web el 15 oct. ",
+  "new": " La vuelta del contenido a la llamada es tuya (6.2) y es lo que nadie más tiene. El 15 oct la quitaste del bloque 3 de la web. "
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "«Tu contenido, sacado de las preguntas que te hacen en la llamada de ventas.»",
+  "new": "«Tu contenido, sacado de las preguntas que te hacen en la llamada de ventas.» (escrito por mí)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "«Que tu próximo cliente llegue a la llamada con sus dudas ya contestadas: tu contenido sale de lo que te preguntan en ella.»",
+  "new": "«Que tu próximo cliente llegue a la llamada con sus dudas ya contestadas: tu contenido sale de lo que te preguntan en ella.» (escrito por mí)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Dolores madre",
+  "new": "Dolores madre (de los siete del barrido, 4.7)",
+  "fila": "Raíz"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "¿Validada?",
+  "new": "¿Validada? Y sus tres pruebas",
+  "fila": "Raíz"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "D03, D01, D05",
+  "new": "D03 y D01. D05 va como ángulo dentro de ellos",
+  "fila": "1 · La venta empieza antes de la llamada"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Sí: tu documento del 8 oct",
+  "new": "Sí: tu documento del 8 oct. En el tiempo: sin comprobar hasta cerrar enero. Conceptos distintos: 1.1 a 1.4, y 1.5 por decidir. Mismo enemigo: sí (6.3)",
+  "fila": "1 · La venta empieza antes de la llamada"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "D06, D07, D08",
+  "new": "POR DECIDIR Ninguno de los siete. Hoy cuelga de D06, D07 y D08; de los siete, el que ya sale en sus conceptos es D10 (2.4)",
+  "fila": "2 · El contenido empieza en tu comprador, no en el algoritmo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Sí",
+  "new": "Sí. En el tiempo: sin comprobar hasta cerrar enero. Conceptos distintos: 2.1 a 2.5, y 2.6 por decidir. Mismo enemigo: sí (6.3). Le falta su dolor",
+  "fila": "2 · El contenido empieza en tu comprador, no en el algoritmo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Sí, la idea; la frase pública, no (abajo)",
+  "new": "Sí, la idea; la frase pública, por decidir (abajo). En el tiempo: sin comprobar hasta cerrar enero. Conceptos distintos: 3.1 a 3.5, y 3.6 por decidir. Mismo enemigo: sí (6.3)",
+  "fila": "3 · No creamos autoridad. Hacemos visible la que ya tienes"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "D13, D14, D15",
+  "new": "D15 y D12. D13 y D14 van dentro de D15",
+  "fila": "4 · No necesitas convertirte en creador"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Sí",
+  "new": "Sí. En el tiempo: sin comprobar hasta cerrar enero. Conceptos distintos: 4.1 a 4.6. Mismo enemigo: sí (6.3)",
+  "fila": "4 · No necesitas convertirte en creador"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " (6.3) y dan conceptos distintos entre sí: son raíces, no temas.",
+  "new": " (6.3) y dan conceptos distintos entre sí: son raíces, no temas. Sus dolores son los siete que propone el barrido (4.7) mientras no elijas los tuyos, y con ellos la raíz 2 se queda sin ninguno. POR DECIDIR Los dolores de cada raíz."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "La frase de la raíz 3, en público, choca tres veces.",
+  "new": "La frase de la raíz 3, en público."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " Dice «autoridad», que es la palabra más gastada del sector (17 de 22 webs, 19 oct); habla en plural, y trabajas solo; y su fondo («eres bueno, pero no se ve») lo dicen 6 de 22. Fer la leyó en tu web el 8 oct y la llamó «súper cliché» (Villa del Prado, 39:51). Por dentro se queda con tu nombre. Para fuera propongo decirla por la prueba, que es lo que solo enseñas tú: «Tu prueba ya existe: falta enseñarla antes de la llamada». ",
+  "new": " «Autoridad» se dice (6.6), aunque tu nota prefiere el hecho, porque conecta más. Además habla en plural, y trabajas solo, y su fondo («eres bueno, pero no se ve») lo dicen 6 de 22. Fer la leyó en tu web el 8 oct y la llamó «súper cliché» (Villa del Prado, 39:51). Por dentro se queda con tu nombre. Para fuera, o tal cual, o con el hecho, que es lo que solo enseñas tú: «Tu prueba ya existe: falta enseñarla antes de la llamada» (escrita por mí). "
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "6.6 Lo que la tesis prohíbe",
+  "new": "6.6 Lo que la tesis prohíbe y tu léxico"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " Es subóptima para quien vende con llamada",
+  "new": " Es subóptima (la palabra de Fer, 8 oct) para quien vende con llamada"
+ },
+ {
+  "op": "borrar",
+  "desde": "Una excepción sin decidir",
+  "hasta": "6.7 Tus modelos con nombre"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "6.7 Tus modelos con nombre",
+  "bloques": [
+   [
+    "texto",
+    "Tu léxico, en una sola tabla. Manda sobre las demás versiones (3.6, 4.11, 6.8 y 8.13), que remiten aquí, y de aquí lo copia el sistema. Tus tres notas van tal cual."
+   ],
+   [
+    "tabla",
+    {
+     "cabecera": [
+      "Palabra",
+      "¿En público?",
+      "Por qué, con tu nota",
+      "Qué se dice"
+     ],
+     "filas": [
+      [
+       "«High Ticket»",
+       "Sí, con todas sus letras. Nunca «HT»",
+       "Tu nota: «SI QUE SE DICE». Y el 9 oct: «pon High Ticket no HT»",
+       "«High Ticket»"
+      ],
+      [
+       "«autoridad», «referente»",
+       "Sí, aunque mejor el hecho",
+       "Tu nota: «SE DICE AUTORIDAD Y REFERENTE SI , PERO MEJOR DECIR LO DE LA DERECHA, CONECTAN MAS». Son las más gastadas: «autoridad» la dicen 17 de 22; «referente», 7 de 22",
+       "Mejor con hechos: «tus clientes te hacen caso en todo». Si no, «autoridad» y «referente»"
+      ],
+      [
+       "«viralidad de nicho»",
+       "Sí",
+       "Tu nota: «VIRALIDAD DE NICHO SI SE PUDEDE DECIR». FullAgenda ya dice «virales de nicho»",
+       "«Viralidad de nicho», explicada por el filtro de precio"
+      ],
+      [
+       "«visibilidad»",
+       "No",
+       "Iba con «autoridad» y «referente» como palabra gastada; tu nota no la nombra",
+       "Se describe con hechos"
+      ],
+      [
+       "«sistema»",
+       "No",
+       "La dicen 11 de 22, y tú la quitas en tus guiones",
+       "«Estrategia de contenido»"
+      ],
+      [
+       "«reunión», «auditoría»",
+       "No",
+       "Tus cambios de noviembre. En la oferta sigue «La auditoría de conversión», el nombre que te gustó el 8 oct: se decide en 8.1",
+       "«Llamada de ventas», «consultoría»"
+      ],
+      [
+       "«nosotros»",
+       "No",
+       "Trabajas solo",
+       "«Yo»"
+      ],
+      [
+       "«sígueme»",
+       "No",
+       "Lo quitaste en todos tus guiones",
+       "Seguir con una razón, o nada"
+      ],
+      [
+       "«hooks», «™», siglas de método",
+       "No",
+       "Suenan a gurú y a inglés",
+       "«Ganchos»; el nombre del método, sin símbolo"
+      ]
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "op": "insertar",
+  "despues_de": "6.7 Tus modelos con nombre",
+  "bloques": [
+   [
+    "texto",
+    "Cada modelo, con su autor, y un solo nombre por mecanismo. Donde hoy hay dos nombres o falta el castellano va POR DECIDIR: el banco, «reflejo» y el clipper."
+   ]
+  ]
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " En público, sin «autoridad»: «Lo que tus clientes ya saben de ti, que lo sepa el siguiente» (tu tronco A del 1 oct)",
+  "new": " En público, también con «autoridad» (6.6). POR DECIDIR «Reflejo» está también en el Método Reflejo: dos modelos con la misma palabra",
+  "fila": "Tienes la autoridad, no tienes el reflejo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Se nombra en 6 guiones, casi siempre como etiqueta: solo S23 lo explica con sus tres facturas. En público, sin «autoridad»: «las tres facturas de que no se vea lo que sabes»",
+  "new": "Se nombraba en 6 guiones, casi siempre como etiqueta; el único que lo explicaba con sus tres facturas era S23, que ya no sale porque anunciaba un vídeo. En público, también con «autoridad» (6.6)",
+  "fila": "El coste de la autoridad invisible"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Modelo de Hormozi; término inglés",
+  "new": "Modelo de Hormozi. POR DECIDIR Su nombre en castellano: hoy va en inglés",
+  "fila": "El clipper"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Tuyo (8 oct)",
+  "new": "De la revisión de GPT del 8 oct, aceptada por ti. POR DECIDIR Si lo das por tuyo",
+  "fila": "Entender, comprobar, confiar"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Concepto 2.6",
+  "new": "El mecanismo del problema (6.4), y el concepto 2.6 si entra (POR DECIDIR)",
+  "fila": "La trampa viral"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "El «banco de credibilidad» de Caleb Ralston",
+  "new": "La idea es el «banco de credibilidad» de Caleb Ralston. «De autoridad» es como lo llama tu documento del 8 oct, y «de credibilidad», tu destacada",
+  "fila": "El banco de autoridad"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Concepto 3.3. En público, con su nombre: «el banco de credibilidad», de Caleb Ralston",
+  "new": "Concepto 3.3. POR DECIDIR Un solo nombre, dentro y fuera: «banco de autoridad» o «banco de credibilidad»",
+  "fila": "El banco de autoridad"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "El banco de autoridad",
+  "new": "El banco de autoridad o de credibilidad"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Concepto 1.5 y la oferta",
+  "new": "La oferta, y el concepto 1.5 si entra (POR DECIDIR)",
+  "fila": "FollowMe Ads"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Tu palabra desde el 9 oct",
+  "new": "Te la propuso Fer el 8 oct («que tus leads lleguen pre-vendidos a llamada», Villa del Prado, 2:03); tu palabra desde el 9 oct",
+  "fila": "Prevendido"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " En tus cambios, «cliente ideal» sale 13 veces por 1 en lo que quitaste.",
+  "new": " En tus cambios, «cliente ideal» sale 13 veces por 1 en lo que quitaste. El léxico entero, con tus notas, está en la tabla de 6.6."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": " No consta si es tuya o de mi propuesta: confírmala",
+  "new": "",
+  "fila": "N08"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "«Hoy sale el primer vídeo en YouTube. Si consigo 10.000 visitas significará que lo hice mal.»",
+  "new": "«Si consigo 10.000 visitas significará que lo hice mal.» Sale de S02, que ya no se publica porque anunciaba el vídeo; la frase se queda como tuya",
+  "fila": "S02"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "old": "Las personas conectamos con personas.»",
+  "new": "Las personas conectamos con personas.» Retocada: va en 10.8",
+  "fila": "S12"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Tu documento del 8 oct sacado del estadio",
+  "texto": "Tu documento del 8 oct, raíz a raíz: cada raíz con sus conceptos, qué cuenta cada uno, sus dolores y sus ganchos de partida. Es la estrategia de contenido entera: de aquí sale cada mes."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " 46 piezas escritas (23 de noviembre, 20 de sustitución y 3 de YouTube), los 40 guiones que te propuse el 13 oct y 4 piezas nuevas de esta ficha (la cuarta sale de tu nota de la v5 sobre los trial reels). De las 133 frases, 110 tienen ya su pieza, 8 van solo de pasada dentro de otra y 15 no dan pieza, con su porqué.",
+  "new": " Cuatro raíces y 23 conceptos, tres de ellos por decidir (1.5, 2.6 y 3.6). El detalle pieza a pieza (el estado de cada pieza, su nota del 15 oct, las listas de diciembre a febrero y la frase a frase de tu documento) está en el banco, que es donde se pone al día en cada ronda: banco/arbol-detalle-ficha-v6.md."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " Las frases son hipótesis hasta que las oigas en tus conversaciones (4.6).",
+  "new": " Las frases son hipótesis hasta que las oigas en tus conversaciones (4.6). Las de D07, D08, D11 y D14 son de Caleb Ralston, traducidas, y van marcadas."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " El trabajo CALMA de las piezas que el plan del 15 oct no asignó (lo saqué del apartado que más mueven en el diagnóstico), el dolor de las piezas escritas, el «qué cuenta» que separa los conceptos que se pisaban (1.1 y 2.4; 1.4 y 3.4) y los tres conceptos marcados como nuevos o recuperados (1.5, 2.6 y 3.6).",
+  "new": " El «qué cuenta» que separa los conceptos que se pisaban (1.1 y 2.4; 1.4 y 3.4) y los tres conceptos nuevos o recuperados (1.5, 2.6 y 3.6), que quedan POR DECIDIR: si entran."
+ },
+ {
+  "op": "borrar",
+  "desde": "Cómo se lee una pieza.",
+  "hasta": "Lo que he puesto yo."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D03, D01, D05 (parte 4)",
+  "new": "D03 y D01, de los siete que propone el barrido (4.7). D05 va como ángulo dentro de ellos"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D06, D07, D08 (parte 4)",
+  "new": "POR DECIDIR Ninguno de los siete que propone el barrido (4.7). Hoy cuelga de D06, D07 y D08; de los siete, el que ya sale en sus conceptos es D10 (2.4)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D01, D02, D11 (parte 4)",
+  "new": "D01, D02 y D11, de los siete que propone el barrido (4.7)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D13, D14, D15 (parte 4)",
+  "new": "D15 y D12, de los siete que propone el barrido (4.7). D13 y D14 van dentro de D15"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D09: «Cuando algo funciona no sé por qué ni cómo repetirlo» · D13: «No tengo tiempo para hacer contenido».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-1.1§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-1.1§§",
+  "hasta": "1.2 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D03: «Cuando hablo con un buen prospecto, entiende la diferencia. Antes de la llamada, no.» · D08: «No sé qué publicar, así que publico de todo: mi trabajo, mi café, mi rutina».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-1.2§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-1.2§§",
+  "hasta": "1.3 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D05: «La marca personal no me ha traído un solo cliente» · D03: «Cuando hablo con un buen prospecto, entiende la diferencia. Antes de la llamada, no.»",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-1.3§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-1.3§§",
+  "hasta": "1.4 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D03: «Cuando hablo con un buen prospecto, entiende la diferencia. Antes de la llamada, no.» · D07: «Todo el mundo en mi sector dice lo mismo, y yo también lo decía».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-1.4§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-1.4§§",
+  "hasta": "1.5 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D06: «Mi contenido atrae curiosos, no compradores» · D09: «Cuando algo funciona no sé por qué ni cómo repetirlo».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-1.5§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-1.5§§",
+  "hasta": "Raíz 2 ·"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "Raíz 2 ·",
+  "bloques": [
+   [
+    "texto",
+    "POR DECIDIR Si entra este concepto. Es nuevo y lo propuse yo: viene de tu oferta del 9 oct y de lo que te dijo Fer el 8 oct (Villa del Prado, 4:17–4:29). Sin material hasta tener datos de una campaña."
+   ]
+  ]
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D07: «Todo el mundo en mi sector dice lo mismo, y yo también lo decía» · D08: «No sé qué publicar, así que publico de todo: mi trabajo, mi café, mi rutina».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-2.1§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-2.1§§",
+  "hasta": "2.2 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Qué cuenta. Cuanto más caro y con llamada vendes",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-2.2§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-2.2§§",
+  "hasta": "Cada frase de tu documento, en su pieza. 2.2.1"
+ },
+ {
+  "op": "borrar",
+  "desde": "Diciembre a febrero (escritas antes del 8 oct): R21",
+  "hasta": "2.3 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D07: «Todo el mundo en mi sector dice lo mismo, y yo también lo decía».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-2.3§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-2.3§§",
+  "hasta": "2.4 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D09: «Cuando algo funciona no sé por qué ni cómo repetirlo» · D10: «Me da miedo parecer demasiado vendedor en el contenido».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-2.4§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-2.4§§",
+  "hasta": "2.5 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. O1: «No quiero que me encasillen».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-2.5§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-2.5§§",
+  "hasta": "2.6 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D06: «Mi contenido atrae curiosos, no compradores».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-2.6§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-2.6§§",
+  "hasta": "Raíz 3 ·"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "Raíz 3 ·",
+  "bloques": [
+   [
+    "texto",
+    "POR DECIDIR Si entra este concepto. Lo añadí yo: el 15 oct elegiste «la trampa viral» como nombre del mecanismo del problema, y el árbol del 8 oct no tenía dónde colgarlo. El nombre es de Kallaway y se le acredita en cada pieza."
+   ]
+  ]
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D01: «Mis clientes me hacen caso en todo; en Instagram parezco uno más».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-3.1§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-3.1§§",
+  "hasta": "3.2 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Qué cuenta. Lo que te cuesta cada mes que no se vea",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-3.2§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-3.2§§",
+  "hasta": "Cada frase de tu documento, en su pieza. 3.2.1"
+ },
+ {
+  "op": "borrar",
+  "desde": "Diciembre a febrero (escritas antes del 8 oct): R35",
+  "hasta": "3.3 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D11: «Tengo buenos clientes, pero si me preguntas qué pasó para que me contrataran, no sé contarlo».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-3.3§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-3.3§§",
+  "hasta": "3.4 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D03: «Cuando hablo con un buen prospecto, entiende la diferencia. Antes de la llamada, no.» · D11: «Tengo buenos clientes, pero si me preguntas qué pasó para que me contrataran, no sé contarlo».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-3.4§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-3.4§§",
+  "hasta": "3.5 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D04: «Dependo del boca a boca y es impredecible».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-3.5§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-3.5§§",
+  "hasta": "3.6 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D02: «Me comparan por precio con gente que no ha hecho ni la mitad» · D01: «Mis clientes me hacen caso en todo; en Instagram parezco uno más».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-3.6§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-3.6§§",
+  "hasta": "Raíz 4 ·"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "Raíz 4 ·",
+  "bloques": [
+   [
+    "texto",
+    "POR DECIDIR Si entra este concepto. Lo recuperé yo de la v5 (1.6), que lo tenía «por confirmar»: S12 y piezas de diciembre a febrero ya lo cuentan, y el árbol del 8 oct no tenía dónde colgarlas."
+   ]
+  ]
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D13: «No tengo tiempo para hacer contenido» · D14: «Nunca me he visto delante de una cámara. No sé si hablo bien».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-4.1§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-4.1§§",
+  "hasta": "4.2 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D15: «He intentado delegar y fue un desastre».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-4.2§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-4.2§§",
+  "hasta": "4.3 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D12: «Fui a un podcast, salió bien, y ya está».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-4.3§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-4.3§§",
+  "hasta": "4.4 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D13: «No tengo tiempo para hacer contenido».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-4.4§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-4.4§§",
+  "hasta": "4.5 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D14: «Nunca me he visto delante de una cámara. No sé si hablo bien».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-4.5§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-4.5§§",
+  "hasta": "4.6 ·"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "Dolores y ganchos de partida. D08: «No sé qué publicar, así que publico de todo: mi trabajo, mi café, mi rutina».",
+  "bloques": [
+   [
+    "texto",
+    "§§QUITAR-4.6§§"
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "§§QUITAR-4.6§§",
+  "hasta": "FIN_DE_PARTE"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " 2.2.1 → N08 · 2.2.2 → P12 · 2.2.3 → N08 · 2.2.4 → R04 · 2.2.5 → N08 · 2.2.6 → N08 · 2.2.7 → P13 · 2.2.8 → P14.",
+  "new": " D06: «Mi contenido atrae curiosos, no compradores»."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " 3.2.1 → N12 · 3.2.2 → N12, S12 y R12 · 3.2.3 → P19 · 3.2.4 → P20 · 3.2.5 → P21 · 3.2.6 → P22 · 3.2.7 no da pieza: «Cada resultado que nadie puede encontrar tiene muchísimo menos valor como activo de marca.» (va por donde P22) · 3.2.8 → P23.",
+  "new": " D02: «Me comparan por precio con gente que no ha hecho ni la mitad» · D01: «Mis clientes me hacen caso en todo; en Instagram parezco uno más»."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "Cada frase de tu documento, en su pieza.",
+  "new": "Dolores y ganchos de partida.",
+  "todas": true
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D07: «Todo el mundo",
+  "new": "D07 (de Caleb Ralston, traducida; la compartes con él): «Todo el mundo",
+  "todas": true
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D08: «No sé qué publicar",
+  "new": "D08 (de Caleb Ralston, traducida): «No sé qué publicar",
+  "todas": true
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D11: «Tengo buenos clientes",
+  "new": "D11 (de Caleb Ralston, traducida): «Tengo buenos clientes",
+  "todas": true
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": "D14: «Nunca me he visto",
+  "new": "D14 (de Caleb Ralston, traducida): «Nunca me he visto",
+  "todas": true
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " Se cuenta por el filtro de precio y no por la etiqueta, porque «virales de nicho» ya lo dice FullAgenda.",
+  "new": " «Viralidad de nicho» se dice (6.6), y se explica por el filtro de precio: «virales de nicho» ya lo dice FullAgenda."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "EL ÁRBOL: DE CADA RAÍZ, SUS PIEZAS",
+  "old": " Es el «banco de credibilidad» de Caleb Ralston, con nombre en castellano y acreditado.",
+  "new": " Es el «banco de credibilidad» de Caleb Ralston, acreditado. El nombre, «de autoridad» o «de credibilidad», POR DECIDIR (6.7)."
+ }
+]

@@ -1,0 +1,783 @@
+[
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "la guía de historias, la primera llamada con un cliente nuevo, la firma",
+  "new": "la guía de historias, la firma"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Unos 60 a 90 minutos al mes (7 oct), más la mañana de grabación",
+  "new": "Tres versiones tuyas: unos 60 a 90 minutos al mes, más la mañana de grabación (7 oct); una mañana de grabación por trimestre (tu proceso de venta, el mismo 7 oct); y «una llamada corta al cierre de cada mes» (tu web). POR DECIDIR",
+  "fila": "Su tiempo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "una mañana cada tres meses y una llamada corta al mes. Sin explicar el cómo.",
+  "new": "una mañana cada tres meses y una llamada corta al mes, si es lo que decides en 8.1 (POR DECIDIR). Sin explicar el cómo."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "La tuya: «Si vendes un servicio que se cierra en una llamada de ventas…» (R04)",
+  "new": "La tuya, en R04, abre con lo que tu comprador ya vivió: «Te dijeron que contratando una agencia para hacer contenido te llegarían clientes.» El sector y el tamaño van en el cierre: el filtro en los dos sitios (19 oct)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "«High Ticket» en la web. Lo pediste tú el 9 oct («pon High Ticket no HT») y choca con la regla de no decirlo en público (6.6). En la propuesta no sale. POR DECIDIR",
+  "new": "«High Ticket» se dice, con todas sus letras y nunca «HT»: lo pediste tú el 9 oct («pon High Ticket no HT»). El léxico está en una sola tabla, en 6.6."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Tu modelo, del 8 oct: el comprador entiende, comprueba y confía. Puesto al lado de CALMA, cada paso tiene su pilar y su forma de medirse:",
+  "new": "El modelo de la revisión de GPT del 8 oct, que aceptaste: el comprador entiende, comprueba y confía (si lo das por tuyo, POR DECIDIR). Puesto al lado de CALMA, cada paso tiene su pilar y su forma de medirse. Que cada pilar coincida con un paso es propuesta mía (10.8):"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Un gancho con su dolor y su condición en los tres primeros segundos",
+  "new": "Lo que ya vivió, en los tres primeros segundos (R04 abre con la agencia); el sector y el tamaño, en el cierre. Es el filtro en los dos sitios (19 oct)",
+  "fila": "Se para"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "(lo viral es subóptimo para él)",
+  "new": "(lo viral es subóptimo para él: la palabra te la propuso Fer el 8 oct y la aceptaste)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "las demás terminan en la tesis o en seguir con una razón.",
+  "new": "las demás terminan en la tesis. POR DECIDIR Cuándo una pieza tiene encaje y pide DIAGNÓSTICO. Mi lectura: cuando enseña algo que el diagnóstico mira en tu cuenta (claridad, relevancia, pruebas y puente a la venta); con ella, P33 y P34 no piden DIAGNÓSTICO."
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "texto",
+    "POR DECIDIR Qué cuenta como una conversación con encaje: quien vende a empresas (4.1), o también quien vende con llamada a particulares (4.5). Hasta que lo decidas, el objetivo (que el contenido traiga diagnósticos con quien encaja) no tiene con qué contarlas."
+   ]
+  ],
+  "antes_de": "Una cuenta hacia atrás, solo para orientarte"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "texto",
+    "Por qué cada uno de los cuatro, con lo que puedes sostener grabándote solo (propuesta mía, con lo que ya está en esta ficha):"
+   ],
+   [
+    "vineta",
+    "Pantalla dividida: enseña trabajo real en pantalla (tus notas de grabación, tu planificación, el antes y el después de una bio), que es lo que hace que tu comprador compruebe (8.4). Te grabas sentado, en plano medio, y la pantalla se monta después, en la edición, que ya haces tú."
+   ],
+   [
+    "vineta",
+    "Pizarra: dibuja por fases tus modelos con nombre mientras los explicas, que es lo que hace que entienda (8.4). Es un plano fijo, de pie, con la pizarra a tu derecha."
+   ],
+   [
+    "vineta",
+    "Espontáneo: móvil en mano y cámara frontal, donde estés (en casa, en el coche aparcado o en la calle). Es el que menos preparación pide y el que lleva lo personal: lo que te pasó y tus errores (R06, abril)."
+   ],
+   [
+    "vineta",
+    "Reacción: tu criterio sobre lo que dice otro, con su crédito entero (R04, con Diego Abreu). Se graba como la pantalla dividida, sentado, y el clip se monta después. Solo a vídeos en castellano, y pide tener el vídeo: P44 sigue sin el suyo."
+   ]
+  ],
+  "antes_de": "Las reglas de rodaje de tus guiones"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Con los cambios que propuso el plan del 15 oct, pendientes de tu sí.",
+  "new": "Con los cambios que propuso el plan del 15 oct, pendientes de tu sí. Noviembre r6 (20 oct) la cambia en dos sitios: N23 va en el de R03, y R05 sale."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "S02 · Hoy sale el primer vídeo largo",
+  "new": "— (S02 sale: anunciaba el vídeo largo)",
+  "fila": "Jue 5"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "R04 sin palabra; S02, según el encaje",
+  "new": "R04 sin palabra",
+  "fila": "Jue 5"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Contexto · Marco propio",
+  "new": "Contexto",
+  "fila": "Jue 5"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "La ranura: trabajo de la casa (la pizarra de V1)",
+  "new": "La ranura: trabajo de la casa (la pizarra de V1; si cuenta como trozo del vídeo largo, POR DECIDIR)",
+  "fila": "Dom 8"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "vineta",
+    "S02 sale de la semana: fuera toda secuencia que anuncia un vídeo de YouTube o es un trozo del vídeo largo (19 oct). Su otra frase se queda como tuya, con su origen: «Si consigo 10.000 visitas significará que lo hice mal.» (S02, tu noviembre)."
+   ]
+  ],
+  "antes_de": "Lo que se apunta cada día: alcance"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Con los cambios sigue pidiendo en seis (siete si S02 pide), y es la semana",
+  "new": "Con los cambios, y ya sin S02, pide en seis de siete, y es la semana"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": ", fotos de la pizarra y fragmentos de V1 o de Píldoras",
+  "new": " y fotos de la pizarra. Sin fragmentos de V1 ni de Píldoras: nada que sea un trozo de un vídeo largo (19 oct)",
+  "fila": "Presencia"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "S04, S05 y S10;",
+  "new": "S04 y S10 (S05 sale, 19 oct);",
+  "fila": "Criterio"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "(S01, S02, S03, S05, S09, S10, S11 y S12)",
+  "new": "(S01, S03, S09, S10, S11 y S12)",
+  "fila": "Interacción"
+ },
+ {
+  "op": "borrar",
+  "desde": "Unos 55 minutos en siete bloques",
+  "hasta": "8.11 Lo que hay para recibir"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "texto",
+    "Sale de la ficha: es cómo recibes a tus clientes, no tu marca, y la lleva la bienvenida del sistema, con tu decisión del 19 oct dentro: los formularios llegan antes de la llamada, ya rellenados, y la llamada se graba. El texto de la v6 está en el registro (bienvenida-primera-llamada.md)."
+   ]
+  ],
+  "antes_de": "8.11 Lo que hay para recibir"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Las diecinueve de la v5, con lo que ha cambiado desde entonces.",
+  "new": "Las diecinueve de la v5, con lo que ha cambiado desde entonces. El léxico (lo que se dice y lo que no) está en una sola tabla, en 6.6: aquí se remite a ella."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "En choque: la web lo dice dos veces, a petición tuya (6.6)",
+  "new": "Cambia (9 oct): se dice. El léxico, en 6.6"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Nunca «high ticket» en público",
+  "new": "«High Ticket», con todas sus letras; nunca «HT»"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Sigue: la dicen 17 de 22",
+  "new": "Cambia: se dicen, aunque mejor el hecho, porque «CONECTAN MAS». El léxico, en 6.6"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "«Autoridad» se describe, no se repite",
+  "new": "«Autoridad» y «referente» se dicen"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Sigue, explicada por el filtro de precio",
+  "new": "Sigue, explicada por el filtro de precio. «Viralidad de nicho» se dice (6.6)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "AC · ACCIÓN: DE VERTE A ESCRIBIRTE",
+  "old": "Mínimo el 75 u 80% del contenido",
+  "new": "Mínimo el 80% del contenido"
+ },
+ {
+  "op": "borrar",
+  "desde": "Los formularios del onboarding",
+  "hasta": "FIN_DE_PARTE"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "texto",
+    "Lo que ninguna escritura sube, ordenado por lo que mueve. Sustituye a los dos formularios de la v6: lo que ya estaba contestado vive en las partes 3 a 8, y su texto está en el registro (formularios-ficha-v6.md)."
+   ],
+   [
+    "texto",
+    "1. De tres a cinco conversaciones con compradores, con sus frases tal cual."
+   ],
+   [
+    "vineta",
+    "Qué mueve: nueve elementos. Son el cliente ideal, los segmentos, los dolores, lo que ya probó, el deseo, las objeciones, el lenguaje, el mecanismo y lo que piensa antes de escribir."
+   ],
+   [
+    "vineta",
+    "Por dónde empezar: pregunta primero por D03, D02, D01 y D12."
+   ],
+   [
+    "texto",
+    "2. Tu primera llamada de diagnóstico, grabada con permiso. Con sus preguntas convertidas en piezas y lo que pasó después. Es la prueba de la mitad de tu tesis que solo dices tú."
+   ],
+   [
+    "texto",
+    "3. Tu historia: el origen y la victoria (las preguntas de 6.9). Con eso salen tus tres frases."
+   ],
+   [
+    "texto",
+    "4. Un socio de agencia o consultora de tu red, con nombre, que cumpla tu cliente ideal. Es la comprobación en voz alta."
+   ],
+   [
+    "texto",
+    "5. Un caso de tu cliente principal: antes, decisión y después, la cifra y de quién es. Saldrá de tu primer cliente."
+   ],
+   [
+    "texto",
+    "6. Tus números de partida, con captura y fecha: seguidores en cada red, Metricool conectado y de dónde te llegan hoy los clientes."
+   ],
+   [
+    "texto",
+    "7. La fecha de tu meta de dos clientes."
+   ],
+   [
+    "texto",
+    "8. De Fernando: su visto bueno al texto de su testimonio, y qué hacemos con «mineralización»."
+   ],
+   [
+    "texto",
+    "9. Qué hiciste con cada marca de la franja de logos, si fueron clientes y si tienen permiso para salir."
+   ]
+  ],
+  "antes_de": "PARTE 10"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LOS DOS FORMULARIOS, RELLENADOS",
+  "old": "Los dos formularios, rellenados",
+  "new": "Lo que solo puedes traer tú"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Todo lo que queda abierto, en un solo sitio",
+  "texto": "Todo lo que queda abierto, en un solo sitio: las puertas del sistema, una sola lista «Por decidir», lo que hay que comprobar, lo que cambia en otros documentos, tu perfil y lo que he puesto yo. El material que solo puedes traer tú está en la parte 9. Delegaste la puerta de esta versión («sigue tú con todo», 20 oct): mientras no decidas, cada punto se queda como está, marcado POR DECIDIR, y no se ha publicado nada."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "Noviembre, tu versión del 12 oct, con el plan del 15 oct pendiente de tu sí",
+  "new": "Noviembre r6 y diciembre r4 (20 oct), con la crítica CALMA del 19 oct aplicada",
+  "fila": "El mes"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "La lista de noviembre: cinco sustituciones, una rehecha y doce ajustes",
+  "new": "Los Por decidir de cada mes, en sus Pendientes",
+  "fila": "El mes"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "La hoja de rodaje y la semana tipo (8.8)",
+  "new": "La hoja de rodaje del mes (noviembre v4, diciembre v1) y la semana tipo (8.8)",
+  "fila": "El mes"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "10.2 Lo que decides tú",
+  "new": "10.2 Por decidir"
+ },
+ {
+  "op": "borrar",
+  "desde": "Una sola lista, en el orden en que conviene",
+  "hasta": "10.4 Lo que hay que comprobar"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "texto",
+    "Una sola lista. Mientras no decidas, cada punto se queda como está, marcado POR DECIDIR donde se usa, salvo donde va mi lectura. Primero, lo que abrió la crítica del 20 oct, en su orden; después, lo que ya estaba pendiente en la v6; y al final, lo que salió al montar esta versión."
+   ],
+   [
+    "etiqueta",
+    "Lo que abrió la crítica del 20 oct"
+   ],
+   [
+    "texto",
+    "1. La garantía y la permanencia (8.1). La ficha dice que el 9 oct elegiste la garantía de implantación; la casa tiene cerradas la de resultado y que no hay permanencia (1, 3 y 5 oct); y tu web decía, el 7 oct, 90 días y después mes a mes."
+   ],
+   [
+    "texto",
+    "2. Un nombre para el banco: «de autoridad», como en tu documento, o «de credibilidad», como en tu destacada (6.7)."
+   ],
+   [
+    "texto",
+    "3. La frase de la raíz 3 en público: «No creamos autoridad. Hacemos visible la que ya tienes», o con el hecho, como prefieres (6.5)."
+   ],
+   [
+    "texto",
+    "4. Cuándo una pieza tiene encaje y pide DIAGNÓSTICO (8.4). Mi lectura: cuando enseña algo que el diagnóstico mira en tu cuenta (claridad, relevancia, pruebas y puente a la venta). Con ella, P33 y P34 no piden DIAGNÓSTICO."
+   ],
+   [
+    "texto",
+    "5. Del anillo 2 al 3: ¿qué se suelta primero, el tamaño o el modelo de compra? (4.4)"
+   ],
+   [
+    "texto",
+    "6. Quién encaja: solo quien vende a empresas (4.1), o también quien vende con llamada a particulares (4.5)."
+   ],
+   [
+    "texto",
+    "7. Tu cliente principal: el socio de la consultora, aunque la tabla de 4.2 le dé un punto más al experto con micro."
+   ],
+   [
+    "texto",
+    "8. Los documentos de Luis: ¿se enseñan difuminados (la ranura del lunes, R08), o no, por tu corrección del 12 oct de que un plan sin ejecutar no se enseña como demostración?"
+   ],
+   [
+    "texto",
+    "9. Los seguidores de Píldoras: ¿resultado tuyo (R23, y 9.2 en la v6) o contexto (5.2)?"
+   ],
+   [
+    "texto",
+    "10. La pizarra de V1 en la ranura del domingo: ¿cuenta como trozo del vídeo largo? (8.8)"
+   ],
+   [
+    "texto",
+    "11. Tu voz: ¿«nosotros» nunca, o solo cuando sois tú y tu cliente? ¿Frases cortas, como piden las reglas, o largas con el porqué dentro, como escribes?"
+   ],
+   [
+    "texto",
+    "12. Los dolores que abren el primer mes. Los siete del barrido dejan fuera D05 y D07, dos de lo que tu comprador ya probó: ¿entran? ¿Y en cuántas piezas al mes va lo que ya probó?"
+   ],
+   [
+    "texto",
+    "13. «Trabajo con dos empresas a la vez»: ¿es tu capacidad, o que hoy tienes dos?"
+   ],
+   [
+    "texto",
+    "14. De quién son. Las frases de tu documento del 8 oct: ¿las escribiste tú, o las elegiste de lo que te propuso otro asistente? Lleva comentarios que te hablan de tú. «Entender, comprobar, confiar»: ¿lo das por tuyo? «Si no te conocen antes de necesitarte, no estás en esa lista.»: ¿es tuya? La segunda frase de D12, «…y no pasó nada. Un enlace en la bio y ya»: ¿es tuya?"
+   ],
+   [
+    "texto",
+    "15. Los referentes, los anti-referentes y la regla de oro (3.4 y 3.5): los puse yo. ¿Son los tuyos?"
+   ],
+   [
+    "texto",
+    "16. Los conceptos 1.5, 2.6 y 3.6, que añadí yo: ¿entran?"
+   ],
+   [
+    "texto",
+    "17. D06: ¿de los avatares 2 y 4, como en la v6, o del principal, como en la v5?"
+   ],
+   [
+    "texto",
+    "18. El tiempo que pides al cliente al mes: ¿60 a 90 minutos, una mañana por trimestre o una llamada corta al cierre de cada mes? (8.1)"
+   ],
+   [
+    "texto",
+    "19. YouTube y soportes. Dos vídeos al mes es propuesta mía del 6 oct. Los reels: ¿cuatro plataformas o solo Instagram? (8.13)"
+   ],
+   [
+    "texto",
+    "20. Las cuentas de Luis: ¿@lu1sma es Luis? ¿De dónde sale el 80.000?"
+   ],
+   [
+    "texto",
+    "21. Pilar y apartado: ¿cada pilar se ata a un apartado de CALMA? ¿Lo que maximiza cada pieza se llama «apartado» o «trabajo»? (4.10 y 8.4)"
+   ],
+   [
+    "texto",
+    "22. La errata de tu documento del 8 oct: ¿querías decir B2C? (10.8)"
+   ],
+   [
+    "etiqueta",
+    "Lo que ya estaba pendiente en la v6"
+   ],
+   [
+    "vineta",
+    "Para cuándo es tu meta de dos clientes (parte 1; y parte 9, punto 7)."
+   ],
+   [
+    "vineta",
+    "El precio con los 120 días y la forma de pago (8.1)."
+   ],
+   [
+    "vineta",
+    "Tu tesis en una frase (6.1). La vuelta del contenido a la llamada ya es tuya (9 oct): lo que queda abierto es por qué la quitaste del bloque 3 de la web el 15 oct (6.2)."
+   ],
+   [
+    "vineta",
+    "Los dolores del barrido (4.7): los cinco a siete que pasan."
+   ],
+   [
+    "vineta",
+    "El socio de tu red que pone cara a tu cliente ideal (4.1; parte 9, punto 4)."
+   ],
+   [
+    "vineta",
+    "El titular: A, B o C (6.4 y 8.3). Recomiendo la C."
+   ],
+   [
+    "vineta",
+    "Qué cifra de tu error de abril sale en público (5.5)."
+   ],
+   [
+    "vineta",
+    "«Mineralización» en la cita de Fernando (5.3): se explica en la pieza o se le pide otra palabra (parte 9, punto 8)."
+   ],
+   [
+    "vineta",
+    "Autoridad de Nicho (6.4 y 6.7): se retira o se queda solo por dentro."
+   ],
+   [
+    "vineta",
+    "Los cuatro formatos fijos (8.7)."
+   ],
+   [
+    "vineta",
+    "Tu perfil (10.6): la foto, la bio y el nombre."
+   ],
+   [
+    "vineta",
+    "Las destacadas (10.6): tu sí al texto del 18 oct, los días y si Diagnóstico sustituye a la S03 o va en otra semana."
+   ],
+   [
+    "vineta",
+    "El camino del WhatsApp (8.5): en cuánto contestas, si el diagnóstico es gratis, si es página o página y llamada corta, y cuánto dura."
+   ],
+   [
+    "vineta",
+    "Las dos reglas de historias (8.9): la llamada en la última historia de una secuencia de venta, y cómo se ven."
+   ],
+   [
+    "vineta",
+    "Dónde va el VSL (8.11)."
+   ],
+   [
+    "vineta",
+    "Qué se hace con la carpeta de recursos (8.11)."
+   ],
+   [
+    "vineta",
+    "Tu historia en tres frases (6.9) y qué intereses tuyos se cuentan, si alguno (6.10)."
+   ],
+   [
+    "vineta",
+    "«Auditoría» o «consultoría» en la oferta (8.1)."
+   ],
+   [
+    "vineta",
+    "Las palabras en inglés de la oferta y la web (8.13): «FollowMe Ads», «Lead Magnets», «funnels» y «filmmaker»."
+   ],
+   [
+    "vineta",
+    "El crédito del 75, 15 y 10 (8.1): si sale del 70-20-10 de Caleb Ralston, se le acredita."
+   ],
+   [
+    "vineta",
+    "Las reglas del trabajo con un cliente: las rondas de revisión, cuándo se factura y qué parte de lo suyo tiene que cumplir para que valga la garantía (iban en la primera llamada, que ahora lleva la bienvenida del sistema)."
+   ],
+   [
+    "vineta",
+    "La exclusividad por sector, por si te preguntan si trabajarías a la vez para ellos y para su competencia (4.9)."
+   ],
+   [
+    "vineta",
+    "Si cuentas algo de tus clientes en tu contenido, con su permiso (iba en la primera llamada, que ahora lleva la bienvenida del sistema)."
+   ],
+   [
+    "vineta",
+    "Tus propios FollowMe Ads: si hay presupuesto, y cuánto (8.11)."
+   ],
+   [
+    "vineta",
+    "Los pesos de los pilares (4.10), cuando haya datos: propongo 30, 25, 30 y 15."
+   ],
+   [
+    "vineta",
+    "Dónde se prospecta primero (4.2), cuando haya datos: propongo donde se cruzan el avatar 1 y el 2."
+   ],
+   [
+    "vineta",
+    "La garantía por resultado en lugar de la de implantación, cuando haya un caso (8.1)."
+   ],
+   [
+    "vineta",
+    "El desglose del coste de un mes de trabajo, si se publica (pendiente desde la v5)."
+   ],
+   [
+    "etiqueta",
+    "Lo que salió al montar esta versión"
+   ],
+   [
+    "vineta",
+    "Qué cuenta como una conversación con encaje (8.6)."
+   ],
+   [
+    "vineta",
+    "«Reflejo» en dos modelos: el Método Reflejo y «Tienes la autoridad, no tienes el reflejo» (6.7). Cuál se queda con la palabra."
+   ],
+   [
+    "vineta",
+    "El clipper (6.7): su nombre en castellano."
+   ],
+   [
+    "vineta",
+    "Una condición por salto de anillo (4.4): hoy, del 2 al 3 se sueltan dos a la vez (punto 5)."
+   ],
+   [
+    "titulo",
+    "10.3 El material que solo puedes traer tú"
+   ],
+   [
+    "texto",
+    "Está en la parte 9, ordenado por lo que mueve."
+   ]
+  ],
+  "antes_de": "10.4 Lo que hay que comprobar"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "como prueba tuya y si dice «High Ticket».",
+  "new": "como prueba tuya."
+ },
+ {
+  "op": "borrar",
+  "desde": "N06 no está en tu Doc de sustitución",
+  "hasta": "Tu Doc de diciembre cambió el 18 oct"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Tu Doc de diciembre cambió el 18 oct",
+  "texto": "Diciembre ya pasó la ronda de las llamadas a la acción (r4, 20 oct, sobre tu Doc con tus cambios). Enero y febrero se leen antes de la suya."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "La lista de 10.2, la hoja de rodaje nueva y la semana tipo",
+  "new": "Hecho: noviembre r6 (20 oct), con su hoja de rodaje v4, ya sin S02 ni S05. Queda la semana tipo de 8.8 al día con la r6",
+  "fila": "Noviembre"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "el gancho de oficio (el que le habla al colega y no al dueño) en 29",
+  "new": "el gancho de oficio (el que le habla al colega y no al dueño) en 29. Diciembre ya la ha pasado: r4 (20 oct), con su hoja de rodaje v1, ya sin S14, S17, S20 ni S23. Quedan enero y febrero, donde S32 y S44 salen por lo mismo",
+  "fila": "Diciembre a febrero"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "El titular y lo de debajo si eliges la C; «High Ticket»; las plataformas; y el hallazgo nuevo del diagnóstico",
+  "new": "Va al documento de la web. Lo que decía aquí, y lo de la web que seguía abierto el 15 oct, está en el registro (notas-de-proceso-ficha-v6.md)",
+  "fila": "La web"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "N01 a N20 y P41 a P44",
+  "new": "N01 a N20 (sin N06, que borraste) y P41 a P44",
+  "fila": "El banco de ideas"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "Se regenera desde este Doc, con tus decisiones del 15 y el 18 oct dentro",
+  "new": "Siguen en tus guiones y 10.5 no las mandaba quitar: el pie de R06, «En abril vendía 180 reels al mes por 1.200 €, y no salió un cliente.»; la ranura del sábado de noviembre, con BRANDfog, PeopleXBrand y el censo viejo; el vídeo de ventas, con «Más del 70%»; R05, «de 1 año a 3 meses»; y diciembre y V1, con la versión de abril que retira 5.5. Noviembre r6 y diciembre r4 (20 oct) ya las aplican, y S02, S05, S14, S17, S20 y S23 ya están fuera de esos meses. Quedan, fuera de esos dos Docs, el vídeo de ventas y V1, para cuando los toques",
+  "fila": "La copia de trabajo de la ficha"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "La copia de trabajo de la ficha",
+  "new": "Las cifras retiradas, pieza a pieza"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "Nada todavía, como pediste. Cuando lo decidas: quitar el nivel «idea» (raíz, concepto y pieza), los formatos fijos, cada pieza juzgada por su trabajo CALMA y el destino único",
+  "new": "El sistema 3.6.0 ya mete CALMA por dentro en cada paso. Lo demás, cuando lo decidas: quitar el nivel «idea» (raíz, concepto y pieza), los formatos fijos y el destino único",
+  "fila": "El sistema de trabajo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "«Miguel · Marca personal» (propuesta del 9 oct)",
+  "new": "Tu usuario: migueljimenezvazquez_ (9 oct). El nombre: «Miguel · Marca personal» (propuesta del 9 oct)",
+  "fila": "Nombre del perfil"
+ },
+ {
+  "op": "borrar",
+  "desde": "Las escribiste encima de la v5",
+  "hasta": "10.8 Lo que he puesto yo"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "texto",
+    "Salen de la ficha: son notas de proceso. Están en el registro, tal cual y con lo que se hizo con cada una (notas-de-proceso-ficha-v6.md)."
+   ]
+  ],
+  "antes_de": "10.8 Lo que he puesto yo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "Lo que no sale de tus palabras ni de tus documentos, para que lo mires con más cuidado:",
+  "new": "Lo que no sale de tus palabras ni de tus documentos, para que lo mires con más cuidado. Cada cosa va marcada también donde se usa:"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": ", la guía de historias con su banco de preguntas (8.9) y la primera llamada con un cliente nuevo (8.10).",
+  "new": ", la guía de historias con su banco de preguntas (8.9), el porqué de los cuatro formatos fijos (8.7) y la lectura de cuándo una pieza tiene encaje (8.4)."
+ },
+ {
+  "op": "borrar",
+  "desde": "En los formularios (parte 9): las respuestas",
+  "hasta": "En la parte 2, los techos"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "En la parte 2, los techos",
+  "texto": "En la parte 2, lo que le falta a cada apartado."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "POR RESOLVER",
+  "old": "Los nombres públicos sin «autoridad» de tres modelos (6.7), la respuesta a",
+  "new": "La respuesta a"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "El plazo en el copy propuesto",
+  "texto": "El plazo en el copy propuesto («en unos meses», de tu cierre)."
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "vineta",
+    "«Esto se lo entrego yo a mis clientes» (4.2), que sale de la simulación del 8 oct; lo que dice el sector en 6.1, que no es una cita; y las reescrituras de 6.4."
+   ]
+  ],
+  "antes_de": "El plazo en el copy propuesto"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "etiqueta",
+    "Las citas retocadas"
+   ],
+   [
+    "texto",
+    "El arreglo se queda, porque vale, pero cada una va dicha aquí:"
+   ],
+   [
+    "vineta",
+    "De Fer: «¿Tú crees que con ese pitch yo voy a confiar en ti?» (4.3 y 4.9). La transcripción dice «¿Tienes que con ese pitch yo voy a confiar en ti?»."
+   ],
+   [
+    "vineta",
+    "De Fer: la de «subóptima» (Polvoranca, 10:48), con «B2B» donde la transcripción dice «V2B»."
+   ],
+   [
+    "vineta",
+    "De Fer: dos de Polvoranca, cosidas de dos minutos."
+   ],
+   [
+    "vineta",
+    "Tuya: la de S12 (6.8)."
+   ],
+   [
+    "vineta",
+    "De tu documento del 8 oct: la errata B2B, corregida a B2C en el árbol. Si querías decir B2C está en la lista «Por decidir» (10.2)."
+   ],
+   [
+    "vineta",
+    "De tus guiones: las tildes que faltaban por dictado («Edité», «llegué»)."
+   ]
+  ],
+  "antes_de": "PARTE 11"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "FUENTES",
+  "old": "con tus notas de arriba (10.7).",
+  "new": "con tus notas de arriba (están en el registro: notas-de-proceso-ficha-v6.md)."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "FUENTES",
+  "old": "Desde hoy la sustituye esta ficha;",
+  "new": "Desde el 19 oct, la copia de trabajo es la ficha v6;"
+ },
+ {
+  "op": "insertar",
+  "bloques": [
+   [
+    "vineta",
+    "Tu proceso de venta (7 oct), que preparé yo y no has corregido: las objeciones y sus respuestas (4.9), el semáforo de la conversación por WhatsApp y el tiempo que pides al cliente (8.1)."
+   ],
+   [
+    "vineta",
+    "Las otras versiones de tu web que se citan: la v6 y la v7 (Píldoras), la v17 (la foto), la v22 (el testimonio de Fernando, el antes de Píldoras y lo de Luis) y la v41, descartada."
+   ],
+   [
+    "vineta",
+    "Tus destacadas: «MP Miguel · Destacadas del perfil · v1 · 18 oct 2026», con su auditoría."
+   ],
+   [
+    "vineta",
+    "Tu bio: las tres opciones del 9 oct y su auditoría del 11 oct."
+   ],
+   [
+    "vineta",
+    "Tu posicionamiento del 1 oct, con tu tronco A."
+   ],
+   [
+    "vineta",
+    "La crítica de tu ficha v6 (20 oct), que es lo que cambia en esta versión."
+   ],
+   [
+    "vineta",
+    "Lo que ha salido de la ficha en esta versión (la primera llamada, los dos formularios y las notas de proceso), en el registro del proyecto: mp-miguel/registro/."
+   ]
+  ],
+  "antes_de": "Las tres investigaciones del 19 oct"
+ }
+]

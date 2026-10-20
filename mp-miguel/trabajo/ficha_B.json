@@ -1,0 +1,713 @@
+[
+ {
+  "op": "parrafo",
+  "empieza": "Que tu contenido le hable exactamente",
+  "texto": "Que tu contenido le hable exactamente a quien puede contratarte, con sus palabras, y que el que no puede pase de largo. Aquí van tu cliente ideal, la decisión entre avatares hecha por lógica de negocio, los anillos, los quince dolores madre con el barrido del mercado, los deseos, las objeciones, los pilares, el lenguaje y lo que tu comprador ya probó (4.12).",
+  "porque": "Crítica parte 3.5: el bloque nuevo, anunciado en la entrada de la parte"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "y ya ha probado publicar, una agencia o un podcast sin que le trajera conversaciones con quien puede pagarle.",
+  "new": "y ya ha probado publicar, una agencia, alguien que copió lo viral de su sector o un podcast sin que le trajera conversaciones con quien puede pagarle (4.12).",
+  "porque": "Crítica parte 3.5: lo que ya probó, con su sitio propio"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "(lo de «high ticket», solo por dentro)",
+  "new": "(«High Ticket» se dice, con todas sus letras y nunca «HT»: la tabla de léxico de 6.6)",
+  "porque": "Crítica parte 3.1: tu nota de 6.6",
+  "fila": "La condición, en tus palabras"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "(«esto se lo entrego yo a mis clientes»)",
+  "new": "(«esto se lo entrego yo a mis clientes», de la simulación del 8 oct, no de un comprador)",
+  "porque": "Crítica parte 4, Quién dijo qué 8: frase de la simulación"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "«La gente me pide descuentos y a veces cedo.» Son hipótesis hasta oírlas a un comprador",
+  "new": "«La gente me pide descuentos y a veces cedo.» · Y lo que ya probó (4.12): «Contraté a alguien que miró qué era viral en mi sector y lo copió. No trajo nada.» · «La marca personal no me ha traído un solo cliente.» Son hipótesis hasta oírlas a un comprador",
+  "porque": "Crítica parte 3.5: lo que ya probó entra en la voz del avatar 1",
+  "fila": "Su voz interna (los ganchos)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "El 8 oct, hablando de sus anuncios: «sí, me traen mucha gente… pero no son mi ICP» (Villa del Prado, 4:58).",
+  "new": "El 8 oct, hablando de sus anuncios, que tiene desactivados, no de su contenido: «sí, me traen mucha gente… pero no son mi ICP» (Villa del Prado, 4:58).",
+  "porque": "Crítica parte 4, Quién dijo qué 2",
+  "fila": "Su voz interna, la más cercana que hay"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Hipótesis: «Nunca me he visto delante de una cámara. No sé si hablo bien.» ·",
+  "new": "Hipótesis: «Nunca me he visto delante de una cámara. No sé si hablo bien.» (de Caleb Ralston, traducida) ·",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (D14)",
+  "fila": "Su voz interna"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "cierra él las ventas en una llamada",
+  "new": "cierra él las ventas en una llamada. Anillo 1",
+  "porque": "Crítica parte 5.11: el anillo de cada avatar",
+  "fila": "Quién es"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "sus formaciones se venden sin llamada (el ojo de abajo)",
+  "new": "sus formaciones se venden sin llamada (el ojo de abajo). Anillo 2 o 3 (4.2)",
+  "porque": "Crítica parte 5.11",
+  "fila": "Quién es"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "consultoría de gestión, que vende con una llamada o una reunión",
+  "new": "consultoría de gestión, que vende con una llamada o una reunión. Anillo 2",
+  "porque": "Crítica parte 5.11",
+  "fila": "Quién es"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "y lo que ha probado no le ha traído clientes (D05)",
+  "new": "y lo que ha probado no le ha traído clientes (D05). Lo que ya probó (4.12): publicar él (D05), pagar una agencia o delegar (D15), contratar a alguien que copió lo viral de su sector (D07) o montar un podcast (formulario, D4)",
+  "porque": "Crítica parte 5.11: lo que ya probó cada avatar",
+  "fila": "Su dolor"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "le llega mucha gente que no es su cliente (D06)",
+  "new": "le llega mucha gente que no es su cliente (D06). Lo que ya probó (4.12): ir a un podcast (D12), publicar (D05) o contratar a alguien que copió lo viral (D07); Fernando, además, anuncios que le traían mucha gente que no era su cliente, y hoy los tiene desactivados (Villa del Prado, 4:58)",
+  "porque": "Crítica parte 5.11",
+  "fila": "Su dolor"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "le da miedo parecer vendedor (D10) y le comparan por precio (D02)",
+  "new": "le da miedo parecer vendedor (D10) y le comparan por precio (D02). Lo que ya probó (4.12): delegar, y fue un desastre (D15)",
+  "porque": "Crítica parte 5.11",
+  "fila": "Su dolor"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Le comparan por precio (D02) y le llegan curiosos que no compran (D06)",
+  "new": "Le comparan por precio (D02) y le llegan curiosos que no compran (D06). Lo que ya probó (4.12): publicar, con seguidores que no son su público (D06) y sin que le trajera clientes (D05)",
+  "porque": "Crítica parte 5.11",
+  "fila": "Su dolor"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "El tamaño y el modelo de compra",
+  "new": "El tamaño y el modelo de compra, los dos a la vez. Va una condición por salto: cuál se suelta primero, POR DECIDIR",
+  "porque": "Crítica parte 5.3: una condición por salto, Por decidir",
+  "fila": "3"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "como mínimo, el 75 u 80% del contenido es del centro",
+  "new": "como mínimo, el 80% del contenido es del centro",
+  "porque": "Decisión de Miguel (crítica parte 7, pregunta 4): una sola cifra, el 80 %"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Las frases de Caleb Ralston y Kallaway están traducidas del inglés y no cuentan como fuente en castellano.",
+  "new": "Las frases de Caleb Ralston y de Kallaway están traducidas del inglés, van marcadas con su nombre en la columna de fuentes y no cuentan como fuente en castellano. Son suyas salvo las que te hayan dicho tus clientes.",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (decisión 3 de Miguel)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "2 (Natalia Papiol, título de un artículo de su boletín); 2 («¡por lo menos con mi negocio no funcionan!», clientes citados por una agencia); 4",
+  "new": "2 (Natalia Papiol, título de un artículo de su boletín); 2 («¡por lo menos con mi negocio no funcionan!», clientes citados por una agencia); 4; alguna de las otras frases es una variante de Caleb Ralston, traducida (cuál, la v6 no lo dice)",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (variantes de D05)",
+  "fila": "D05"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "1 (Fernando: «me traen mucha gente… pero no son mi ICP»)",
+  "new": "1, con matiz (Fernando, hablando de sus anuncios, que tiene desactivados: «me traen mucha gente… pero no son mi ICP», Villa del Prado, 4:58; no habla de su contenido, y vende sin llamada)",
+  "porque": "Crítica parte 4, Quién dijo qué 2",
+  "fila": "D06"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "3 (Forocoches, 2017); 4",
+  "new": "3 (Forocoches, 2017); 4. «Los comentarios de mis vídeos cortos…», variante de Caleb Ralston, y «Un vídeo se me hizo viral…», de Kallaway, traducidas",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (variantes de D06)",
+  "fila": "D06"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "4",
+  "new": "La primera, de Caleb Ralston, traducida, que también dices tú; la segunda, 4 (tú, tu nota de diciembre)",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (D07)",
+  "fila": "D07"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "3 («no tengo ni idea de cómo ir lanzando el contenido», Forocoches, 2025); 4",
+  "new": "La primera, de Caleb Ralston, traducida; 3 («no tengo ni idea de cómo ir lanzando el contenido», Forocoches, 2025); 4 (la segunda, tú)",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (D08)",
+  "fila": "D08"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "4",
+  "new": "4 (la primera, tú); la segunda, de Caleb Ralston, traducida",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (la segunda de D09)",
+  "fila": "D09"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "4",
+  "new": "La primera, de Caleb Ralston, traducida, y «¿Y tú por qué?…», también suya (4.9); 4 (la otra, tú)",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (D11)",
+  "fila": "D11"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "en inglés lo cuentan y funciona",
+  "new": "en inglés lo cuentan y hay conversación",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 1",
+  "fila": "D12"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "4",
+  "new": "4; «No tengo tiempo para estar en todas las plataformas», variante de Caleb Ralston, traducida",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (variantes de D13)",
+  "fila": "D13"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "2 («hace años que quier grabarme",
+  "new": "La frase, de Caleb Ralston, traducida; 2 («hace años que quier grabarme",
+  "porque": "Crítica parte 4, Quién dijo qué 1 (D14)",
+  "fila": "D14"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "La elección está en 10.2.",
+  "new": "La elección está en 10.2. D05 y D07, dos de lo que tu comprador ya probó (4.12), quedan fuera de los siete: si entran, POR DECIDIR.",
+  "porque": "Crítica parte 7, punto 12"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "en castellano nadie trata qué hacer después del podcast, en inglés sí y funciona (Lori Harder, «How to Turn Podcast Guest Interviews Into Sales», 30.342 visualizaciones en seis días)",
+  "new": "en castellano nadie trata qué hacer después del podcast, y en inglés hay conversación (Lori Harder, «How to Turn Podcast Guest Interviews Into Sales», 30.342 visualizaciones en seis días: dicen que se habla de ello, no que funcione)",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 1: las visitas no son prueba"
+ },
+ {
+  "op": "borrar",
+  "desde": "En boca de un cliente real, Fernando",
+  "hasta": "En tu lenguaje (hipótesis hasta oírlo en el suyo)",
+  "porque": "Crítica parte 5.11 y parte 4, Quién dijo qué 3: el deseo pasa a tabla con código"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "En tu lenguaje (hipótesis hasta oírlo en el suyo)",
+  "bloques": [
+   [
+    "texto",
+    "Cada deseo, con su código, como los dolores: su frase, su fuente y quién lo tiene. Las fuentes, con la misma escala que en 4.6. Fernando sale dos veces y no vale lo mismo: cuando compra (su testimonio, y haciendo de comprador en vuestro ensayo) y cuando te asesora. Solo lo primero es deseo de comprador."
+   ],
+   [
+    "tabla",
+    {
+     "cabecera": [
+      "Código",
+      "El deseo, en su voz",
+      "Fuentes",
+      "Quién lo tiene"
+     ],
+     "filas": [
+      [
+       "DE01",
+       "Que el que le escribe ya haya visto cómo trabaja. Fernando, en su testimonio de tu web: «me entran leads que están más cerca de comprar mis formaciones, porque ya han visto cómo es mi producto en redes sociales». En tu lenguaje: que sus leads lleguen prevendidos a la llamada de ventas; «Que el que te escribe ya haya visto cómo trabajas»",
+       "1, con matiz: Fernando, cliente tuyo, cuando compra; el texto del testimonio lo dictaste tú el 9 oct y falta su visto bueno (5.3). 4 (tú). «Prevendido» la propuso Fer el 8 oct: «que tus leads lleguen pre-vendidos a llamada» (Villa del Prado, 2:03)",
+       "2 (Fernando, que vende sin llamada); 1, en tu lenguaje: «que el que le escribe ya sepa quién es y por qué él» (4.3); 3 y 4, como hipótesis (4.3)"
+      ],
+      [
+       "DE02",
+       "Que en unos meses lo raro sea que le lleguen leads fríos",
+       "4 (tú)",
+       "1, por D03 (hipótesis)"
+      ],
+      [
+       "DE03",
+       "Dejar de justificar su precio",
+       "4 (tú)",
+       "1 (4.3); 4, como «que quien le llama venga ya decidido, no a preguntar el precio» (4.3, hipótesis)"
+      ],
+      [
+       "DE04",
+       "Que la llamada empiece donde hoy termina",
+       "4 (tú)",
+       "1 (4.3)"
+      ],
+      [
+       "DE05",
+       "Que le busquen a él: invitaciones, socios, prensa",
+       "4 (tú)",
+       "Sin dato"
+      ],
+      [
+       "DE06",
+       "Delegar el contenido sin que le dé más trabajo: una mañana cada tres meses en vez de vivir grabando",
+       "4 (tú)",
+       "Sin dato; el 3, en parte: «sin tener que exponerse más de la cuenta» (4.3, hipótesis)"
+      ],
+      [
+       "DE07",
+       "«yo lo que quiero como humano es dónde me estoy equivocando», con una «ayuda tangible»",
+       "1, con matiz: Fernando haciendo de comprador en vuestro ensayo del 8 oct (Villa del Prado, 12:04); es un ensayo, no una compra",
+       "2 (Fernando)"
+      ]
+     ]
+    }
+   ],
+   [
+    "texto",
+    "Fernando cuando asesora, no cuando compra: «Si te pago mil y el retorno de la inversión va a ser tres mil con riesgo bajo, lo hago» (Villa del Prado, 7:11). Lo dice explicándote cómo piensa quien lee tu página («el que te lea la página va a pesar lo siguiente», 7:01), no como lo que quiere él de comprador. Sirve para escribir la página y el cierre; no es un deseo."
+   ],
+   [
+    "texto",
+    "«Mineralización», en su testimonio: quien llega en frío no la entiende (5.3)."
+   ]
+  ],
+  "porque": "Crítica parte 5.11 (deseo con código) y parte 4, Quién dijo qué 3 (4.8 atribuido como Fer asesorando)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "En tu lenguaje (hipótesis hasta oírlo en el suyo)",
+  "texto": "Lo que les falta a todos: dichos por compradores. Lo que es fuente 4 es hipótesis hasta tus primeras conversaciones; se copia tal cual al banco, con su fecha.",
+  "porque": "Crítica parte 9 (A · El deseo): deseos dichos por compradores; el resto del párrafo ya está en la tabla"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "4.10 Los pilares",
+  "texto": "4.10 Los pilares, y aparte el apartado de cada pieza",
+  "porque": "Crítica parte 5.7: pilar y apartado, por separado"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Los cuatro pilares son tuyos",
+  "texto": "Los cuatro pilares son tuyos y los definiste así en R13: «1 que te descubra tu cliente ideal, 2 que te posicione como una autoridad, 3 que confíe en ti y 4 busca que el cliente conozca tu metodología y tu producto». El pilar y el apartado se cuentan por separado: el pilar dice de qué habla la pieza y para qué; el apartado de CALMA, qué maximiza en quien mira (tu regla del 15 oct: cada pieza maximiza uno). Que cada pilar se ate a un apartado, como va entre paréntesis en la tabla, es propuesta mía, no tuya. POR DECIDIR Si se atan; y si lo que maximiza cada pieza se llama «apartado» o «trabajo», que hoy nombra las dos cosas. El contexto no es un pilar del reparto: es el filtro que pasa toda pieza, para no sonar a otro más. Las piezas que maximizan el contexto (N03, N07, R04, R14 y S04) cuentan en el reparto como descubrimiento: hacen que el que mira se reconozca y te separe del resto. La humanización y la viralidad van por encima, como capas.",
+  "porque": "Crítica parte 5.7, parte 4 Quién dijo qué 8 (lo de CALMA por pilar es mío) y parte 3.8 (fuera N06 y S02)"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Descubrimiento (A)",
+  "new": "Descubrimiento (A, propuesta)",
+  "porque": "Crítica parte 5.7: atar pilar y apartado, como propuesta"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Autoridad (M)",
+  "new": "Autoridad (M, propuesta)",
+  "porque": "Crítica parte 5.7: atar pilar y apartado, como propuesta"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Demostración (L)",
+  "new": "Demostración (L, propuesta)",
+  "porque": "Crítica parte 5.7: atar pilar y apartado, como propuesta"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Conversión (Ac)",
+  "new": "Conversión (Ac, propuesta)",
+  "porque": "Crítica parte 5.7: atar pilar y apartado, como propuesta"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "A · ATENCIÓN: A QUIÉN LE HABLAS Y QUÉ LE DUELE",
+  "old": "Todos, con el filtro en el gancho",
+  "new": "Todos, con el filtro en los dos sitios: lo que ya vivió, en los tres primeros segundos; el sector y el tamaño, en el cierre",
+  "porque": "Crítica parte 3.4: el filtro en los dos sitios"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "La condición, sin decir «high ticket»",
+  "texto": "El filtro va en los dos sitios (lo decidiste el 19 oct): lo que el comprador ya vivió, arriba, en los tres primeros segundos; el sector y el tamaño, en el cierre. R04 lo cuenta bien: abre con lo que vivió, «Te dijeron que contratando una agencia para hacer contenido te llegarían clientes.», y la condición llega después, «Si vendes un servicio que se cierra en una llamada de ventas» en el cuerpo y «Si vendes un producto de 1.000 euros o más» en el cierre.",
+  "porque": "Crítica parte 3.4: filtro en los dos sitios, con R04 de ejemplo"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "«Comprador» casi no lo usas",
+  "bloques": [
+   [
+    "texto",
+    "La condición, en tus palabras: «si vendes un servicio que se cierra en una llamada de ventas», «si tus clientes te pagan varios miles de euros» o «si vendes un producto de 1.000 euros o más» (R04). «High Ticket» también se dice, con todas sus letras y nunca «HT»; «autoridad» y «referente» se dicen, aunque mejor el hecho; y «viralidad de nicho» se dice. El léxico entero está en la tabla de 6.6, y manda sobre esta parte."
+   ]
+  ],
+  "porque": "Crítica parte 3.1: 4.11 remite a la tabla de léxico de 6.6"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "De dónde salen las palabras de la tabla",
+  "texto": "De dónde sale cada palabra, con las fuentes de 4.6. Las del barrido son de foros y comentarios; las demás, tuyas. Todas son hipótesis hasta que las oigas en tus conversaciones.",
+  "porque": "Crítica parte 5.11: el lenguaje, con la fuente de cada palabra"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "PARTE 5",
+  "bloques": [
+   [
+    "tabla",
+    {
+     "filas": [
+      [
+       "llamada de ventas",
+       "Tus guiones: «Si vendes un servicio que se cierra en una llamada de ventas» (R04). Fuente 4, tú"
+      ],
+      [
+       "cliente ideal",
+       "Tus guiones: es tu palabra, y «comprador» casi no la usas. Fuente 4, tú"
+      ],
+      [
+       "presupuesto",
+       "«He pasado presupuesto de 700€ y me contraofertan con pagar 500€» (D02). Fuente 3, Forocoches, 2019"
+      ],
+      [
+       "descuento",
+       "«La gente me pide descuentos y a veces cedo» (D02). Fuente 4, tú"
+      ],
+      [
+       "me comparan por precio",
+       "«Me comparan por precio con gente que no ha hecho ni la mitad» (D02). Fuente 4, tú"
+      ],
+      [
+       "boca a boca",
+       "«Al final, lo que me salva es el boca a boca», un asesor energético (D04). Fuente 3, Forocoches, 2026"
+      ],
+      [
+       "recomendaciones, cerrar, propuesta",
+       "Tus guiones. Fuente 4, tú"
+      ],
+      [
+       "agencia de redes",
+       "«pagar una agencia de redes» (formulario, D4). Fuente 4, tus documentos"
+      ],
+      [
+       "leads que llegan fríos",
+       "«Mis llamadas empiezan frías porque la gente no sabe quién soy» (D03). Fuente 4, tú"
+      ],
+      [
+       "paga poco, desgastante",
+       "«un cliente que paga poco es muy desgastante operativamente» (D02). Fuente 2, comentario en Dinstinto"
+      ],
+      [
+       "los clientes que llegaban no eran los correctos",
+       "Un cliente de Zangrandi (D06). Fuente 2, web"
+      ],
+      [
+       "no funcionan",
+       "«¡por lo menos con mi negocio no funcionan!», clientes citados por una agencia (D05). Fuente 2, web"
+      ],
+      [
+       "no tengo ni idea de cómo ir lanzando el contenido",
+       "D08. Fuente 3, Forocoches, 2025"
+      ],
+      [
+       "vender sin vender",
+       "«¿Cómo vender sin vender por redes sociales?» (D10). Fuente 3, Quora"
+      ],
+      [
+       "grabarme, la cámara",
+       "«hace años que quier grabarme y no puedo», «Ese es mi dolor de cabeza la cámara» (D14). Fuente 2, comentarios en Anna Atencia"
+      ],
+      [
+       "invertir en una agencia, red flags",
+       "«decidí invertir en una agencia que con el tiempo me demostró tener todos los red flags» (D15). Fuente 2, comentario en Caro Dubi"
+      ]
+     ]
+    }
+   ]
+  ],
+  "porque": "Crítica parte 5.11: la fuente de cada palabra, con las del barrido"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "PARTE 5",
+  "bloques": [
+   [
+    "titulo",
+    "4.12 Lo que tu comprador ya probó"
+   ],
+   [
+    "texto",
+    "Lo decidiste el 19 oct: aparece poco y debe aparecer más. Hasta la v6 estaba repartido en cinco sitios con cinco nombres (4.1, 4.3, 4.6, 4.9 y el formulario, D4); aquí va junto. Se ataca la práctica, nunca a quien la vendió ni a quien la contrató."
+   ],
+   [
+    "tabla",
+    {
+     "cabecera": [
+      "Lo que probó",
+      "Su fuente",
+      "Avatar"
+     ],
+     "filas": [
+      [
+       "Publicar él",
+       "D05: «La marca personal no me ha traído un solo cliente» · «Llevo meses publicando con constancia y ni un vídeo ha funcionado» · «Me dijeron que con reels me llegarían clientes y no pasó nada» (fuentes 2 y 4). Tus palabras a Fer en Polvoranca: «has creado contenido, has intentado por tu cuenta, has contado alguna agencia. ¿Y no te ha funcionado?» (08:33; «contado» es «contratado» mal transcrito)",
+       "1, 2 y 4 (D05)"
+      ],
+      [
+       "Pagar una agencia",
+       "D15: «He intentado delegar y fue un desastre» (4, tú). Un comentario en Caro Dubi: «Una lastima no ver este video meses atrás cuando decidí invertir en una agencia que con el tiempo me demostró tener todos los red flags» (2). La agencia de 300 € al mes, en Forocoches (3, 2020). Y Polvoranca (08:33): «has contado alguna agencia»",
+       "1 y 3 (D15)"
+      ],
+      [
+       "Contratar a alguien que copió lo viral de su sector",
+       "D07: «Contraté a alguien que miró qué era viral en mi sector y lo copió. No trajo nada» (4, tú, de tu nota de diciembre). Tu web, que leíste en Villa del Prado (40:47): «No es que el contenido no funcione en B2B.»",
+       "1 y 2 (D07)"
+      ],
+      [
+       "Ir a un podcast que no le trajo nada",
+       "D12: «Fui a un podcast, salió bien, y ya está» · «…y no pasó nada. Un enlace en la bio y ya» (4; si la segunda es tuya, POR DECIDIR)",
+       "2 (D12); y el 1, si montó el suyo (D4)"
+      ]
+     ]
+    }
+   ],
+   [
+    "texto",
+    "Dónde se usa. En la voz del avatar 1 (4.3) y como molde de gancho: lo que ya probó va arriba, en los tres primeros segundos, como abre R04 («Te dijeron que contratando una agencia para hacer contenido te llegarían clientes.») o tu molde «Escucha esto si has ido a algún podcast.»; el sector y el tamaño, en el cierre (4.11)."
+   ],
+   [
+    "texto",
+    "POR DECIDIR Cuántas piezas al mes lo llevan."
+   ],
+   [
+    "texto",
+    "Lo que le falta: oírlo a compradores. Hoy todo es fuente 2, 3 o 4, y las frases de comprador salen de tus primeras conversaciones."
+   ]
+  ],
+  "porque": "Crítica parte 3.5: el bloque «Lo que tu comprador ya probó», con su fuente, quién lo tiene y dónde se usa"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LOS DOS FORMULARIOS, RELLENADOS",
+  "old": "; el foro de AutoRevista, 19 nov",
+  "new": "",
+  "porque": "Crítica parte 4, Lo que no cuadra: un prospecto con nombre vive en su carpeta (copiado a registro/prospectos.md)",
+  "fila": "4.5 · Fechas que vienen"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Que estás detrás de las cámaras de Píldoras",
+  "texto": "Que estás detrás de las cámaras de Píldoras, un podcast de negocio por el que han pasado Diego Abreu y Luis Villanueva, y que llevas su estrategia de contenido desde que no tenía redes. Lo prueban (5.2): el testimonio de Fernando, tus notas de grabación de PDC y la miniatura del episodio 117.",
+  "porque": "Crítica parte 9 (L · Lo que puede probar): cada cosa de 5.1, atada a su prueba de 5.2"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Que editaste ciento ochenta reels",
+  "texto": "Que en abril vendías reels por volumen y que de ahí sacaste que el volumen no es la estrategia (tu error de abril, en una sola versión en 5.5; la cifra que sale en público, POR DECIDIR). Lo prueba (5.2): tu error de abril, y la propuesta de abril de tu Drive si decides enseñarla.",
+  "porque": "Crítica parte 9 (L · Los errores propios en una sola versión) y Lo que puede probar"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Que tu planificación es a tres meses",
+  "texto": "Que tu planificación es a tres meses y que tu propio contenido sale con tu método (noviembre es el primer trimestre). Lo prueban (5.2): tu planificación a tres meses (R13) y tu propia ficha y tu diagnóstico de 144 guiones; tu contenido funcionando, al cerrar noviembre (5.8).",
+  "porque": "Crítica parte 9 (L · Lo que puede probar)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Que contestas tú, y que trabajas",
+  "texto": "Que contestas tú, y que trabajas con dos empresas a la vez. Lo prueban (5.2) dos señales: contestar tú por WhatsApp y trabajar con dos empresas a la vez.",
+  "porque": "Crítica parte 9 (L · Lo que puede probar)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Lo que no se dice de ti mismo",
+  "texto": "Cómo se dice de ti mismo. «Autoridad» y «referente» se dicen, aunque mejor el hecho (tu nota de 6.6). «Experto en», no: lo dijiste tú en S06, «No pongas «Experto en» te resta autoridad más que te la suma». El léxico entero, en la tabla de 6.6.",
+  "porque": "Crítica parte 3.1: tu léxico; «autoridad» y «referente» se dicen"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Cinco cosas, por orden de lo que pesan:",
+  "new": "Cinco cosas, propuesta mía (10.8), por orden de lo que pesan:",
+  "porque": "Crítica parte 4, Quién dijo qué 8: lo de tu edad es mío, marcado donde se usa"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Explícita",
+  "new": "Contexto, no prueba",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 2: los logos, como contexto",
+  "fila": "La franja de logos: Webpositer Academy, Fitness Revolucionario, Wellbeinn (Carlos Martínez, Forbes 30 Under 30) y Píldoras"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Decidido: no se toca (15 oct). Falta saber qué hiciste en cada uno, por si te lo preguntan en una llamada",
+  "new": "Decidido: no se toca (15 oct). Sin papel no prueban lo que vendes: dicen con quién has trabajado. Falta saber qué hiciste en cada uno, si fueron clientes y si tienen permiso para salir (10.3)",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 2",
+  "fila": "La franja de logos: Webpositer Academy, Fitness Revolucionario, Wellbeinn (Carlos Martínez, Forbes 30 Under 30) y Píldoras"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Wellbeinn (Carlos Martínez, Forbes 30 Under 30)",
+  "new": "Interés Compuesto (en tu web desde el 9 oct, en lugar de Wellbeinn)",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 2: el nombre que tiene tu web"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Propio",
+  "new": "Propio. En público se enseña sin la palabra CALMA, que va por dentro",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 3",
+  "fila": "Tu propia ficha y tu diagnóstico CALMA de 144 guiones"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Tu propia ficha y tu diagnóstico CALMA de 144 guiones",
+  "new": "Tu propia ficha y tu diagnóstico de 144 guiones",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 3: fuera la palabra CALMA de la prueba"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Los seguidores son suyos y no prueban lo que vendes",
+  "new": "Los seguidores son suyos y no prueban lo que vendes. POR DECIDIR Si son resultado tuyo (R23, 9.2) o contexto, como aquí; mientras, contexto",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 5: los seguidores de Píldoras, Por decidir"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Propio; falta fijar una versión (5.5)",
+  "new": "Propio; una sola versión (5.5); la cifra pública, POR DECIDIR",
+  "porque": "Crítica parte 9 (L · Los errores propios, en una sola versión)",
+  "fila": "Tu error de abril"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Se puede enseñar: su nombre, los documentos difuminados",
+  "texto": "Se puede enseñar: su nombre, los documentos difuminados (ficha, 66 conceptos y el plan de una grabación para tres meses) y los tres reels que editaste. POR DECIDIR Si los documentos se enseñan difuminados o no, por tu corrección del 12 oct de que un plan sin ejecutar no se enseña como demostración.",
+  "porque": "Crítica parte 7, punto 8"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "No se puede decir: que es un caso",
+  "texto": "No se puede decir: que es un caso, que hay resultados ni que está «en ejecución». Sus visualizaciones no se dan hasta saber de quién son: de una de las cifras no se ha encontrado de dónde sale, y la otra es de un reel de una cuenta que no se sabe si es suya. POR DECIDIR",
+  "porque": "Crítica parte 4, Lo que se cuenta como prueba 4: las visualizaciones de Luis, fuera hasta saber de quién son"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "Abril de 2026: vendías reels por volumen.",
+  "texto": "Abril de 2026: vendías reels por volumen, y de ahí sacaste la lección, con tus palabras de R06: «llegué a la conclusión de que el volumen no tiene por qué ser la estrategia de contenido más óptima». Es la única versión. «180 reels al mes por 1.200 €» no es cifra pública: mezcla dos cosas y no está en tu propuesta a Píldoras del 26 abr (en tu Drive, «Propuesta de servicios de contenido digital»: 55 reels por 1.200 €, o 85 reels y otras 40 piezas por 3.000 €). De tu R06 quitaste «no salió un cliente», así que lo que dio en clientes no se cuenta. POR DECIDIR Qué cifra sale en público (tu R06 dice «Edité ciento ochenta reels en un mes de un podcast»); si se enseña la propuesta, tiene que coincidir con ella.",
+  "porque": "Crítica parte 9 (L · Los errores propios, en una sola versión): sin «180 reels por 1.200 €», la cifra Por decidir"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "L · LEGITIMIDAD: POR QUÉ FIARSE DE TI",
+  "old": "Sirve como cambio de opinión dicho a la cara (R36).",
+  "new": "Sirve como cambio de opinión dicho a la cara.",
+  "porque": "Crítica parte 3.8: R36 la borraste"
+ },
+ {
+  "op": "borrar",
+  "desde": "En inglés (se cuentan adaptados",
+  "hasta": "5.8 Lo que falta para que suba",
+  "porque": "Crítica parte 4 (Lo que no cuadra) y parte 5, De 7 a 8: fuera Joe Rogan y los tres datos sin fuente"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "5.8 Lo que falta para que suba",
+  "bloques": [
+   [
+    "texto",
+    "En inglés (se cuentan adaptados y con crédito, nunca como reacción). En qué se anichó primero y cuándo amplió:"
+   ],
+   [
+    "tabla",
+    {
+     "filas": [
+      [
+       "Alex Hormozi",
+       "Primero, solo gimnasios: seis propios y, en 2016, Gym Launch, un servicio solo para dueños de gimnasio. En 2018, Prestige Labs, suplementos vendidos a través de esos mismos gimnasios. Después, con Acquisition.com, empieza a hablarle a cualquier empresario. El ejemplo más limpio"
+      ],
+      [
+       "Gary Vaynerchuk",
+       "Primero, solo vino: Wine Library TV, un vídeo diario de catas desde febrero de 2006, mil episodios hasta 2011. Después, VaynerMedia (2009) y su primer libro de marketing, «Crush It!» (2009)"
+      ],
+      [
+       "Steven Bartlett",
+       "Primero, solo redes sociales para marcas: Social Chain (2014). The Diary of a CEO (2017), al principio solo empresa. Después, salud, psicología y Dragons' Den (2021)"
+      ],
+      [
+       "Caleb Ralston",
+       "Primero, vídeo para culturistas a los quince años, después para marcas, después el equipo de Gary Vaynerchuk y la marca de los Hormozi. Su propio contenido empezó hablándoles solo a marcas personales de empresarios"
+      ]
+     ]
+    }
+   ],
+   [
+    "texto",
+    "En castellano:"
+   ],
+   [
+    "tabla",
+    {
+     "filas": [
+      [
+       "Romuald Fons",
+       "Primero, solo SEO: la agencia BIGSEO y un canal que durante años solo enseñó a posicionar en Google. Después, BIGSEO Academy (2018), CreceTube (2020), Forbes (2021), su libro (2022) y hoy negocio e inteligencia artificial"
+      ],
+      [
+       "Pedro Buerbaum",
+       "Primero, un solo negocio: La Pollería (2019, en Chueca; siete tiendas). Su contenido empezó siendo «el de La Pollería». Después, el podcast con emprendedores y, más tarde, las entrevistas a políticos (2023 y 2024). Ojo: FullAgenda lo enseña como trabajo suyo («Me habrás visto detrás de caras como»); como con José Elías, que no parezca que todo es mérito propio"
+      ],
+      [
+       "José Elías",
+       "Primero, la autoridad, fuera de las redes y en un solo sector: la energía (Audax Renovables, lista Forbes). Entró en redes ya con esa autoridad: canal de YouTube en octubre de 2023. Después, economía general, televisión y su podcast. Es el ejemplo más limpio de tu raíz 3. Ojo con Anónimos (3.4)"
+      ],
+      [
+       "Luis Villanueva",
+       "Primero, solo SEO durante años, con Webpositer. Ahora está abriendo a tiendas online y negocios de servicios. Con permiso de mención del 1 oct"
+      ]
+     ]
+    }
+   ],
+   [
+    "texto",
+    "Sin fuente, fuera: el año de Acquisition.com, «el empresario de la luz» y los suscriptores de Romuald Fons, que eran lo que declaraba su agencia. De Romuald Fons falta la fuente primaria: hoy es una biografía de terceros (parte 11). Joe Rogan sale de la lista: no es empresario."
+   ]
+  ],
+  "porque": "Crítica parte 4 y parte 5: sin Joe Rogan, que no es empresario, y sin el año de Acquisition.com, «el empresario de la luz» y los suscriptores de Romuald Fons, que no tienen fuente"
+ }
+]
