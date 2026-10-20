@@ -2,7 +2,7 @@
 
 Para retomar el trabajo en cualquier sesión, aunque se acaben los créditos o se corte el contenedor. **Léela entera antes de tocar nada.** Esta carpeta vive dentro del repositorio de otro cliente (Hugo, inmobiliaria: `content-plan/`) solo porque es el único sitio que persiste; lo de Miguel no se mezcla con `content-plan/`.
 
-Última actualización: 20 oct 2026.
+Última actualización: 20 oct 2026, noche.
 
 ---
 
@@ -26,20 +26,26 @@ Para retomar el trabajo en cualquier sesión, aunque se acaben los créditos o s
 | Guiones de sustitución r2 (9 oct) | N01-N20 (N06 borrada por Miguel) |
 | Banco de ideas v1 (13 oct) | 133 ideas, 40 guiones propuestos |
 | Ejemplo Método Propio (SOP de Carlos Draghici) | Ya metido en el sistema el 19 oct (bienvenida-cliente, auditoria-calma) |
-| Falta | **La hoja de rodaje** (Miguel la pasará) |
+| Hoja de rodaje noviembre v3 (13 oct) | Su formato: por formatos y bloques de cámara. Las nuevas salen con ese formato |
 
 ## 3. Decisiones cerradas de Miguel (no se reabren)
 
 - Todas las llamadas a la acción van a **DIAGNÓSTICO por WhatsApp**, y solo en las piezas con encaje. Fórmula: «Si quieres que personalmente analice X, comenta DIAGNÓSTICO y hablamos por privado»; en historias, «Responde DIAGNÓSTICO». Fuera FRÍAS, VALOR, PILARES, IMPROVISO, CURIOSOS, el formulario y «sígueme». Si no pide, termina en la tesis.
 - Escasez: «**trabajo con dos empresas a la vez**». Nunca «huecos esta semana».
 - El mecanismo se llama «**la trampa viral**» y se acredita a **Kallaway**.
-- Fernando: el caso se cuenta sin plazo ni cifra de contactos; los episodios de más de 100.000 no son prueba suya. Falta su OK al testimonio.
+- Fernando: el caso se cuenta sin plazo ni cifra de contactos; los episodios de más de 100.000 no son prueba suya. **Su visto bueno al testimonio está dado** (Miguel, 20 oct noche: «el visto bueno de Fer lo tienes»).
 - Luis: su estrategia no se ejecuta → prueba de método, nunca de resultado.
 - **Fuera toda secuencia que anuncia un vídeo de YouTube o es un trozo del vídeo largo** (19 oct): S02, S05, S14, S17, S20, S23.
 - El filtro va en los dos sitios: lo que el comprador ya vivió, en los 3 primeros segundos; el sector y el tamaño, en el cierre.
 - Lo que el comprador ya probó (agencia, publicar él, el que copió lo viral, el podcast) tiene que salir **más**. Se ataca la práctica, nunca a quien la vendió ni a quien la contrató.
 - Léxico: «High Ticket» se dice con todas las letras (nunca «HT»); «autoridad» y «referente» se dicen; «viralidad de nicho» se dice.
 - Lo superado se renombra y va a «Descartados»; nada se borra.
+- **20 oct, noche** (Miguel, antes de irse hasta el día siguiente):
+  - «el mensaje de diagnóstico es automático en Instagram»: el mensaje automático de DIAGNÓSTICO **está montado** en Instagram.
+  - «en YouTube lo comento y les mando a mi landing»: en YouTube contesta él al comentario y les manda a **su landing**, que es la página del diagnóstico.
+  - «no quiero enero y tal, me dan igual; con estos me vales para empezar»: **solo noviembre y diciembre**. Enero y febrero no se tocan.
+  - «el visto bueno de Fer lo tienes, y lo demás lo tienes; si no, prueba tú»: lo que quedaba por decidir lo decide Claude, marcado para que lo pueda revertir. Lo que es material real que no existe todavía (el cierre de noviembre, conversaciones con compradores, capturas) **no se inventa** (reglas de la casa, H3 y H4).
+  - «aplica el pipeline de contenido para maximizar el resultado… cuando termines lo revises todo»: pasos que siguen al guion (hoja de rodaje con material, textos de publicación, diseño si se puede) y una revisión final.
 
 ## 4. Su tono (de la crítica del 19 oct, parte 2)
 
@@ -63,7 +69,7 @@ Salida en `mp-miguel/entregas/` (docx y PDF de cada uno; lo superado, en `entreg
 
 El formato es el mismo de sus Docs: se editan sus `.docx` y las piezas nuevas se montan copiando una pieza del propio mes; se comprobó renderizando a PDF. En `mp-miguel/trabajo/` están las sustituciones (JSON) y los generadores de cada mes (`gen_nov.py`, `gen_dic.py`): para rehacer un mes hacen falta sus `.docx` de partida (nov r5, dic r3, sustitución r2, crítica del 19 oct y hoja v3), que viven en sus subidas y no están en el repo.
 
-Lo siguiente, cuando Miguel conteste: sus «Por decidir» de cada mes (tabla de Pendientes) y de la ficha v7 (10.2); enero y febrero con la misma ronda (faltan sus Docs: no se han subido).
+Lo siguiente (20 oct, noche, en marcha): tercera ronda de los meses con sus decisiones de la noche, hoja de rodaje con el material, textos de publicación, diseño de historias si se puede, y revisión final. Enero y febrero, no (decisión suya).
 
 ## 7. Cómo seguir
 
