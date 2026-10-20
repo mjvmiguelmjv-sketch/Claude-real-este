@@ -1,0 +1,5 @@
+[
+ {"ambito":"S22","old":"y casi nadie la enseña: de veintitrés proveedores que revisé, trece no enseñan ninguna cifra.","new":"y casi nadie la enseña.","porque":"H3/H7: el censo no lo revisó Miguel y la cifra es del censo viejo del 21 sep, que ya no está en la ficha v7"},
+ {"ambito":"S22","old":"El dato (veintitrés, trece) en negrita.","new":"«Casi nadie la enseña», en negrita.","porque":"la cifra sale de la pantalla"},
+ {"ambito":"S22","old":"; dato 9.6, del censo del 21 sep 2026: de 23 proveedores revisados en España, 13 no enseñan ninguna cifra) y del dolor 19.","new":") y del dolor 19. La cifra del censo del 21 sep (23 proveedores, 13 sin ninguna cifra) sale de la pantalla: no la revisaste tú y la ficha v7 ya no la recoge (20 oct).","porque":"coherencia de la ficha de la secuencia"}
+]

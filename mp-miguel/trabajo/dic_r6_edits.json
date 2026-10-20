@@ -1,0 +1,965 @@
+[
+ {
+  "ambito": "CABECERA",
+  "old": "Estado de auditoría: ronda r5 del 20 oct 2026: segunda pasada",
+  "new": "Estado de auditoría: ronda r6 del 20 oct 2026, noche: lo que Miguel dejó decidido antes de irse (mensaje automático montado en Instagram; en YouTube contesta él y manda a su landing; visto bueno de Fernando) y lo que delegó (\"prueba tú\"), con cada decisión listada en Pendientes para que la pueda revertir. Antes, ronda r5 del 20 oct 2026: segunda pasada",
+  "porque": "Encargo: estado de la ronda r6 al principio."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "Quince reels y once secuencias de historias,",
+  "new": "Quince reels y diez secuencias de historias,",
+  "porque": "NS3 pasa a noviembre: quedan diez secuencias."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "jue 17 N15 y NS3 · vie 18",
+  "new": "jue 17 N15 (sin secuencia) · vie 18",
+  "porque": "NS3 pasa al jueves 5 de noviembre."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "S19, S20 y S23. Destino único del mes:",
+  "new": "S19, S20 y S23. NS3 pasa al jueves 5 de noviembre, en el hueco de S02 (la primera semana no enseñaba ninguna prueba), y el jueves 17 de diciembre se queda sin secuencia. Destino único del mes:",
+  "porque": "Encargo: NS3 a noviembre y el jueves 17 sin secuencia."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "Hasta que el mensaje automático de DIAGNÓSTICO esté montado y probado, las piezas que piden no se publican. POR DECIDIR (Miguel): si V3 «Tres prácticas que llenan tu cuenta de visitas y la dejan sin clientes» y V4 «El coste de la autoridad invisible» salen en YouTube. R21 lo anuncia en el pie, R25, R30 y R35 son cortes suyos y la ranura de los jueves enseña su captura; si no salen, esos reels se graban sueltos.",
+  "new": "El mensaje automático de DIAGNÓSTICO ya está montado en Instagram (Miguel, 20 oct); en YouTube contestas tú al comentario y mandas a tu landing. V3 «Tres prácticas que llenan tu cuenta de visitas y la dejan sin clientes» y V4 «El coste de la autoridad invisible» no se anuncian en ningún reel ni historia (20 oct, \"prueba tú\": tu regla de las historias, llevada también a los reels): R25, R30 y R35 se graban sueltos, con su locución tal cual, y la ranura de los jueves enseña un dato con fuente de la ficha o trabajo propio.",
+  "porque": "Decisiones 2 y 3: V3/V4 no se anuncian; mensaje automático montado."
+ },
+ {
+  "ambito": "R21",
+  "old": "Kallaway (@kallawaymarketing) lo llama la trampa viral. El jueves desmonto esta práctica y dos más, en un vídeo entero.",
+  "new": "Kallaway (@kallawaymarketing) lo llama la trampa viral.",
+  "porque": "Decisión 2: el pie ya no anuncia V3."
+ },
+ {
+  "ambito": "R21",
+  "old": "«Si quieres que veamos juntos como podemos adaptar esta estrategia a tu caso, comenta DIAGNÓSTICO y lo vemos por privado.»",
+  "new": "«Si quieres que personalmente analice a quién le ha llegado tu vídeo con más visitas, comenta DIAGNÓSTICO y hablamos por privado.»",
+  "porque": "Decisión 6: su llamada hablada, a su fórmula, con lo que mira el destino de la pieza."
+ },
+ {
+  "ambito": "R21",
+  "old": "El CTA pide una sola cosa, comentar DIAGNÓSTICO, con la condición delante.",
+  "new": "El CTA pide una sola cosa, comentar DIAGNÓSTICO, con lo que miro: a quién le ha llegado tu vídeo con más visitas.",
+  "porque": "Trigger al día con la llamada nueva."
+ },
+ {
+  "ambito": "N07",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: abre un hueco, qué te faltó contar, que la fase 3 paga; el B es un título.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N07",
+  "old": "Y contesta esas dudas en tu contendo.",
+  "new": "Y contesta esas dudas en tu contenido.",
+  "porque": "Decisión 5: errata de dictado."
+ },
+ {
+  "ambito": "N07",
+  "old": "(es el escrito de R08 de noviembre)",
+  "new": "(era el escrito de R08, que salió de noviembre)",
+  "porque": "Decisión 25: R08 ya no está en noviembre."
+ },
+ {
+  "ambito": "N13",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: completa los logos sin criticar los de tu web.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N13",
+  "old": "y su frase en pantalla tal cual.",
+  "new": "y su frase en pantalla en un tramo literal que deja fuera «mineralización».",
+  "porque": "Decisión 4: la cita en pantalla se corta para no incluir «mineralización»."
+ },
+ {
+  "ambito": "N13",
+  "old": "La frase de Fernando, la de tu web, en pantalla tal cual: «Desde que aplicamos la estrategia de mineralización de contenido, me entran leads que están más cerca de comprar mis formaciones, porque ya han visto cómo es mi producto en redes sociales.» Los dos episodios de más de 100.000 no se dicen: falta saber si salen de tu trabajo.",
+  "new": "La frase de Fernando, la de tu web, en pantalla en un tramo literal que empieza después de «mineralización»: «me entran leads que están más cerca de comprar mis formaciones, porque ya han visto cómo es mi producto en redes sociales». Fernando ha dado su visto bueno (Miguel, 20 oct). Los dos episodios de más de 100.000 no se dicen: no son prueba tuya.",
+  "porque": "Decisión 4 (visto bueno de Fernando; «mineralización» fuera de la cita) y decisión cerrada: los episodios de más de 100.000 no son prueba suya."
+ },
+ {
+  "ambito": "N13",
+  "old": "La frase de Fernando, en pantalla tal cual está en la web, con su nombre y su cargo.",
+  "new": "La frase de Fernando, en pantalla en un tramo literal de la de la web, desde «me entran leads» (deja fuera «mineralización»), con su nombre y su cargo.",
+  "porque": "Decisión 4: como hace NS3."
+ },
+ {
+  "ambito": "N13",
+  "old": "ni el plazo ni los dos episodios de más de 100.000, que están sin confirmar como tuyos.",
+  "new": "ni el plazo ni los dos episodios de más de 100.000, que no son prueba tuya.",
+  "porque": "Decisión cerrada (MEMORIA 3): no son prueba suya."
+ },
+ {
+  "ambito": "N13",
+  "old": "(es el escrito de R23)",
+  "new": "(era el escrito de R23, que salió del mes)",
+  "porque": "Decisión 25: R23 ya no está en diciembre."
+ },
+ {
+  "ambito": "R25",
+  "old": "El CTA se habla (fase 6) y va también en el texto de pantalla y en la descripción.",
+  "new": "En tu versión del 18 oct, el Myth va dentro del Hook: la pieza tiene cinco fases (Hook, Debunk, Solution, Promote y CTA). El CTA se habla (fase 5) y va también en el rótulo y en el pie.",
+  "porque": "Decisión 14: la estructura dice las fases que hay."
+ },
+ {
+  "ambito": "R25",
+  "old": "Es un corte de V3 «Tres prácticas que llenan tu cuenta de visitas y la dejan sin clientes»: el bloque de la práctica 1, perseguir la viralidad a secas. Serie «El largo, en corto · 5».",
+  "new": "Se graba suelta, con tu locución tal cual: ya no es un corte de V3 ni lo anuncia (20 oct).",
+  "porque": "Decisión 2: R25 se graba suelto."
+ },
+ {
+  "ambito": "R25",
+  "old": "Horizontal + texto (corte de YouTube). Fragmento del vídeo largo del jueves, en horizontal, con el gancho escrito arriba y el CTA abajo. La locución es lo que V3 tiene que decir en ese bloque, escrita completa; sale de V3, bloque «Práctica 1». Ritmo medio.",
+  "new": "A cámara, sentado, plano medio. Ritmo lento y la misma luz que las pantallas divididas. Vertical, con el gancho escrito fijo arriba. Se graba suelta, con tu locución tal cual (20 oct): ya no es un corte de V3.",
+  "porque": "Decisión 2: formato propio."
+ },
+ {
+  "ambito": "R25",
+  "old": "un corte horizontal de un vídeo largo con texto arriba y abajo, de cualquier nicho,",
+  "new": "un reel a cámara, sentado y en plano medio, con un rótulo fijo arriba, de cualquier nicho,",
+  "porque": "Decisión 2: la referencia de formato, al formato nuevo."
+ },
+ {
+  "ambito": "R25",
+  "old": "Qué se toma: el tamaño del texto, dónde corta",
+  "new": "Qué se toma: el tamaño del rótulo, dónde corta",
+  "porque": "Decisión 2: vertical, con rótulo."
+ },
+ {
+  "ambito": "R25",
+  "old": "Se replica el oficio del corte horizontal;",
+  "new": "Se replica el oficio del reel a cámara con rótulo fijo;",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R25",
+  "old": "la fase 3 lo cierra: hay dos tipos de personas",
+  "new": "la fase 2 lo cierra: hay dos tipos de personas",
+  "porque": "Decisión 14: fases renumeradas."
+ },
+ {
+  "ambito": "R25",
+  "old": "y la fase 3 termina en su frase",
+  "new": "y la fase 2 termina en su frase",
+  "porque": "Decisión 14."
+ },
+ {
+  "ambito": "R25",
+  "old": "La fase 3 nombra lo que se le va",
+  "new": "La fase 2 nombra lo que se le va",
+  "porque": "Decisión 14."
+ },
+ {
+  "ambito": "R25",
+  "old": "El corte horizontal entra con Miguel ya hablando y levantando un dedo; el texto de arriba aparece con él.",
+  "new": "El plano entra con Miguel, sentado, ya hablando y levantando un dedo; el rótulo de arriba aparece con él.",
+  "porque": "Decisión 2: ya no es un corte horizontal."
+ },
+ {
+  "ambito": "R25",
+  "old": "en la fase 3; el escrito pone delante la condición",
+  "new": "en la fase 2; el escrito pone delante la condición",
+  "porque": "Decisión 14."
+ },
+ {
+  "ambito": "R25",
+  "old": " Hook, los tres números",
+  "new": " Hook, la creencia y para quién es verdad",
+  "porque": "El nombre de la fase 1 decía lo que ya no dice tu locución (tu versión del 18 oct)."
+ },
+ {
+  "ambito": "R25",
+  "old": "Corte de V3, horizontal, plano medio a cámara.",
+  "new": "A cámara, sentado, plano medio.",
+  "porque": "Decisión 2: fondo con el formato propio."
+ },
+ {
+  "ambito": "R25",
+  "old": "Texto de arriba, fijo durante toda la pieza: el gancho escrito, que es el rótulo de entrada y aparece con el primer dedo: «Si vendes B2B High Ticket, más visitas no es más clientes.» Texto de abajo, desde el segundo cero: «El vídeo entero, en YouTube». Subtítulos quemados, con la ortografía corregida: el corte se ve sin sonido.",
+  "new": "Rótulo fijo arriba durante toda la pieza: el gancho escrito, que es el rótulo de entrada y aparece con el primer dedo: «Si vendes B2B High Ticket, más visitas no es más clientes.» Subtítulos quemados, con la ortografía corregida («High Ticket»).",
+  "porque": "Decisión 2: fuera «El vídeo entero, en YouTube»; nota de edición en vertical."
+ },
+ {
+  "ambito": "R25",
+  "old": "FASE 3.",
+  "new": "FASE 2.",
+  "porque": "Decisión 14: renumerar (Miguel quitó la fase 2)."
+ },
+ {
+  "ambito": "R25",
+  "old": "FASE 4.",
+  "new": "FASE 3.",
+  "porque": "Decisión 14."
+ },
+ {
+  "ambito": "R25",
+  "old": "FASE 5.",
+  "new": "FASE 4.",
+  "porque": "Decisión 14."
+ },
+ {
+  "ambito": "R25",
+  "old": "Mismo plano. Un dedo, luego dos más.",
+  "new": "Mismo plano, quieto.",
+  "porque": "El gesto contaba las tres prácticas de V3, que ya no se dicen."
+ },
+ {
+  "ambito": "R25",
+  "old": "Rótulo: «Práctica 1 de 3».",
+  "new": "Sin rótulo.",
+  "porque": "Decisión 2: fuera «Práctica 1 de 3»."
+ },
+ {
+  "ambito": "R25",
+  "old": "FASE 6.",
+  "new": "FASE 5.",
+  "porque": "Decisión 14."
+ },
+ {
+  "ambito": "R25",
+  "old": " CTA, dónde encontrar más",
+  "new": " CTA, la palabra",
+  "porque": "La fase ya no manda a YouTube."
+ },
+ {
+  "ambito": "R25",
+  "old": "Si quieres que analice que piezas de contenido está atrayendo ya a tu cliente ideal comenta DIAGNÓSTICO y lo vemos por privado.",
+  "new": "Si quieres que personalmente analice qué piezas de tu contenido atraen ya a tu cliente ideal, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "Decisión 6: su llamada hablada, a su fórmula (con la X de su pie y su destino). Su frase de antes, «Y cuanto más sientan…», se queda."
+ },
+ {
+  "ambito": "R25",
+  "old": "El texto de abajo cambia en el último segundo a dos líneas: «El vídeo entero, en YouTube: Tres prácticas que llenan tu cuenta de visitas y la dejan sin clientes / Si quieres que personalmente analice qué piezas de tu contenido atraen ya a tu cliente ideal, comenta DIAGNÓSTICO y hablamos por privado». La descripción es el pie de publicación de abajo. Un segundo de imagen congelada antes del corte.",
+  "new": "«DIAGNÓSTICO» en grande al decirlo, hasta el corte. La palabra solo va en Instagram: en TikTok, Shorts y Facebook el reel termina en «más caliente será el lead». La descripción es el pie de publicación de abajo.",
+  "porque": "Decisión 2: fuera el anuncio de V3; la nota, como en los demás reels."
+ },
+ {
+  "ambito": "R25",
+  "old": "El vídeo entero, en YouTube: «Tres prácticas que llenan tu cuenta de visitas y la dejan sin clientes».",
+  "new": "Haz al revés: decide primero quién tiene que verte.",
+  "porque": "Decisión 2: fuera el anuncio de V3 del pie; en su lugar, tu frase de la fase 3 (no se deja un párrafo vacío)."
+ },
+ {
+  "ambito": "R26",
+  "old": "«Si quieres crees que puedo ayudarte comenta DIAGNÓSTICO, y analizo tu caso por privado.»",
+  "new": "«Si quieres que personalmente analice si tu contenido puede salir de una sola mañana de grabación, comenta DIAGNÓSTICO y hablamos por privado.»",
+  "porque": "Decisiones 5 y 6: «Si quieres crees que puedo ayudarte» a su fórmula, con la X de su pie y su destino."
+ },
+ {
+  "ambito": "N26",
+  "old": "Lo concreto de cada paso sale de la misma 8.4 (propuesta). Por decidir (elige Miguel): lo concreto de cada paso es propuesta de tu ficha, no frase tuya; valídalo antes de grabar las fases 3 a 5. El paso de comprobar ya no repite la receta de R23 (mié 2 dic: cómo estaba tu cliente, qué cambiasteis y el resultado): pide un caso tuyo con su resultado y contesta al miedo del gancho. No repite R12 (las tres facturas de que no se vea lo que sabes) ni N05 (la pieza que le cambia el problema a tu cliente): esta es el orden de lo que tiene que pasar antes de la llamada.",
+  "new": "Lo concreto de cada paso sale de la misma 8.4, que es propuesta de tu ficha y no frase tuya: se da por bueno (20 oct, \"prueba tú\"); si no lo dices así, cámbialo antes de grabar las fases 3 a 5. El paso de comprobar pide un caso tuyo con su resultado y contesta al miedo del gancho. No repite R12 (noviembre: las tres facturas de que no se vea lo que sabes): esta es el orden de lo que tiene que pasar antes de la llamada.",
+  "porque": "Decisión 18 (pasos de 8.4 por buenos) y 25 (R23 salió del mes; N05 no está en noviembre ni en diciembre)."
+ },
+ {
+  "ambito": "N26",
+  "old": "y D10 es el dolor que diciembre pierde si N22 entra por R37.",
+  "new": "y D10 es el dolor que diciembre perdía al salir R37 (entró N22).",
+  "porque": "Decisión 25: R37 ya salió."
+ },
+ {
+  "ambito": "N26",
+  "old": " Ojo: su hablado es el de R37, que propongo cambiar por N22; si R37 se queda en el mes, N26 cambia de hablado.",
+  "new": "",
+  "porque": "Decisión 25: R37 ya no está en el mes."
+ },
+ {
+  "ambito": "N26",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: el hablado es el D10 tal cual, el escrito promete lo que la petición cumple (cuál de los tres le falta a tu contenido) y el folio boca abajo para el pulgar sin decir nada.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "R28",
+  "old": "todavía no existe un caso con cifra y no se inventa (regla 13 de la marca).",
+  "new": "todavía no existe un caso con cifra y no se inventa (regla 13 de la marca). En tu versión del 18 oct quitaste el How-To: la pieza va en tres fases (Hook, Social Proof y CTA), y lo que hacía el How-To, empezar por el enlace, queda en el pie.",
+  "porque": "Decisión 14: la estructura dice las fases que hay."
+ },
+ {
+  "ambito": "R28",
+  "old": "La salida se cierra en un solo bloque, el enlace: mirar el perfil entero uno mismo, como alguien que no te conoce, ya lo propuso R03 en noviembre.",
+  "new": "La salida se cierra en un solo bloque, el enlace, y va en el pie: la fase 3, que la decía, la quitaste en tu versión del 18 oct.",
+  "porque": "Decisiones 14 y 25: R03 salió de noviembre y la fase 3 ya no está."
+ },
+ {
+  "ambito": "R28",
+  "old": "que ya llevaba R03 en noviembre)",
+  "new": "que llevaba R03, que salió de noviembre)",
+  "porque": "Decisión 25."
+ },
+ {
+  "ambito": "R28",
+  "old": "¿lleva lo que haces?. Bio: ¿a quién ayudas?. Enlace:",
+  "new": "¿lleva lo que haces? Bio: ¿a quién ayudas? Enlace:",
+  "porque": "Erratas evidentes de puntuación en su locución («?.»)."
+ },
+ {
+  "ambito": "R28",
+  "old": "¿enseñan lo que has hecho? . ",
+  "new": "¿enseñan lo que has hecho?»",
+  "porque": "Errata evidente: punto suelto y cierre de comillas que faltaba."
+ },
+ {
+  "ambito": "R28",
+  "old": "FASE 4.",
+  "new": "FASE 3.",
+  "porque": "Decisión 14: renumerar (Miguel quitó la fase 3)."
+ },
+ {
+  "ambito": "R28",
+  "old": "«Si quieres que lo mire y si vemos si te encaja que empezemos a trabajar juntos comenta DIAGNOSTICO y te escribo por privado»",
+  "new": "«Si quieres que personalmente analice tu perfil bloque a bloque, comenta DIAGNÓSTICO y hablamos por privado.»",
+  "porque": "Decisiones 5 y 6: «empezemos», «DIAGNOSTICO» y la llamada, a su fórmula (con la X de su pie y su destino)."
+ },
+ {
+  "ambito": "R30",
+  "old": "La fase de CTA está por decidir: la pieza no la tiene hoy, y el pie termina en la tesis.",
+  "new": "En tu versión quitaste Promote y CTA: la pieza va en cuatro fases y termina en la tesis, sin llamada (20 oct, \"prueba tú\": es de alcance, y a la que no pide no se le añade llamada). El pie también termina en la tesis.",
+  "porque": "Decisión 6: pieza de alcance que termina en la tesis, sin llamada."
+ },
+ {
+  "ambito": "R30",
+  "old": "Es un corte de V3: el bloque de la práctica 3. Serie «El largo, en corto · 6». Se cuenta desde el momento de antes, cuando te proponen hacer uno igual que el de tu competencia, y el dolor 17 es el final; R27, el martes, lo cuenta desde después.",
+  "new": "Se graba suelta, con tu locución tal cual: ya no es un corte de V3 ni lo anuncia (20 oct). Se cuenta desde el momento de antes, cuando te proponen hacer uno igual que el de tu competencia, y el dolor 17 es el final.",
+  "porque": "Decisiones 2 y 25: suelto; R27 ya no está en el mes."
+ },
+ {
+  "ambito": "R30",
+  "old": "Horizontal + texto (corte de YouTube). La locución es lo que V3 tiene que decir en el bloque «Práctica 3», escrita completa. Ritmo medio.",
+  "new": "A cámara, sentado, plano medio. Ritmo lento y la misma luz que las pantallas divididas. Vertical, con el gancho escrito fijo arriba. Se graba suelta, con tu locución tal cual (20 oct): ya no es un corte de V3.",
+  "porque": "Decisión 2: formato propio."
+ },
+ {
+  "ambito": "R30",
+  "old": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué le funciona a tu competencia según a quién le habla. Solo Instagram, por llevar palabra. POR DECIDIR: la pieza no tiene hoy fase de CTA, y la llamada hablada es tuya; el pie, con frases de tu locución, termina en la tesis.",
+  "new": "Sin llamada (20 oct, \"prueba tú\"): es de alcance y termina en su tesis, como la dejaste; el pie, con frases de tu locución, también. Sin palabra clave: se distribuye a las cuatro plataformas.",
+  "porque": "Decisión 6: sin llamada."
+ },
+ {
+  "ambito": "R30",
+  "old": "un corte horizontal con texto arriba y abajo, de cualquier nicho, que abra con una cita entre comillas",
+  "new": "un reel a cámara, sentado y en plano medio, con un rótulo fijo arriba, de cualquier nicho, que abra con una cita entre comillas",
+  "porque": "Decisión 2: la referencia de formato, al formato nuevo."
+ },
+ {
+  "ambito": "R30",
+  "old": "Qué se toma: la cita como texto de arriba,",
+  "new": "Qué se toma: la cita como rótulo de arriba,",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R30",
+  "old": "Se replica el oficio del corte con cita;",
+  "new": "Se replica el oficio del reel con cita;",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R30",
+  "old": "Por decidir: la pieza no tiene hoy llamada, y el pie termina en la tesis",
+  "new": "No pide (20 oct): es de alcance y termina en la tesis, como el pie",
+  "porque": "Decisión 6."
+ },
+ {
+  "ambito": "R30",
+  "old": "El corte horizontal entra con Miguel sosteniendo el móvil en alto con un vídeo ajeno desenfocado en la pantalla, y bajándolo a media frase. El texto de arriba entra con el móvil.",
+  "new": "El plano entra con Miguel, sentado, sosteniendo el móvil en alto con un vídeo ajeno desenfocado en la pantalla, y bajándolo a media frase. El rótulo de arriba entra con el móvil.",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R30",
+  "old": "Corte de V3, horizontal, plano medio. Entra con el móvil en alto,",
+  "new": "A cámara, sentado, plano medio. Entra con el móvil en alto,",
+  "porque": "Decisión 2: fondo con el formato propio."
+ },
+ {
+  "ambito": "R30",
+  "old": "Texto arriba, fijo toda la pieza: el gancho escrito, «Cómo analizar el contenido de tu competencia.» Texto abajo desde el segundo cero: «El vídeo entero, en YouTube». Subtítulos quemados,",
+  "new": "Rótulo fijo arriba toda la pieza: el gancho escrito, «Cómo analizar el contenido de tu competencia.» Subtítulos quemados,",
+  "porque": "Decisión 2: fuera «El vídeo entero, en YouTube»."
+ },
+ {
+  "ambito": "R30",
+  "old": "«Antes hay que ver que le funciona a esa cuenta",
+  "new": "«Antes hay que ver qué le funciona a esa cuenta",
+  "porque": "Errata de dictado (como «que ideas» → «qué ideas»)."
+ },
+ {
+  "ambito": "R30",
+  "old": "analiza que defiende y en qué",
+  "new": "analiza qué defiende y en qué",
+  "porque": "Errata de dictado (como «que ideas» → «qué ideas»)."
+ },
+ {
+  "ambito": "R31",
+  "old": "preguntate con que te asocian tus clientes, y eso es lo que debe contar tu marca.",
+  "new": "pregúntate con qué te asocian tus clientes, y eso es lo que debe contar tu marca.",
+  "porque": "Erratas de dictado: tildes."
+ },
+ {
+  "ambito": "R31",
+  "old": "en «preguntate con que te asocian tus clientes», y lo baja",
+  "new": "en «pregúntate con qué te asocian tus clientes», y lo baja",
+  "porque": "La nota cita la locución corregida."
+ },
+ {
+  "ambito": "R31",
+  "old": "Rótulo en «con que te asocian tus clientes»:",
+  "new": "Rótulo en «con qué te asocian tus clientes»:",
+  "porque": "La nota cita la locución corregida."
+ },
+ {
+  "ambito": "N27",
+  "old": "No repite N04 (qué repetir o quitar mirando las visitas) ni N08 (pedir más alcance): esta es dónde se pone el dinero.",
+  "new": "No repite N04 (noviembre: qué repetir o quitar mirando las visitas): esta es dónde se pone el dinero.",
+  "porque": "Decisión 25: N08 no está en noviembre ni en diciembre."
+ },
+ {
+  "ambito": "N27",
+  "old": "Ojo: el móvil enseñado a cámara abre seis de las diecinueve de la sustitución (N03, N04, N08, N11, N14 y N16); aquí el gesto es otro, el pulgar que se para antes del botón, pero si cae en la semana de una de ellas, que cambie una.",
+  "new": "Ojo: el móvil enseñado a cámara abre también N04 (noviembre); aquí el gesto es otro, el pulgar que se para antes del botón.",
+  "porque": "Decisión 25: de esas seis, solo N04 está en los meses."
+ },
+ {
+  "ambito": "N27",
+  "old": "Va distinta de la de R25 («Si quieres que analice que piezas de contenido está atrayendo ya a tu cliente ideal»), que pide casi lo mismo en la semana 1.",
+  "new": "Va distinta de la de R25 («qué piezas de tu contenido atraen ya a tu cliente ideal»), que pide casi lo mismo en la semana 1.",
+  "porque": "La llamada de R25 ya va con su fórmula."
+ },
+ {
+  "ambito": "N27",
+  "old": "Por decidir. La idea de anunciar solo lo que ya ha traído a tu cliente ideal salió de tu conversación con Fer del 8 oct (Villa del Prado, 4:17 a 4:29: «Estamos hablando de follow-me-ads a contenido ganador.»), y ya está en tu oferta: decides si es tuya o se acredita a Fernando, con su visto bueno, al final del pie (lo señaló la revisión de marca y voz). Mientras no lo decidas, la pieza no lo nombra.",
+  "new": "Ninguno (20 oct, \"prueba tú\"): la idea de anunciar solo lo que ya ha traído a tu cliente ideal es tuya y está en tu oferta (ficha 8.1); salió hablando con Fer el 8 oct (Villa del Prado, 4:17 a 4:29), y no se le acredita.",
+  "porque": "Decisión 18: la idea es suya, sin crédito a Fernando."
+ },
+ {
+  "ambito": "N27",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: es lo que ya probó y no le funcionó, como pide tu filtro, pero con anuncios, que no lo cuenta nadie; el escrito es la decisión que va a tomar, con tu condición dentro, y el visual es esa decisión a punto de tomarse.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N27",
+  "old": "Por decidir (elige Miguel): el argumento",
+  "new": "El argumento de la fase 3 (20 oct)",
+  "porque": "Decisión 18: la fase 3 se queda."
+ },
+ {
+  "ambito": "N27",
+  "old": "Que en un anuncio eliges a quién se le enseña, pero no cambias a quién le habla el vídeo, es mi lectura de tu oferta (8.1), no frase tuya. Hasta que digas sí, la fase 3 y el pie no se graban.",
+  "new": "Que en un anuncio eliges a quién se le enseña, pero no cambias a quién le habla el vídeo, es mi lectura de tu oferta (8.1), no frase tuya. Se queda (20 oct, \"prueba tú\"): si no lo dices así, cámbialo antes de grabar la fase 3, y el pie con ella.",
+  "porque": "Decisión 18."
+ },
+ {
+  "ambito": "N15",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: «No grabes ideas» rompe la norma del creador.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "R35",
+  "old": "El CTA de este corte no se habla: va en el texto de pantalla y en la descripción.",
+  "new": "El CTA se habla, en la fase 5, y va también en el pie.",
+  "porque": "Decisión 2: ya no es un corte; la llamada se dice (fase 5)."
+ },
+ {
+  "ambito": "R35",
+  "old": "Es un corte de V4 «El coste de la autoridad invisible»: el bloque del empresario que hizo el esfuerzo. Serie «El largo, en corto · 7».",
+  "new": "Se graba suelta, con tu locución tal cual: ya no es un corte de V4 ni lo anuncia (20 oct).",
+  "porque": "Decisión 2: R35 se graba suelto."
+ },
+ {
+  "ambito": "R35",
+  "old": "Horizontal + texto (corte de YouTube). V4 es en pizarra: el corte enseña la pizarra en horizontal, con el gancho escrito arriba y el CTA abajo. La locución es lo que V4 tiene que decir en ese bloque, escrita completa. Ritmo medio.",
+  "new": "Pizarra. De pie, plano medio, la pizarra a su derecha. Ritmo lento, cámara fija. Vertical, con el gancho escrito fijo arriba. Se graba suelta, con tu locución tal cual (20 oct): ya no es un corte de V4.",
+  "porque": "Decisión 2: formato propio."
+ },
+ {
+  "ambito": "R35",
+  "old": "un corte horizontal de un vídeo en pizarra, de cualquier nicho, con texto arriba y abajo;",
+  "new": "un reel de pizarra, de cualquier nicho, con un rótulo fijo arriba;",
+  "porque": "Decisión 2: la referencia de formato, al formato nuevo."
+ },
+ {
+  "ambito": "R35",
+  "old": "Qué se toma: cómo encaja la pizarra en el horizontal,",
+  "new": "Qué se toma: cómo encaja la pizarra en el vertical,",
+  "porque": "Decisión 2: vertical."
+ },
+ {
+  "ambito": "R35",
+  "old": "Se replica el oficio del corte horizontal con pizarra;",
+  "new": "Se replica el oficio del reel de pizarra;",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R35",
+  "old": "El corte horizontal entra con Miguel ya escribiendo en la pizarra",
+  "new": "El plano entra con Miguel ya escribiendo en la pizarra",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R35",
+  "old": "El texto de arriba está desde el segundo cero.",
+  "new": "El rótulo de arriba está desde el segundo cero.",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "R35",
+  "old": "clientes High ticker por redes",
+  "new": "clientes High Ticket por redes",
+  "porque": "Decisión 5: errata de dictado."
+ },
+ {
+  "ambito": "R35",
+  "old": "Corte de V4, horizontal, Miguel de pie junto a la pizarra;",
+  "new": "De pie junto a la pizarra, plano medio;",
+  "porque": "Decisión 2: fondo con el formato propio."
+ },
+ {
+  "ambito": "R35",
+  "old": "Texto de arriba, fijo durante todo el corte, desde el segundo cero: el gancho escrito, «Has contratado una agencia y te siguen comparando por precio.» Texto de abajo desde el segundo cero: «El vídeo entero, en YouTube». Subtítulos quemados, con la ortografía corregida («High Ticket»): el corte se ve sin sonido.",
+  "new": "Rótulo fijo arriba durante toda la pieza, desde el segundo cero: el gancho escrito, «Has contratado una agencia y te siguen comparando por precio.» Subtítulos quemados, con la ortografía corregida.",
+  "porque": "Decisión 2: fuera «El vídeo entero, en YouTube»; nota en vertical."
+ },
+ {
+  "ambito": "R35",
+  "old": "La palabra solo va en Instagram.",
+  "new": "La palabra solo va en Instagram: en TikTok, Shorts y Facebook el reel termina en la fase 4.",
+  "porque": "Ya es un reel suelto que va a las cuatro plataformas: se dice dónde termina fuera de Instagram, como en los demás."
+ },
+ {
+  "ambito": "R35",
+  "old": "El vídeo entero, en YouTube: «El coste de la autoridad invisible». Si tus clientes",
+  "new": "Si tus clientes",
+  "porque": "Decisión 2: el pie ya no anuncia V4."
+ },
+ {
+  "ambito": "N18",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: niega lo que todo el mundo hace para tener más contenido.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N22",
+  "old": "Por decidir: por qué se llama así. La primera versión decía «porque tu contenido tiene que ser el reflejo de tu llamada de ventas», y ese porqué lo puse yo, no tú. Ahora nombra el método sin decir por qué se llama así, y el reflejo lo cuentan la pizarra en espejo y tu frase pública de la fase 3. Si ese porqué es el tuyo, vuelve a la fase 2 y al pie.",
+  "new": "Por qué se llama así no se dice (20 oct: no se inventa). La primera versión decía «porque tu contenido tiene que ser el reflejo de tu llamada de ventas», y ese porqué lo puse yo, no tú. La pieza nombra el método sin decir por qué se llama así, y el reflejo lo cuentan la pizarra en espejo y tu frase pública de la fase 3. Si un día cuentas tu porqué, va en la fase 2 y en el pie.",
+  "porque": "Decisión 18: N22 se queda sin el porqué del nombre."
+ },
+ {
+  "ambito": "N22",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: el hablado junta tu filtro de cabecera y el D03 en una sola escena (pagó, y en la llamada todo sigue igual), y el escrito promete lo que la pieza paga en la fase 3, con la llamada de ventas dentro.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho, la favorita.",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "R38",
+  "old": "Lo que pone el cliente: un formulario, una llamada y una mañana de grabación; lo demás no lo toca, y lo único suyo es convertir.",
+  "new": "Lo que pone el cliente, como lo dice hoy tu voz: una mañana de grabación para sacar el contenido de los próximos 3 meses, con una hoja de grabación en la que contesta preguntas; lo demás no lo toca: él contesta y cierra.",
+  "porque": "Decisión 16: la idea, con lo que dice hoy su voz (fases 3 y 4)."
+ },
+ {
+  "ambito": "R38",
+  "old": "«Quien te pide más que un formulario, una llamada y una mañana te está pidiendo que hagas su trabajo.»",
+  "new": "«Yo únicamente te pido una mañana de grabación para sacar el contenido de los próximos 3 meses.»",
+  "porque": "Decisión 16: la frase de la pieza, su frase de la fase 3 (la otra la quitó él)."
+ },
+ {
+  "ambito": "R38",
+  "old": "Tesis de esta pieza: si quien te lleva el contenido te pide más que un formulario, una llamada y una mañana, te está pidiendo que hagas su trabajo.",
+  "new": "Tesis de esta pieza: delegar el contenido solo te pide una mañana de grabación para los próximos 3 meses, con una hoja de preguntas; tú contestas y cierras, y lo demás lo hace quien te lo lleva.",
+  "porque": "Decisión 16: el concepto, con lo que dice hoy su voz."
+ },
+ {
+  "ambito": "R38",
+  "old": "La oferta de la casa (6.1 y 4.2): formulario, llamada, una mañana de grabación, y «lo único tuyo es convertir»;",
+  "new": "La oferta de la casa, como la dice hoy tu voz: una mañana de grabación para el contenido de los próximos 3 meses, con una hoja de preguntas, y «Tú contestas y cierras»;",
+  "porque": "Decisión 16, llevada también a esta fila para que no se contradigan (P14)."
+ },
+ {
+  "ambito": "R38",
+  "old": "Quien te pide más que un formulario, una llamada y una mañana te está pidiendo que hagas su trabajo.",
+  "new": "Yo únicamente te pido una mañana de grabación para sacar el contenido de los próximos 3 meses.",
+  "porque": "Decisión 16: el pie, con su frase de la fase 3."
+ },
+ {
+  "ambito": "R38",
+  "old": "Delegar no puede darte más trabajo. Yo te pido una mañana de grabación: dirijo, escribo, edito y programo. Tú contestas y cierras.",
+  "new": "Delegar no puede darte más trabajo. Es como trabajo yo: dirijo, escribo, edito y programo. Tú contestas y cierras.",
+  "porque": "Decisión 16: sin repetir la mañana, ya dicha en la línea de arriba; su frase de la fase 4."
+ },
+ {
+  "ambito": "S13",
+  "old": "Dos preguntas, «¿has tenido un vídeo que llegó a mucha más gente que los demás?» y «¿qué pasó con los siguientes?», y lo que cuesta salir de la trampa viral:",
+  "new": "Una pregunta, «¿Te ha pasado?» (un vídeo que se hizo viral y unos siguientes que no rinden), y lo que cuesta salir de la trampa viral:",
+  "porque": "Decisión 12: ya no hay segunda encuesta."
+ },
+ {
+  "ambito": "S13",
+  "old": "Encuesta: «¿Y los siguientes?» · «Volvieron a lo normal» / «Se hundieron».",
+  "new": "Ninguno: la frase va sola, como la dejaste (la segunda encuesta sale, 20 oct).",
+  "porque": "Decisión 12: fuera la segunda encuesta."
+ },
+ {
+  "ambito": "S13",
+  "old": "La frase arriba, la encuesta en el centro. Es la pantalla de valor.",
+  "new": "La frase sola, en el centro. Es la pantalla de valor.",
+  "porque": "Decisión 12."
+ },
+ {
+  "ambito": "S13",
+  "old": "«Esta es una de las prácticas que llenan tu cuenta de curiosos, y aleja a tu cliente ideal.",
+  "new": "«La trampa viral llena tu cuenta de curiosos, y aleja a tu cliente ideal.",
+  "porque": "Decisión 12: sin la referencia a «las prácticas» (la guía de V3), con tus palabras y la trampa viral de la propia secuencia."
+ },
+ {
+  "ambito": "NS6",
+  "old": "Lo que añade a R12 y a S23:",
+  "new": "Lo que añade a R12 (noviembre):",
+  "porque": "Decisión 25: S23 salió del mes."
+ },
+ {
+  "ambito": "NS6",
+  "old": "Es la tesis de V4 dicha dos semanas antes: no lo nombra, no manda a él y se entiende sin él.",
+  "new": "Es la tesis de V4, sin nombrarlo ni mandar a él: se entiende sola.",
+  "porque": "Decisión 25: V4 no se anuncia ni se fecha."
+ },
+ {
+  "ambito": "S15",
+  "old": "no escogieron la estrategia más óptima para atraer clientes",
+  "new": "no escogieron la mejor estrategia para atraer clientes",
+  "porque": "Decisión 5: «más óptima» → «mejor»."
+ },
+ {
+  "ambito": "S15",
+  "old": "Deslizador: «¿En cuántas de las seis la promesa era visitas?» de 0 a 6.",
+  "new": "Ninguno (20 oct): VENTA DIRECTA no lo pide, y el deslizador de las seis filas ya no casaba con tu texto de esta pantalla.",
+  "porque": "Decisión 19: las interacciones que pide la estructura; el deslizador quedó huérfano con tu texto."
+ },
+ {
+  "ambito": "S15",
+  "old": "La frase en un solo bloque, arriba; el deslizador debajo, sobre la tabla del cuaderno.",
+  "new": "La frase en un solo bloque, arriba, sobre la tabla del cuaderno.",
+  "porque": "Sin deslizador."
+ },
+ {
+  "ambito": "S16",
+  "old": "Identificación: comparación con pares (pantalla 2: casi nadie de tu nivel pide lo segundo)",
+  "new": "Identificación: dolor identitario (pantalla 1: la pregunta del mensaje, que es el dolor 28)",
+  "porque": "Decisión 10: sale la frase de comprador inventada."
+ },
+ {
+  "ambito": "S16",
+  "old": " Casi nadie de tu nivel pide lo segundo, porque nadie se lo ha ofrecido.",
+  "new": "",
+  "porque": "Decisión 10 (H3): frase atribuida a «los de tu nivel» sin fuente."
+ },
+ {
+  "ambito": "S16",
+  "old": "«Les faltaba el trabajo» en negrita. La última frase en cuerpo menor.",
+  "new": "«Les faltaba el trabajo» en negrita.",
+  "porque": "Decisión 10: la última frase ya no está."
+ },
+ {
+  "ambito": "NS7",
+  "old": "PENDIENTE: que estén montados el mensaje automático y la página del diagnóstico (8.11); hasta entonces no se publica (C13).",
+  "new": "PENDIENTE: la página del diagnóstico (8.11); hasta entonces no se publica (C13). El mensaje automático ya está montado en Instagram (20 oct).",
+  "porque": "Decisión 3: el mensaje automático está montado; la página del diagnóstico sigue como estaba."
+ },
+ {
+  "ambito": "S18",
+  "old": " · Identificación: comparación con pares (pantalla 2: casi todos los de su nivel repetirían la primera)",
+  "new": "",
+  "porque": "Decisión 10: sale la frase de comprador inventada."
+ },
+ {
+  "ambito": "S18",
+  "old": " Casi todos los de tu nivel repetirían la primera.",
+  "new": "",
+  "porque": "Decisión 10 (H3)."
+ },
+ {
+  "ambito": "S18",
+  "old": "Misma composición que la pantalla 1. La última frase (los de tu nivel) en cuerpo menor, abajo del tercio central.",
+  "new": "Misma composición que la pantalla 1.",
+  "porque": "Decisión 10."
+ },
+ {
+  "ambito": "NS3",
+  "old": "Entra en el calendario el jueves 17 de diciembre, en el hueco de S20.",
+  "new": "Entra en el calendario el jueves 5 de noviembre, en el hueco de S02 (movida desde el 17 dic el 20 oct: la primera semana no enseñaba ninguna prueba).",
+  "porque": "Encargo: NS3 pasa a noviembre."
+ },
+ {
+  "ambito": "NS3",
+  "old": "La pantalla 2 lo dice con otras palabras («Ya delegaste tu contenido una vez, y salió mal.»), porque R38, seis días después, abre con la frase casi literal. D15 y no D01: R31, el lunes 14 de esa misma semana, declara esa misma frase de D01 en su ficha, y la línea de D01 iba suelta, sin que nada la recogiera (lo señaló la revisión de las secuencias). D15 es el dolor de quien ya no sabe de quién fiarse, que es el que lee «No prometo clientes», y es de los siete que propone tu barrido (4.7). Semana 3: S19 va con D13 y S21 con D03, así que no se repite. Ojo: R38, en la semana 4, abre su reel con D15.",
+  "new": "La pantalla 2 lo dice con otras palabras («Ya delegaste tu contenido una vez, y salió mal.»): la frase casi literal es el gancho de R38 (23 dic). D15 y no D01: la línea de D01 iba suelta, sin que nada en la secuencia la recogiera (lo señaló la revisión de las secuencias). D15 es el dolor de quien ya no sabe de quién fiarse, que es el que lee «No prometo clientes», y es de los siete que propone tu barrido (4.7). En su semana (2 a 6 nov) no lo lleva ninguna otra: S01 va con «Mis clientes me hacen caso en todo; en Instagram parezco uno más» y S03, el viernes 6, con «La marca personal no me ha traído un solo cliente».",
+  "porque": "Encargo: la ficha de NS3, pensada para noviembre (fuera R31, S19, S21 y el «seis días después» de R38)."
+ },
+ {
+  "ambito": "NS3",
+  "old": "El duro de la semana es S21, el viernes 18.",
+  "new": "El duro de la semana es S03, el viernes 6.",
+  "porque": "Encargo: NS3 en noviembre."
+ },
+ {
+  "ambito": "NS3",
+  "old": "PENDIENTE: que la web publicada lleve esa frase al final el día que salga la secuencia.",
+  "new": "PENDIENTE: que la web publicada lleve esa frase al final, y el testimonio de Fernando de la 3, el día que salga la secuencia, el jueves 5 de noviembre (la v40 está sin subir).",
+  "porque": "Encargo: el pendiente de la web, con la fecha nueva."
+ },
+ {
+  "ambito": "NS3",
+  "old": "y deja fuera «mineralización», que está por decidir (5.3). Nada en el tercio de abajo. PENDIENTE: el visto bueno de Fernando al texto y a que salga en historias (5.3); hasta entonces, la secuencia no se publica.",
+  "new": "y deja fuera «mineralización». Nada en el tercio de abajo. Fernando ha dado su visto bueno (Miguel, 20 oct).",
+  "porque": "Decisión 4: visto bueno de Fernando; «mineralización» fuera de la cita."
+ },
+ {
+  "ambito": "NS3",
+  "old": "Por decidir (elige Miguel): la otra mitad de tu frase de la web",
+  "new": "La otra mitad de tu frase de la web (descartada el 20 oct)",
+  "porque": "Delegado (\"prueba tú\"): se queda la favorita."
+ },
+ {
+  "ambito": "NS3",
+  "old": "Si prefieres cerrar con ella, la 4 sería «Pero si quieres que en unos meses lo raro sea que te lleguen leads fríos:», en dos bloques de cuerpo medio, y «Responde DIAGNÓSTICO» en grande. Cierra la 1 palabra por palabra, pero no dice qué miras y trae «leads fríos» la víspera de S21, que va de la llamada que empieza fría. Mi favorita es la de arriba.",
+  "new": "Elegida la favorita, la de arriba (20 oct): Miguel delegó la elección (\"prueba tú\"). Si prefieres cerrar con la otra mitad de tu frase, la 4 sería «Pero si quieres que en unos meses lo raro sea que te lleguen leads fríos:», en dos bloques de cuerpo medio, y «Responde DIAGNÓSTICO» en grande. Cierra la 1 palabra por palabra, pero no dice qué miras.",
+  "porque": "Delegado: la favorita; fuera la víspera de S21 (diciembre)."
+ },
+ {
+  "ambito": "S21",
+  "old": "Identificación: riesgo profesional (pantalla 2: tener que presentarse delante del socio del otro)",
+  "new": "Identificación: riesgo profesional (pantalla 2: que lo primero que te pida sea que te presentes)",
+  "porque": "Decisión 10: sale «Delante de su socio, además»."
+ },
+ {
+  "ambito": "S21",
+  "old": " Delante de su socio, además.»",
+  "new": "»",
+  "porque": "Decisión 10 (H3): frase de comprador inventada."
+ },
+ {
+  "ambito": "S21",
+  "old": "La instrucción arriba; «Delante de su socio, además» en cuerpo menor, abajo.",
+  "new": "La instrucción arriba; la encuesta, debajo.",
+  "porque": "Decisión 10."
+ },
+ {
+  "ambito": "S21",
+  "old": "La agenda real de diagnósticos de diciembre, con los huecos que quedan (PENDIENTE: la agenda real; nombres tapados).",
+  "new": "La agenda real de diagnósticos de diciembre, con los nombres tapados y sin contar huecos (PENDIENTE: la agenda real).",
+  "porque": "Decisión 11: sin enseñar huecos."
+ },
+ {
+  "ambito": "S21",
+  "old": " Y la próxima es la semana que viene.",
+  "new": "",
+  "porque": "Urgencia de fórmula en la versión blanda de la 4, como la de S24 (decisión 10)."
+ },
+ {
+  "ambito": "S22",
+  "old": "«El que enseña el coche vende más»: la prueba que no se puede falsear",
+  "new": "La creencia de que enseñar en redes el coche y el reloj vende más, desmontada: la prueba que no se puede falsear",
+  "porque": "Decisión 13: la idea, sin el acertijo."
+ },
+ {
+  "ambito": "S22",
+  "old": "«El que enseña el coche vende más.»",
+  "new": "«Enseñar en redes el coche y el reloj vende más.»",
+  "porque": "Decisión 13: la creencia dicha claro, sin acertijo (Kallaway ya va acreditado en la 3)."
+ },
+ {
+  "ambito": "S24",
+  "old": "La agenda real de enero con los huecos de diagnóstico visibles (PENDIENTE: la agenda real; nombres tapados).",
+  "new": "La agenda real de enero, con los nombres tapados y sin contar huecos (PENDIENTE: la agenda real).",
+  "porque": "Decisión 11: sin enseñar huecos."
+ },
+ {
+  "ambito": "S24",
+  "old": " La primera llamada del año está más cerca de lo que parece.",
+  "new": "",
+  "porque": "Decisión 10: urgencia de fórmula."
+ },
+ {
+  "ambito": "SP1",
+  "old": "lo que te funciona es suerte, y la suerte no se repite.»",
+  "new": "lo que te funciona es suerte.»",
+  "porque": "Decisión 10: fuera la máxima de la frase de la pieza."
+ },
+ {
+  "ambito": "SP1",
+  "old": "Sin palabra. Quien ve historias ya sigue la cuenta: cierra con una pregunta abierta, y la caja de preguntas es el CTA (no una micro acción), por eso va en la última pantalla.",
+  "new": "Responder DIAGNÓSTICO: DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando tus piezas en dos columnas, alcance y conversaciones. Va en la última historia, en vez de la caja de preguntas (20 oct: reglas de la casa, apartado 7, punto 36).",
+  "porque": "Decisión 10: el cierre pasa a «Responde DIAGNÓSTICO»."
+ },
+ {
+  "ambito": "SP1",
+  "old": "Acción: compromiso progresivo (pantalla 2: la encuesta, en la parte intermedia)",
+  "new": "Acción: compromiso progresivo (pantalla 2: la encuesta, en la parte intermedia) y siguiente paso único (pantalla 4: una palabra)",
+  "porque": "Trigger al día con la llamada."
+ },
+ {
+  "ambito": "SP1",
+  "old": "Si no, es suerte, y la suerte no se repite.»",
+  "new": "Si no, es suerte.»",
+  "porque": "Decisión 10: fuera la máxima de la pantalla."
+ },
+ {
+  "ambito": "SP1",
+  "old": "«La suerte no se repite» en negrita, aparte.",
+  "new": "«Cada tema vuelve al trabajo que demostró saber hacer» en negrita.",
+  "porque": "Decisión 10: la máxima ya no está."
+ },
+ {
+  "ambito": "SP1",
+  "old": "Dime qué te funcionó a ti este año sin saber por qué.»",
+  "new": "Responde DIAGNÓSTICO y miro tus piezas de este año en dos columnas: alcance y conversaciones.»",
+  "porque": "Decisión 10: la última historia, con llamada; lo que miro es lo que la secuencia enseña."
+ },
+ {
+  "ambito": "SP1",
+  "old": "Caja de preguntas con el texto «¿Qué te funcionó este año sin saber por qué?». Es el CTA de la secuencia.",
+  "new": "Ninguno: el CTA es responder DIAGNÓSTICO (20 oct).",
+  "porque": "Decisión 10."
+ },
+ {
+  "ambito": "SP1",
+  "old": "Sin palabra clave. La caja de preguntas en el centro, grande, fuera del tercio inferior; el texto encima, en cuerpo menor.",
+  "new": "La palabra DIAGNÓSTICO en grande, con la flecha a la barra de respuesta. El resto encima, en cuerpo menor.",
+  "porque": "Decisión 10."
+ },
+ {
+  "ambito": "SP2",
+  "old": " · Identificación: comparación con pares (pantalla 2: dos meses, justo cuando la gente de su nivel suele dejarlo)",
+  "new": "",
+  "porque": "Decisión 10: sale la frase sin fuente."
+ },
+ {
+  "ambito": "SP2",
+  "old": " Dos meses: justo cuando la gente de tu nivel suele dejarlo.",
+  "new": "",
+  "porque": "Decisión 10 (H3, H7)."
+ },
+ {
+  "ambito": "SP2",
+  "old": "Misma composición que la pantalla 1. La última frase en cuerpo menor, abajo del tercio central.",
+  "new": "Misma composición que la pantalla 1.",
+  "porque": "Decisión 10."
+ },
+ {
+  "ambito": "NS4",
+  "old": "La 2 y la 3 son tuyas.",
+  "new": "La 2 y la 3 son tuyas: tus palabras de R06 y N01 (20 oct).",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "Ninguna frase de tu documento del 8 oct: lo personal va fuera del árbol (6.10).",
+  "new": "Ninguna frase de tu documento del 8 oct: lo personal va fuera del árbol (6.10). Mientras no lo contestes, la 2 y la 3 van con tus palabras de R06 y N01 (20 oct, \"prueba tú\").",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "Material real. Tu error, «Edité ciento ochenta reels en un mes de un podcast» (R06, tu versión; 6.9), que aquí no se repite: es el fondo de la 1, no su rótulo. Lo que falta es justo lo que la hace nueva: tu respuesta.",
+  "new": "Material real. Tu error, «Edité ciento ochenta reels en un mes de un podcast» (R06, tu versión; 6.9): es el fondo de la 1 y lo dices tú en la 2, con tu conclusión de R06; la 3 son tus frases de N01. Lo que la haría nueva del todo sigue siendo tu respuesta a qué viste y con qué cliente (6.9).",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "Estado. Concepto vivo · idea sin material hasta que contestes · este guion, montado a falta de las pantallas 2 y 3.",
+  "new": "Estado. Concepto vivo · idea con material: tus palabras de R06 y N01 · este guion, escrito y no publicado.",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "La que digas en la pantalla 3.",
+  "new": "«Nadie te contrata porque publiques mucho.» Es tu frase de R06, y la dices en la 2.",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "R06 cuenta el error y su lección, R26 que lo dejaste, y NS4 por qué.",
+  "new": "R06 cuenta el error y su lección, R26 que lo dejaste, y NS4 lo enseña detrás de cámaras, con tus palabras de R06, y dice de dónde sale hoy tu contenido, con las de N01.",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "Sin cifras en pantalla. Si dices la de tu error en la 2, la que fijes en tu ficha (5.5): la de R06 no la mide ningún documento, y la propuesta de abril (Drive) dice otras.",
+  "new": "Una cifra, la tuya de R06: «ciento ochenta reels en un mes», en tu voz y en los subtítulos de la 2. Ningún documento la mide y la propuesta de abril (Drive) dice otras: si en tu ficha (5.5) fijas otra cifra pública, cambia aquí y en R06. Ninguna cifra en los rótulos.",
+  "porque": "Decisión 20: la 2 dice tu cifra de R06."
+ },
+ {
+  "ambito": "NS4",
+  "old": "Solo con tu respuesta. Sin ella, la 1 enseña lo que ya contaron R06 y R26; lo nuevo es qué viste y con quién. Ojo con S24 (sábado 26): habla de publicar más sin destino, con los «ciento ochenta días» del entrevistador de Caleb Ralston; si dices tu cifra en la 2, el número se cruza con el suyo dos días después.",
+  "new": "A medias. La 2 dice con tus palabras de R06 (9 nov) lo que ya contaste, y la 3 trae las de N01 (3 nov): lo nuevo es verlo detrás de cámaras, con la carpeta de abril y la encuesta. Lo que la haría nueva del todo es qué viste y con qué cliente (6.9), si un día lo cuentas. Ojo con S24 (sábado 26): habla de publicar más sin destino, con los «ciento ochenta días» del entrevistador de Caleb Ralston, y tus «ciento ochenta reels» de la 2 se cruzan con ese número dos días después.",
+  "porque": "Decisión 20: honesto con lo que repite."
+ },
+ {
+  "ambito": "NS4",
+  "old": " Si en la 2 cuentas un momento concreto (un mensaje, una reunión, un documento), el fondo pasa a ser ese material, difuminado, y el rótulo se ajusta a él: es lo que haría nueva la 1 para quien vio R06 y R26.",
+  "new": "",
+  "porque": "Decisión 20: la 2 ya está escrita; la condición queda en «Qué tienes que contar»."
+ },
+ {
+  "ambito": "NS4",
+  "old": "PENDIENTE: tu respuesta, en tus palabras.",
+  "new": "«Edité ciento ochenta reels en un mes de un podcast. Entonces llegué a la conclusión de que el volumen no tiene por qué ser la mejor estrategia de contenido. Nadie te contrata porque publiques mucho.»",
+  "porque": "Decisión 20: solo con sus palabras de R06 (fases 1, 2 y 4, con las erratas de dictado corregidas).",
+  "fila": "Locución"
+ },
+ {
+  "ambito": "NS4",
+  "old": "Qué viste, y con qué cliente o en qué momento, para dejar de vender reels por volumen, y qué decidiste: es la pregunta abierta de tu ficha desde el 9 oct (6.9). Quince segundos como mucho, de un tirón, como se lo contarías a un cliente sentado delante. Sin repetir lo que ya contaron R06 y R26: ni tu error tal cual como entrada ni «Entonces llegué a la conclusión…» como cierre; lo nuevo es el porqué. Sin «no salió un cliente», que quitaste de R06, y sin la «máquina diaria» de mayo, que también quitaste. Termina sin la conclusión: lo que cambió va en la 3. Si nombras el podcast o a quien lo hace, con su permiso. Y si prefieres no contarlo, la secuencia no sale: las preguntas del banco las contestas tú, y solo las que quieras (8.9).",
+  "new": "Texto de tus palabras de R06 y N01 (20 oct, \"prueba tú\"): cámbialo si quieres contarlo de otra forma. Aquí van tus frases de R06: la de la fase 1, la de la 2 (con «la mejor estrategia de contenido», 20 oct) y el final de la 4, de un tirón y mirando a la cámara, como se lo contarías a un cliente sentado delante; quince segundos como mucho. Si un día cuentas qué viste, y con qué cliente, para dejar de vender reels por volumen (tu ficha, 6.9), va aquí, y la 1 se ajusta a ese momento. Sin «no salió un cliente», que quitaste de R06, y sin la «máquina diaria» de mayo, que también quitaste. Si nombras el podcast o a quien lo hace, con su permiso.",
+  "porque": "Decisión 20: la nota que pide el encargo."
+ },
+ {
+  "ambito": "NS4",
+  "old": "PENDIENTE: tu respuesta, en tus palabras.",
+  "new": "«Cada semana tienes llamadas de venta: siempre te hacen la misma pregunta.» Debajo: «Esa pregunta debe ser una idea de contenido que debes publicar mes a mes.»",
+  "porque": "Decisión 20: solo con sus palabras de N01 (fases 1 y 2).",
+  "fila": "Texto en pantalla"
+ },
+ {
+  "ambito": "NS4",
+  "old": "Lo que haces hoy en vez de volumen, en una frase tuya que quepa en dos renglones (unos 68 caracteres). Que no sea la lección de R06 («Entonces llegué a la conclusión…», «nadie te contrata porque publiques mucho») ni lo que dice R26 («Dejé de editar 180 reels al mes…»). Si en la 2 ya lo has dicho, esta pantalla repite tu frase y nada más.",
+  "new": "Tus frases de N01: la de la fase 1, recortada para que se entienda sola («Y cada semana, tienes llamadas de venta, o la manera en la que vendas en las que siempre te hacen la misma pregunta»), y la de la 2, hasta «mes a mes». Es de dónde sale hoy tu contenido, en vez del volumen. Si prefieres otra frase tuya, que quepa en dos renglones.",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "NS4",
+  "old": "Tu frase entera, centrada, en dos renglones como mucho y en los dos tercios de arriba.",
+  "new": "Tus dos frases, centradas, cada una en dos renglones como mucho y en los dos tercios de arriba.",
+  "porque": "Decisión 20."
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Los jueves 3 y 17: la captura del vídeo de YouTube recién publicado (V3, V4) con el título. Los jueves 10 y 24: un dato con fuente de la ficha hecho imagen: el de 6sense (95 %), el de Edelman (73 %) o el de Gartner (67 %), con su fuente escrita en la imagen",
+  "new": "Un dato con fuente de la ficha hecho imagen, con su frase tal como la dice la ficha (3.2) y su fuente escrita en la imagen. Jueves 3: 6sense, «El 95% de las veces, el proveedor que gana ya estaba en la lista del primer día». Jueves 10: Edelman, «El 73% de los decisores se fía más del contenido con criterio propio de una empresa que de su marketing para juzgar si sabe hacer el trabajo». Jueves 17: Gartner, «El 67% de los compradores entre empresas prefiere comprar sin comercial». Jueves 24, trabajo propio: una página de la hoja de rodaje de diciembre, difuminada salvo los nombres de los formatos",
+  "porque": "Decisión 2: fuera la captura de V3/V4; un dato con fuente de la ficha o trabajo propio."
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "YouTube, la mañana de la publicación; el dato, de la ficha (6sense, Edelman o Gartner), con su fuente escrita en la imagen",
+  "new": "La ficha (3.2: 6sense, nov 2025; Edelman, feb 2024; Gartner, mar 2026), con la fuente y el año escritos en la imagen; el 24, la hoja de rodaje de diciembre (propia)",
+  "porque": "Decisión 2."
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "YouTube V3 / V4 · enlace; el dato, DIAGNÓSTICO · responde DIAGNÓSTICO y miro a quién le habla tu perfil",
+  "new": "DIAGNÓSTICO · responde DIAGNÓSTICO y miro a quién le habla tu perfil",
+  "porque": "Decisión 2."
+ }
+]

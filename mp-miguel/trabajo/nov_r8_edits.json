@@ -1,0 +1,479 @@
+[
+ {
+  "ambito": "CABECERA",
+  "old": "Estado de auditoría: ronda r7 del 20 oct 2026: segunda pasada",
+  "new": "Estado de auditoría: ronda r8 del 20 oct 2026, noche: lo que Miguel dejó decidido antes de irse (mensaje automático montado en Instagram; en YouTube contesta él y manda a su landing; visto bueno de Fernando) y lo que delegó («prueba tú»), con cada decisión listada en Pendientes para que la pueda revertir. Antes, ronda r7 del 20 oct 2026: segunda pasada",
+  "porque": "Encargo del coordinador: la r8 abre el estado de auditoría."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "once secuencias de historias (S01, S03, S04, NS1, NS2, S07, NS5, S09, S10, S11 y S12)",
+  "new": "doce secuencias de historias (S01, NS3, S03, S04, NS1, NS2, S07, NS5, S09, S10, S11 y S12)",
+  "porque": "NS3 pasa de diciembre a noviembre (jueves 5): la cuenta y la lista del mes, al día."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "jue 5 R04 · vie 6 S03",
+  "new": "jue 5 R04 y NS3 (en el de S02) · vie 6 S03",
+  "porque": "NS3 entra el jueves 5, el día que tenía S02."
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "La palabra y la llamada van solo en Instagram. Ninguna pieza que pida se publica hasta que el mensaje automático de DIAGNÓSTICO esté montado y probado.",
+  "new": "La palabra y la llamada van solo en Instagram, donde el mensaje automático de DIAGNÓSTICO ya está montado (20 oct). En YouTube contestas tú al comentario y mandas a tu landing. El jueves 5 de noviembre va la secuencia NS3, «Lo que no te voy a prometer», que pasa de diciembre a noviembre.",
+  "porque": "Decisión 3 y encargo del coordinador: el mensaje automático está montado; en YouTube contesta él y manda a su landing; NS3 el jueves 5."
+ },
+ {
+  "ambito": "R01",
+  "old": "analize tu perfil para determinemos",
+  "new": "analice tu perfil para determinar",
+  "porque": "Decisión 5: erratas de dictado en su locución («analize», «para determinemos»)."
+ },
+ {
+  "ambito": "R01",
+  "old": "con tu contenido, comenta diagnóstico»",
+  "new": "con tu contenido, comenta DIAGNÓSTICO y hablamos por privado.»",
+  "porque": "Decisiones 5 y 6: «comenta DIAGNÓSTICO» y su llamada hablada, a su fórmula."
+ },
+ {
+  "ambito": "R01",
+  "old": "Rótulo en «comenta diagnóstico»",
+  "new": "Rótulo en «comenta DIAGNÓSTICO»",
+  "porque": "La nota cita la locución tal como queda."
+ },
+ {
+  "ambito": "N01",
+  "old": "improvisas que publicar",
+  "new": "improvisas qué publicar",
+  "porque": "Decisión 5: errata de dictado, en el hablado del gancho y en la fase 1.",
+  "todas": true
+ },
+ {
+  "ambito": "N01",
+  "old": "o la manera en la que vendas en las que siempre",
+  "new": "o la manera en la que vendas, en las que siempre",
+  "porque": "Decisión 23: la corrección mínima para que se entienda (una coma: «o la manera en la que vendas» queda como inciso), con sus palabras."
+ },
+ {
+  "ambito": "N01",
+  "old": "Mientras no las contestes en el contenido, la vuelves a contestar en cada llamada. Cuando ya está contestada,",
+  "new": "Mientras no las contestes en el contenido, las vuelves a contestar en cada llamada. Cuando una ya está contestada,",
+  "porque": "Texto de Claude (adaptado en la sustitución, 9 oct): concordancia, «las objeciones… las vuelves»."
+ },
+ {
+  "ambito": "N01",
+  "old": "Por decidir: puerta abierta (elige Miguel).",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N23",
+  "old": " PENDIENTE: el mensaje automático de DIAGNÓSTICO, sin confirmar que esté montado (ficha 8.11); hasta entonces el reel no se publica.",
+  "new": "",
+  "porque": "Decisión 3: el mensaje automático está montado en Instagram."
+ },
+ {
+  "ambito": "N23",
+  "old": "Por decidir: qué cifra sale en público. Si es esta, la pieza va como está; si prefieres no dar cifras",
+  "new": "Comprobada el 20 oct en el diagnóstico (parte 4, legitimidad: «79 guiones no enseñan nada tuyo, ni caso ni trabajo ni experiencia»): es lo que dice la pieza, así que sale en público (20 oct, «prueba tú»). Si prefieres no dar cifras",
+  "porque": "Decisión 17: el 79 de 144 casa con el diagnóstico del 15 oct (57 + 17 + 5 = 79, «no enseñan nada tuyo»)."
+ },
+ {
+  "ambito": "N23",
+  "old": "; además, la cifra está por decidir",
+  "new": "",
+  "porque": "Decisión 17: la cifra ya está decidida."
+ },
+ {
+  "ambito": "N23",
+  "old": "y su hablado depende de cómo decidas contar quién analizó los guiones.",
+  "new": "y su hablado tendría que decir, como la fase 2, que los analizó una inteligencia artificial.",
+  "porque": "Decisión 17: ya está decidido cómo se cuenta quién analizó los guiones."
+ },
+ {
+  "ambito": "N23",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: el hablado es tu cliente con sus palabras, y el escrito abre la pregunta que la pieza contesta en la fase 3, ya con la llamada de ventas dentro. Con la B, el que se para primero eres tú, y el dolor llega tarde.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita, la A).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N23",
+  "old": "Por decidir (elige Miguel): cómo cuentas quién analizó los guiones",
+  "new": "Cómo cuentas quién analizó los guiones (decidido el 20 oct)",
+  "porque": "Decisión 17: fuera el «Por decidir»."
+ },
+ {
+  "ambito": "N23",
+  "old": "El diagnóstico del 15 oct lo hizo Claude, con cinco revisores y la misma rúbrica, por encargo tuyo; tú no los analizaste uno a uno. Mi propuesta, la más honesta: «puse a una inteligencia artificial a analizar uno a uno». Si prefieres no nombrar la herramienta, lo que sigue siendo verdad es «pedí que me analizaran uno a uno». Lo que la pieza no puede decir es «analicé». Al elegir, dos cosas: tu Doc de diciembre, en el bloque de V3, dice que «el consejo que una inteligencia artificial daría igual no distingue a nadie», y la llamada de esta pieza promete que el diagnóstico lo haces tú personalmente. Lo que elijas va igual en el hablado del gancho B y en el pie.",
+  "new": "Decidido el 20 oct («prueba tú»): «puse a una inteligencia artificial a analizar uno a uno», que es lo que pasó: el diagnóstico del 15 oct lo hizo Claude, con cinco revisores y la misma rúbrica, por encargo tuyo. La pieza no puede decir «analicé». Si prefieres no nombrar la herramienta, lo que sigue siendo verdad es «pedí que me analizaran uno a uno», y cambiaría igual en la fase 2, en el hablado del gancho B y en el pie. La llamada se queda como está: el diagnóstico que pide lo haces tú personalmente.",
+  "porque": "Decisión 17: «puse a una inteligencia artificial a analizar uno a uno»; la llamada personal se queda."
+ },
+ {
+  "ambito": "R04",
+  "old": "Arriba, el fotograma congelado de Diego, atenuado, hasta «no son tu cliente ideal»; en «tu equipo de ventas», el fotograma se sustituye por la diana de R02 (la pizarra, foto fija) con el anillo de en medio marcado.",
+  "new": "Arriba, el fotograma congelado de Diego, atenuado, toda la fase.",
+  "porque": "Decisión 8: R02 salió del mes; su diana sale del montaje."
+ },
+ {
+  "ambito": "R04",
+  "old": "Arriba, la diana quieta.",
+  "new": "Arriba, el fotograma congelado de Diego, atenuado y quieto.",
+  "porque": "Decisión 8: fuera la diana de R02."
+ },
+ {
+  "ambito": "R04",
+  "old": "viralidad si te vale",
+  "new": "viralidad sí te vale",
+  "porque": "Errata evidente de dictado en su locución (L10): «sí» afirmativo, sin tilde no se entiende."
+ },
+ {
+  "ambito": "R04",
+  "old": "tu cliente cliente ideal",
+  "new": "tu cliente ideal",
+  "porque": "Decisión 5: errata de dictado («cliente cliente ideal»)."
+ },
+ {
+  "ambito": "R06",
+  "old": "La propuesta de abril, impresa, entra en plano en la primera fase y vuelve al final, difuminada en montaje. PENDIENTE: confirmar con Miguel que la propuesta (Drive) se puede enseñar difuminada.",
+  "new": "La propuesta de abril, impresa, entra en plano en la primera fase y vuelve al final, difuminada entera en montaje: no se lee ninguna cifra, porque la que dices («ciento ochenta») no es una cifra de la propuesta (ficha 5.5). Se enseña así (20 oct, «prueba tú»): es tuya.",
+  "porque": "Por decidir delegado: la propuesta se enseña difuminada entera; su papel dice 55 u 85 reels (ficha 5.5), así que dejar leer un «180» sería un píxel inventado (H14)."
+ },
+ {
+  "ambito": "R06",
+  "old": "difuminada salvo el «180»",
+  "new": "difuminada entera",
+  "porque": "El «180» no está en la propuesta de abril (ficha 5.5): no se deja leer ninguna cifra del papel."
+ },
+ {
+  "ambito": "R06",
+  "old": "La propuesta de abril difuminada en montaje salvo «180».",
+  "new": "La propuesta de abril, difuminada entera en montaje: ninguna cifra legible.",
+  "porque": "Igual que el visual: la cifra la dice la voz y el rótulo, no el papel."
+ },
+ {
+  "ambito": "R06",
+  "old": "Edite ciento ochenta",
+  "new": "Edité ciento ochenta",
+  "porque": "Decisión 5: errata de dictado («Edite»)."
+ },
+ {
+  "ambito": "R06",
+  "old": "llegue a la conclusión",
+  "new": "llegué a la conclusión",
+  "porque": "Decisión 5: errata de dictado («llegue»)."
+ },
+ {
+  "ambito": "R06",
+  "old": "la estrategia de contenido más óptima",
+  "new": "la mejor estrategia de contenido",
+  "porque": "Decisión 5: «más óptima» → «mejor» (gramática), en el orden que ya usa el pie."
+ },
+ {
+  "ambito": "R06",
+  "old": "acerca de que ideas",
+  "new": "acerca de qué ideas",
+  "porque": "Decisión 5: errata de dictado («que ideas»)."
+ },
+ {
+  "ambito": "N04",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: es de error o peligro y tiene aguijón («aleja»); el B, aunque está arreglado, se queda en un título.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita, la A).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N25",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: es tu molde de escrito, ya dice a quién le habla y la fase 4 le da el cómo que promete; la B es el deseo tal cual y más corta, pero no es un «Cómo», ni una pregunta, ni una orden.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita, la A).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "R11",
+  "old": "que compartía media frase con la frase de S08, la misma semana, y con la de R02)",
+  "new": "que compartía media frase con la frase de S08 y con la de R02, dos piezas que ya no están en el mes)",
+  "porque": "Decisión 25: la nota nombraba piezas que ya no están en noviembre."
+ },
+ {
+  "ambito": "R11",
+  "old": "para empezar la marca personal de un empresario B2B.",
+  "new": "para empezar la marca personal de un empresario B2B.»",
+  "porque": "Solo la comilla de cierre que faltaba en su locución; ninguna palabra cambia."
+ },
+ {
+  "ambito": "R12",
+  "old": "su producto es bueno",
+  "new": "tu producto es bueno",
+  "porque": "Decisión 24: le habla de tú en toda la pieza."
+ },
+ {
+  "ambito": "R12",
+  "old": "Comenta DIAGNÓSTICO y analizo personalmente tu estrategia de contenido.",
+  "new": "Si quieres que personalmente analice cuál de estas tres facturas estás pagando, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "Decisión 6: su llamada hablada, a su fórmula; X es lo que enseña la pieza (las tres facturas de la pizarra), como en su pie y en su destino."
+ },
+ {
+  "ambito": "R12",
+  "old": "y que lo analizo yo personalmente",
+  "new": "y lo que miro yo personalmente: cuál de las tres facturas paga",
+  "porque": "La ficha de disparadores, al día con la llamada."
+ },
+ {
+  "ambito": "R13",
+  "old": "sirve para S02 y para una pieza de la zona prohibida",
+  "new": "sirve para una pieza de la zona prohibida",
+  "porque": "Decisión 25: S02 salió del mes."
+ },
+ {
+  "ambito": "R14",
+  "old": "y la diana por anillos es propia.",
+  "new": "y el criterio de la viralidad de nicho es propio.",
+  "porque": "Decisión 8: la diana sale del montaje; lo propio es el criterio, como en R04."
+ },
+ {
+  "ambito": "R14",
+  "old": "hablado: no lleva (Por decidir);",
+  "new": "hablado: tu primera frase de la fase 1, «Por qué anicharte es la mejor estrategia en B2B.» (20 oct, «prueba tú»: no se escribe otro);",
+  "porque": "Por decidir delegado: el hablado es la primera frase que ya dice (nada nuevo en su voz)."
+ },
+ {
+  "ambito": "R14",
+  "old": "la diana de R02; ",
+  "new": "",
+  "porque": "Decisión 8: fuera la diana de R02 del material."
+ },
+ {
+  "ambito": "R14",
+  "old": "es la estrategia más óptima en B2B",
+  "new": "es la mejor estrategia en B2B",
+  "porque": "Decisión 5: «más óptima» → «mejor»."
+ },
+ {
+  "ambito": "R14",
+  "old": "señala arriba, a la diana.",
+  "new": "señala arriba, al fotograma congelado.",
+  "porque": "Decisión 8: fuera la diana de R02."
+ },
+ {
+  "ambito": "R14",
+  "old": "Arriba, el fotograma congelado y atenuado hasta «Por eso tu contenido atrae curiosos»; ahí se sustituye por la foto fija de la diana de R02 con el círculo de fuera tachado.",
+  "new": "Arriba, el fotograma congelado y atenuado, toda la fase.",
+  "porque": "Decisión 8: fuera la diana de R02."
+ },
+ {
+  "ambito": "R14",
+  "old": "La estrategia más óptima es",
+  "new": "La mejor estrategia es",
+  "porque": "Decisión 5: «más óptima» → «mejor»."
+ },
+ {
+  "ambito": "R14",
+  "old": "Arriba, la diana quieta.",
+  "new": "Arriba, el fotograma congelado, atenuado y quieto.",
+  "porque": "Decisión 8: fuera la diana de R02."
+ },
+ {
+  "ambito": "N17",
+  "old": "y la propuesta sigue en una carpeta.",
+  "new": "y la propuesta estuvo en una carpeta, donde nadie veía ese cambio.",
+  "porque": "Por decidir delegado: la propuesta ya se enseña (en R06, el lunes 9, y en esta misma fase); la frase pasa a pasado."
+ },
+ {
+  "ambito": "N17",
+  "old": "mientras la propuesta siga en una carpeta, ese cambio no lo ve nadie",
+  "new": "mientras lo que cambió siga en una carpeta, no lo ve nadie",
+  "porque": "Igual que la locución: la regla vale para el que mira."
+ },
+ {
+  "ambito": "N17",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: nombra a quién le importa, tu próximo cliente, y el hablado lo concreta.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita, la A).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "N17",
+  "old": "La propuesta sigue en una carpeta: mientras siga ahí, ese cambio no lo ve nadie.",
+  "new": "La propuesta estaba en una carpeta: mientras estuvo ahí, ese cambio no lo vio nadie.",
+  "porque": "Texto de Claude (sustitución, 9 oct; no es tu voz): decía que la propuesta sigue en una carpeta mientras se enseña en pantalla, y R06 ya la enseñó el lunes 9."
+ },
+ {
+  "ambito": "N17",
+  "old": "en «sigue en una carpeta» da un toque al disco duro",
+  "new": "en «estaba en una carpeta» da un toque al disco duro",
+  "porque": "La nota cita la locución tal como queda."
+ },
+ {
+  "ambito": "N17",
+  "old": "difuminada entera salvo la cifra que decida Miguel (Por decidir); ninguna de las cifras retiradas.",
+  "new": "difuminada entera: ninguna cifra legible (20 oct, «prueba tú»).",
+  "porque": "Por decidir delegado: la voz no dice ninguna cifra y la del papel no es la de R06; nada legible."
+ },
+ {
+  "ambito": "N24",
+  "old": " PENDIENTE: el mensaje automático de DIAGNÓSTICO, montado y probado con una cuenta de prueba (8.11: «Sin confirmar que esté montado»); sin él, la fase 4 cuenta algo que no pasa.",
+  "new": " El mensaje automático ya está montado en Instagram (20 oct): la grabación de pantalla de la fase 4 se hace con él, desde una cuenta de prueba.",
+  "porque": "Decisión 3: el mensaje automático está montado."
+ },
+ {
+  "ambito": "N24",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: es la pregunta exacta que deja cada llamada a DIAGNÓSTICO, y la pieza la contesta entera; la B filtra más, pero dice el dolor dos veces seguidas con el hablado.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita, la A).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "R18",
+  "old": "Activo de prueba social distinto del de R08 (documentos de Luis) y del de R13 (tabla propia).",
+  "new": "Activo de prueba social distinto del de R13 (tabla propia).",
+  "porque": "Decisión 25: R08 salió del mes."
+ },
+ {
+  "ambito": "R18",
+  "old": "decide que reels hay que sacar",
+  "new": "decide qué reels hay que sacar",
+  "porque": "Decisión 5: errata de dictado («que reels»)."
+ },
+ {
+  "ambito": "R18",
+  "old": "optimizar el contenido para redes sociales.",
+  "new": "optimizar el contenido para redes sociales.»",
+  "porque": "Solo la comilla de cierre que faltaba en su locución."
+ },
+ {
+  "ambito": "R18",
+  "old": "hablamos por privado.»»",
+  "new": "hablamos por privado.»",
+  "porque": "Comilla de cierre repetida."
+ },
+ {
+  "ambito": "N21",
+  "old": "Por decidir: puerta abierta (elige Miguel). Mi favorita, la A: es tu molde, filtra por lo que ya probó y ahora también por cómo vende (a empresas, con una llamada de ventas), y deja al hablado contar la escena; la B repite media escena del hablado.",
+  "new": "Elegida la favorita (20 oct): Miguel delegó la elección («prueba tú»). Si prefieres otra, está en Descartados o en la crítica del 19 oct.",
+  "porque": "Decisión 1: gancho elegido (la favorita, la A).",
+  "fila": "Elección"
+ },
+ {
+  "ambito": "NS1",
+  "old": "Por decidir (Miguel): el nombre del Método Reflejo",
+  "new": "El nombre del Método Reflejo (decidido el 20 oct)",
+  "porque": "Decisión 19: fuera el «Por decidir»."
+ },
+ {
+  "ambito": "NS1",
+  "old": "Ya no va en la 4, que lleva solo el CTA. La ficha (6.4) lo guarda para las piezas de marco propio y la llamada, y N22 lo nombra con su porqué.",
+  "new": "No se nombra en la secuencia (20 oct, «prueba tú»): lo nombra N22, con su porqué, y la ficha (6.4) lo guarda para las piezas de marco propio y la llamada.",
+  "porque": "Decisión 19: el Método Reflejo no se nombra en NS1 (lo nombra N22)."
+ },
+ {
+  "ambito": "NS2",
+  "old": "porque el después no existe: tu bio nueva no está escrita, y esa estructura pide un después que se pueda citar.",
+  "new": "porque el después todavía no se puede citar: tu bio nueva es una propuesta (está en la idea) y aún no ha estado puesta, y esa estructura pide un después que se pueda citar.",
+  "porque": "Decisión 21: la bio nueva ya está escrita como propuesta."
+ },
+ {
+  "ambito": "NS2",
+  "old": "La bio nueva no existe todavía y la secuencia no la inventa. PENDIENTE: la versión nueva.",
+  "new": "La bio nueva no sale en la secuencia, pero tiene que estar puesta en tu perfil el día que se publique. Bio que tiene que estar puesta el 13 nov (propuesta de Claude, 20 oct): «Si vendes con llamada de ventas, publicas lo que te preguntan en ella. / Píldoras del Conocimiento: leads más cerca de comprar. / Pide tu diagnóstico ↓» (147 caracteres con los dos saltos de línea; Instagram deja 150). Contesta tus tres preguntas: a quién (al que vende con llamada de ventas, como dice la pantalla 4), qué te hace diferente (publicar lo que te preguntan en la llamada, que no lo dice ninguna de las 22 webs del 19 oct) y qué resultado lo valida (Píldoras, con lo que dice Fernando en su testimonio, sin plazo ni cifra). Sin «Experto en» y sin cifras. Si prefieres otra, la de tu ficha (8.3) también vale.",
+  "porque": "Decisión 21: propuesta de bio con las tres preguntas de NS2, la condición de L2, el hecho y su voz, en 147 caracteres."
+ },
+ {
+  "ambito": "NS5",
+  "old": "La encuesta: qué interacciones usan tus historias lo tienes sin decidir (reglas de la casa, apartado 7, punto 6); mientras, se escribe como manda la estructura.",
+  "new": "La encuesta, porque la pide la estructura: las interacciones de tus historias son las que pide cada estructura (20 oct, «prueba tú»).",
+  "porque": "Decisión 19: interacciones, las que pide cada estructura."
+ },
+ {
+  "ambito": "NS5",
+  "old": "PENDIENTE: que estén montados el mensaje automático y la página del diagnóstico (8.11); hasta entonces no se publica (C13).",
+  "new": "El mensaje automático ya está montado en Instagram (20 oct). PENDIENTE: la página del diagnóstico, maquetada (8.11); hasta entonces no se publica (C13).",
+  "porque": "Decisión 3: el mensaje automático está montado; la página sigue como estaba."
+ },
+ {
+  "ambito": "NS5",
+  "old": "lo cuentan N04 desde lo que repites (si entra en la semana 2)",
+  "new": "lo cuentan N04 desde lo que repites (martes 10)",
+  "porque": "Decisión 25: N04 ya está en el mes, el martes 10."
+ },
+ {
+  "ambito": "NS5",
+  "old": "Y D15 lo lleva N16, que va a enero o, si la eliges, al hueco de R17 o al sitio de R38 (parte 6): otra semana.",
+  "new": "Y D15 lo lleva N16, que no está en noviembre: otra semana.",
+  "porque": "Decisión 25: el hueco de R17 ya lo ocupa N24."
+ },
+ {
+  "ambito": "S10",
+  "old": "la pregunta la cuenta el estratega detrás de las marcas de Hormozi y Gary Vee; su nombre, Por decidir)",
+  "new": "la pregunta la cuenta Caleb Ralston, con su nombre, el estratega detrás de las marcas de Hormozi y Gary Vee)",
+  "porque": "Decisión 9: crédito a Caleb Ralston (L13)."
+ },
+ {
+  "ambito": "S10",
+  "old": "El estratega detrás de las marcas de Hormozi y Gary Vee cuenta que",
+  "new": "Caleb Ralston, el estratega detrás de las marcas de Hormozi y Gary Vee, cuenta que",
+  "porque": "Decisión 9: crédito a Caleb Ralston (L13); el resto de su frase, tal cual."
+ },
+ {
+  "ambito": "S10",
+  "old": "que el talento quiera trabajar contigo. ",
+  "new": "que el talento quiera trabajar contigo.»",
+  "porque": "Solo la comilla de cierre que faltaba en su texto en pantalla."
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": " El jueves 5 no tiene secuencia.",
+  "new": "",
+  "porque": "El jueves 5 va NS3."
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "No se usa los jueves 12, 19 y 26: va la secuencia (NS1, NS5, S11). El jueves 5 no tiene secuencia: la ranura queda libre, sin historia escrita (por decidir)",
+  "new": "No se usa: va la secuencia (NS3, NS1, NS5, S11)",
+  "porque": "El jueves 5 va NS3: la ranura no se usa ningún jueves.",
+  "fila": "Jueves"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Un dato con fuente, como captura de la página o del gráfico del informe, con la fuente legible y un rótulo de una línea. Semana 1: 6sense, el 95 %. Semana 2: Edelman, el 73 %. Semana 3: Gartner, el 67 %. Cada rótulo dice lo que mide la cifra tal como lo dice la ficha y su fuente, sin añadir nada. Semana 4: el censo propio, 23 proveedores de marca personal en España y «autoridad» en 9 webs",
+  "new": "Un dato con fuente, como captura de la página o del gráfico del informe, con la fuente y el año legibles y el rótulo con la frase de la ficha (3.2), tal cual. Semana 1: 6sense (2025), «El 95% de las veces, el proveedor que gana ya estaba en la lista del primer día». Semana 2: Edelman (2024), en dos líneas, «El 73% de los decisores se fía más del contenido con criterio propio de una empresa que de su marketing para juzgar si sabe hacer el trabajo». Semana 3: Gartner (2026), «El 67% de los compradores entre empresas prefiere comprar sin comercial». Son datos de fuera de España: se enseñan como tendencia, no como dato de su sector. Semana 4: el censo propio del 19 oct, con una sola cifra: «autoridad» la dicen 17 de las 22 webs de marca personal que se leyeron",
+  "porque": "Decisión 22: los rótulos, con la frase exacta de la ficha v7 (3.2); el censo, con la cifra de la ficha v7 (3.3 y 3.6), una sola.",
+  "fila": "Sábado"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "9.6: los datos con fuente de la ficha (6sense, Edelman y Gartner), con su enlace; el censo, material propio (9.6)",
+  "new": "3.2: los datos con fuente de la ficha (6sense, Edelman y Gartner), con su enlace; el censo de las 22 webs del 19 oct, material propio (3.3 y 3.6)",
+  "porque": "Decisión 22: las referencias, a la ficha v7.",
+  "fila": "Sábado"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "semana 1, la pizarra del rodaje de V1 (foto, los cuatro pilares escritos)",
+  "new": "semana 1, la pizarra del rodaje de N01 (foto, el bucle de la llamada a la pieza, dibujado entero)",
+  "porque": "Decisión 25: V1 está escrito y sin grabar (ficha 8.11) y no está en la hoja de rodaje de noviembre; la pizarra de N01 sí se graba.",
+  "fila": "Domingo"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "semana 3, la pizarra del rodaje de V2 con las cuatro raíces",
+  "new": "semana 3, la pizarra del rodaje de R12 (foto, las tres facturas)",
+  "porque": "Decisión 25: V2, igual que V1; la pizarra de R12 sí se graba.",
+  "fila": "Domingo"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "el material de rodaje de V1 y V2",
+  "new": "las fotos de la pizarra del rodaje de noviembre (N01 y R12)",
+  "porque": "Decisión 25: al día con las fotos nuevas.",
+  "fila": "Domingo"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "La propuesta de abril: PENDIENTE confirmar con Miguel que se enseña difuminada, y sus cifras reales",
+  "new": "La propuesta de abril se enseña difuminada entera, sin ninguna cifra legible (20 oct, «prueba tú»)",
+  "porque": "Por decidir delegado: como en R06 y N17.",
+  "fila": "Domingo"
+ }
+]
