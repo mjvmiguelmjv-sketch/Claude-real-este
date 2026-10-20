@@ -1,4 +1,19 @@
-# Lo que cambió · noviembre r6 y diciembre r4 · 20 oct 2026
+# Lo que cambió · noviembre r7 y diciembre r5 · 20 oct 2026
+
+## Segunda pasada: noviembre r7 y diciembre r5, las buenas
+
+Un revisor que no había escrito los guiones puntuó a ciegas la r6 y la r4 (registro: `mp-miguel/registro/auditorias-calma-meses-20oct.md`, por dentro). Puntúa más duro que la crítica del 19 oct: noviembre 5,8 con 6 de 26 piezas en 7, diciembre 5,5 con 5 de 28. La diferencia es sobre todo de quién lee, porque a piezas sin cambios les da 1,4 puntos menos. Lo que sí se sostiene es lo que encontró, y se ha corregido todo lo que no es tuyo:
+- Rótulos, notas, pies, fichas y disparadores que describían una locución anterior ya casan con la locución actual: 168 cambios en noviembre y 135 en diciembre.
+- «aunque no sigamos», la frase de la competencia, ya no está (R28, R38, S18, S21 y S24).
+- Las llamadas que no son tuyas (pies, rótulos, texto en pantalla) van con tu fórmula.
+- Corregidas las erratas que se leen. Los pies que acababan en una pregunta de interacción terminan en la tesis.
+- R30 tiene pie, solo con frases de tu locución.
+- S22 ya no lleva la marca «DEVOLVER AL REPARTO».
+- No se ha tocado ninguna locución tuya. Lo que es tuyo (erratas de tu voz que saldrían en subtítulos, llamadas habladas fuera de la fórmula, fases que faltan, máximas, acertijos y frases de comprador inventadas) está en Pendientes, como «Por decidir»: 10 filas nuevas en noviembre y 9 en diciembre.
+- Las hojas de rodaje salen de la r7 y la r5: noviembre v5 y diciembre v2.
+- La r6, la r4 y las hojas v4 y v1 están en `entregas/Descartados/`, con el prefijo «superada».
+
+## Primera pasada (r6 y r4)
 
 Base: tus Docs de noviembre r5 (19 oct) y diciembre r3 (con tus cambios hasta el 20 oct). Se aplica la crítica del 19 oct («Guiones nuevos y crítica»). **Delegaste la puerta**: va lo que la crítica marca como «Propongo» o «Sí». Lo que es tuyo queda en la tabla de Pendientes de cada Doc como **Por decidir**. No se ha publicado nada y no se ha borrado nada de tus Docs anteriores.
 

@@ -53,15 +53,17 @@ Frases enteras con su porqué; el gancho, con la escena del comprador o un «Có
 
 ## 6. Lo que se hizo el 20 oct (noviembre r6 y diciembre r4)
 
-Salida en `mp-miguel/entregas/`:
-- `MP Miguel · Guiones · noviembre 2026 · r6 · 20 oct 2026.docx`
-- `MP Miguel · Guiones · diciembre 2026 · r4 · 20 oct 2026.docx`
-- `MP Miguel · Hoja de rodaje noviembre 2026 · v4 · 20 oct 2026.docx` y `… diciembre 2026 · v1 …` (por formatos, con el formato de su hoja v3 del 13 oct)
+Salida en `mp-miguel/entregas/` (docx y PDF de cada uno; lo superado, en `entregas/Descartados/`):
+- `MP Miguel · Guiones · noviembre 2026 · r7 · 20 oct 2026` y `… diciembre 2026 · r5 …` (las buenas: la crítica del 19 oct y una segunda pasada tras la revisión a ciegas)
+- `MP Miguel · Hoja de rodaje noviembre 2026 · v5 …` y `… diciembre 2026 · v2 …` (por formatos, con el formato de su hoja v3 del 13 oct)
+- `MP Miguel · Ficha de marca · v7 · 20 oct 2026` (su crítica del 20 oct aplicada; puerta delegada: «sigue tú con todo»; lo suyo, en 10.2 «Por decidir», una sola lista)
+- Lo que salió de la ficha v6 no se perdió: `mp-miguel/registro/` (la nota, la primera llamada, los formularios, notas de proceso, prospectos) y `mp-miguel/banco/arbol-detalle-ficha-v6.md`.
+- Revisión a ciegas de los meses, por dentro: `mp-miguel/registro/auditorias-calma-meses-20oct.md`.
 - `cambios-noviembre-diciembre-20oct.md`: el calendario nuevo y lo que cambió, pieza a pieza.
 
 El formato es el mismo de sus Docs: se editan sus `.docx` y las piezas nuevas se montan copiando una pieza del propio mes; se comprobó renderizando a PDF. En `mp-miguel/trabajo/` están las sustituciones (JSON) y los generadores de cada mes (`gen_nov.py`, `gen_dic.py`): para rehacer un mes hacen falta sus `.docx` de partida (nov r5, dic r3, sustitución r2, crítica del 19 oct y hoja v3), que viven en sus subidas y no están en el repo.
 
-Lo siguiente, cuando Miguel conteste: sus «Por decidir» de cada mes (tabla de Pendientes); la ficha v7; enero y febrero con la misma ronda.
+Lo siguiente, cuando Miguel conteste: sus «Por decidir» de cada mes (tabla de Pendientes) y de la ficha v7 (10.2); enero y febrero con la misma ronda (faltan sus Docs: no se han subido).
 
 ## 7. Cómo seguir
 
