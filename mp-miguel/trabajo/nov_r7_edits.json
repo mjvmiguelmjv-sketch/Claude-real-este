@@ -1,0 +1,1017 @@
+[
+ {
+  "ambito": "CABECERA",
+  "old": "Estado de auditoría: ronda r6 del 20 oct 2026:",
+  "new": "Estado de auditoría: ronda r7 del 20 oct 2026: segunda pasada tras la revisión a ciegas (rótulos, pies y llamadas al día; erratas que se leen). Antes, ronda r6 del 20 oct 2026:",
+  "porque": "Encargo: estado de la ronda r7"
+ },
+ {
+  "ambito": "R01",
+  "old": "Al decir «entra», acerca un instante",
+  "new": "Al decir «Instagram», acerca un instante",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R01",
+  "old": "Rótulo al decir «se va»: «Entra y se va». Nada más en pantalla.",
+  "new": "Nada más en pantalla.",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice («Entra y se va»)"
+ },
+ {
+  "ambito": "R01",
+  "old": "La fase 1 nombra lo que se le va mientras su marca no se ve: el que no le conoce entra y se va",
+  "new": "La fase 1 nombra lo que pierde mientras su marca no se ve: en su Instagram parece uno más",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R01",
+  "old": "Rótulo a dos líneas, en la pausa al terminar la última frase: «Tu marca ya existe. / En tus redes no se ve.»",
+  "new": "Rótulo a dos líneas, al decir «Empieza en lo que piensan los demás»: «Empieza en lo que piensan / cuando oyen tu nombre».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice, y era una máxima (4.2)"
+ },
+ {
+  "ambito": "R01",
+  "old": "En «qué te preguntan, en qué te hacen caso, qué has hecho» marca tres",
+  "new": "En «qué es lo que frecuentemente te preguntan», «en qué te hacen caso» y «qué resultados concretos» marca tres",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R01",
+  "old": "«Qué te preguntan» / «En qué te hacen caso» / «Qué has hecho»",
+  "new": "«Qué te preguntan» / «En qué te hacen caso» / «Qué resultados has conseguido»",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R01",
+  "old": "Después de «tu cliente ideal», un par de segundos",
+  "new": "Después de «tu estrategia de contenido», un par de segundos",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior: la fase 3 ya no termina en «tu cliente ideal»"
+ },
+ {
+  "ambito": "N01",
+  "old": "al decir «improvisas cada semana»",
+  "new": "al decir «cada semana»",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "N01",
+  "old": "Fase 1: «No tienes sistema: improvisas cada semana», el dolor 25 pasado a tú",
+  "new": "Fase 1: «No tienes una estrategia de contenido», el dolor 25 pasado a tú",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "N01",
+  "old": "la vuelve a contestar en cada llamada, empezando de cero",
+  "new": "la vuelve a contestar en cada llamada",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "N01",
+  "old": "Autoridad en activo. Fase 3: «antes de escribir, pido las preguntas que llegan a ventas», que es como trabaja Miguel (ficha 1.4). Afirma, así que lleva credibilidad",
+  "new": "Contraste creencia/realidad. Fase 3: «Esas objeciones son mejores ideas que las tendencias de Instagram». Afirma, así que lleva credibilidad",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior: la voz ya no dice «pido las preguntas que llegan a ventas»"
+ },
+ {
+  "ambito": "N01",
+  "old": "Cómo trabaja Miguel: pide las preguntas que llegan a ventas (ficha 1.4); la frase de la web.",
+  "new": "El bucle de las llamadas al contenido, del Método Reflejo, contado sin nombrarlo; la frase de la web, en el pie.",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "N01",
+  "old": "«Lo que te preguntan / es lo próximo que publicas»",
+  "new": "«Esa pregunta debe ser / una idea de contenido»",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "N01",
+  "old": "Comenta DIAGNÓSTICO y te mando cómo pedirlo: miramos qué preguntas de tus llamadas no contesta tu contenido, y te llevas una página con lo que falla y lo que miraría primero.",
+  "new": "Si quieres que personalmente analice qué preguntas de tus llamadas no contesta tu contenido, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "auditoría 20 oct, 4.1: el pie no seguía la fórmula de DIAGNÓSTICO y no casaba con la voz («hablamos por privado»)"
+ },
+ {
+  "ambito": "N23",
+  "old": "DIAGNÓSTICO por WhatsApp, mirando qué enseñan de él sus últimas piezas",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué enseñan de él sus últimas piezas",
+  "porque": "Ficha del CTA a su fórmula"
+ },
+ {
+  "ambito": "R04",
+  "old": "Fase 1: «te dijeron que con reels te llegarían clientes y no pasó nada», que es el dolor 28 con sus palabras",
+  "new": "Fase 1: «Te dijeron que contratando una agencia para hacer contenido te llegarían clientes», el dolor 28 contado desde la agencia",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R04",
+  "old": "Coste hundido. Fase 2: lo que ya probó con reels. Absolviendo: con eso ya sabe qué camino no es",
+  "new": "Coste hundido. Fase 1: lo que ya pagó a una agencia para hacer contenido. Fase 2: lo que le sigue costando, el tiempo que él o su equipo de ventas pierde filtrando a quien no es su cliente ideal",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R04",
+  "old": "«Te dijeron que con reels te llegarían clientes y no pasó nada.»",
+  "new": "«Te dijeron que contratando una agencia para hacer contenido te llegarían clientes.»",
+  "porque": "El hablado del gancho, igual que la fase 1 de la locución"
+ },
+ {
+  "ambito": "R04",
+  "old": "hablado: el dolor 28 de la ficha, literal, pasado a «tú»",
+  "new": "hablado: el dolor 28 de la ficha, pasado a «tú» y contado desde la agencia que contrató",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R04",
+  "old": "y la para con la mano en «paro aquí»",
+  "new": "y la para con la mano al terminar la frase de Diego",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R04",
+  "old": "A cámara. En «muy pocos» junta el índice y el pulgar. En «menos visitas, más conversaciones» baja una mano y sube la otra, despacio.",
+  "new": "A cámara. En «muchas personas que no son tu cliente ideal» abre las manos; en «filtrando esos leads» las baja, despacio.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R04",
+  "old": "atenuado, hasta «qué camino no es»; en «queda el otro», el fotograma",
+  "new": "atenuado, hasta «no son tu cliente ideal»; en «tu equipo de ventas», el fotograma",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R04",
+  "old": "«a todos = a nadie» / «ya sabes qué camino no es» / «dentro de tu sector»",
+  "new": "«Muchas personas que no son tu cliente ideal» / «Muchísimo tiempo filtrando esos leads»",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R04",
+  "old": "Rótulo en «para el que te paga»: «contenido para el que te paga».",
+  "new": "Rótulo en «haz contenido de nicho»: «Contenido de nicho».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R04",
+  "old": "Si vendes un servicio que se cierra en una reunión, lo viral a secas te trae visitas. Lo que te trae clientes son las piezas que vuelan dentro de tu sector.",
+  "new": "Si vendes un servicio que se cierra en una llamada de ventas, el contenido viral te trae muchas personas que no son tu cliente ideal, y tú o tu equipo perdéis tiempo filtrándolas.",
+  "porque": "El pie describía la locución anterior y cerraba en una máxima (4.2)"
+ },
+ {
+  "ambito": "R04",
+  "old": "¿Qué te prometieron la última vez que contrataste contenido? Te leo en comentarios.",
+  "new": "Si vendes un producto de 1.000 euros o más, haz contenido de nicho que solo le hable a los dolores de tu cliente ideal.",
+  "porque": "auditoría 20 oct, 4.1: la pieza no pide; el pie termina en la tesis, sin pregunta de interacción (con la tesis de su voz)"
+ },
+ {
+  "ambito": "R06",
+  "old": "¿Es el volumen una buena estrategia de contenido?.",
+  "new": "¿Es el volumen una buena estrategia de contenido?",
+  "porque": "errata que se lee en pantalla («?.») en el escrito"
+ },
+ {
+  "ambito": "R06",
+  "old": "«Esta propuesta la mandé yo, y la mandé convencido.»",
+  "new": "«Edité ciento ochenta reels en un mes de un podcast.»",
+  "porque": "El hablado del gancho, igual que la fase 1 de la locución"
+ },
+ {
+  "ambito": "R06",
+  "old": "Error o peligro (en el escrito: el error propio, con su mes y su nombre), sobre el molde de la escena",
+  "new": "Pregunta (en el escrito: si el volumen es una buena estrategia de contenido), sobre el molde de la escena",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "Gancho escrito y visual: el mes y el error con nombre en el rótulo, y un documento real en pantalla, no «cometí un error»; las cifras, en la primera fase",
+  "new": "Gancho visual: un documento real en pantalla, no «cometí un error»; la cifra, en la primera fase",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "Fase 1 y fase 2: «no salió un cliente» y «si has pagado por contenido al peso», el dolor 1 visto desde los dos lados",
+  "new": "Fase 4: «Si tus clientes no te compran sin tener una llamada de ventas», la condición del que compra con reunión; el dolor 1, visto desde el que vendía volumen",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "Coste hundido. Fase 2: lo que ya pagó por volumen. Absolviendo: no fue tirar el dinero, fue descartar un camino, y Miguel lo descartó desde el otro lado",
+  "new": "Coste hundido. Fases 1 y 2: el volumen que vendió Miguel y la conclusión a la que llegó, que no tiene por qué ser la mejor estrategia. Absolviendo: el que lo compró descarta un camino, como Miguel lo descartó desde el otro lado",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "el error propio con la propuesta en pantalla y el segundo intento tirado.",
+  "new": "el error propio con la propuesta en pantalla.",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior (el intento de mayo ya no se cuenta)"
+ },
+ {
+  "ambito": "R06",
+  "old": "La propuesta de abril (Drive), difuminada; el posicionamiento de mayo descartado; la estrategia diseñada para Luis Villanueva (con permiso, como prueba de método).",
+  "new": "La propuesta de abril (Drive), difuminada; los ciento ochenta reels de un podcast en un mes.",
+  "porque": "La ficha describía la locución anterior (mayo y Luis ya no salen)"
+ },
+ {
+  "ambito": "R06",
+  "old": "El rótulo (vender reels al peso)",
+  "new": "El rótulo (si el volumen es buena estrategia)",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "La deja boca abajo sobre la mesa en «no salió un cliente».",
+  "new": "La deja boca abajo sobre la mesa en «de un podcast».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "En «lo tiré yo mismo» aparta algo con la mano libre, un gesto corto. Mira a cámara fijo en «si has pagado por contenido al peso».",
+  "new": "Mira a cámara fijo en «el volumen no tiene por qué ser».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "Rótulo al decir el nombre de mayo, tachado en el mismo rótulo: «máquina diaria de captación automática» con una línea encima. En «fue descartar un camino», ningún rótulo.",
+  "new": "Sin rótulo: la voz sola.",
+  "porque": "auditoría 20 oct, 4.3: el rótulo de la «máquina diaria» lo quitó Miguel"
+ },
+ {
+  "ambito": "R06",
+  "old": "Acerca el móvil a la cara (plano cerrado) en «lo que llegó fue al revés». Marca cuatro con la mano libre, despacio, en «una pieza, un trabajo, un público y un sitio».",
+  "new": "Acerca el móvil a la cara (plano cerrado) en «La principal ventaja».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "Rótulos con la voz, en texto simple: «un trabajo» / «un público» / «un sitio al que manda». Al nombrar a Luis, inserto breve de la portada de su plan de octubre, difuminada salvo el título (permiso: sí). Ninguna cifra: es prueba de método, no de resultado.",
+  "new": "Rótulo con la voz, en texto simple: «Qué ideas conectan más con tu cliente ideal». Ninguna cifra.",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice; la voz ya no nombra a Luis"
+ },
+ {
+  "ambito": "R06",
+  "old": "la vuelve a dejar antes de «el volumen no es el valor»",
+  "new": "la vuelve a dejar antes de «nadie te contrata porque publiques mucho»",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "Rótulo a dos líneas en la pausa después de «el volumen no es el valor»: «El volumen / no es el valor».",
+  "new": "Rótulo a dos líneas en la pausa después de «porque publiques mucho»: «Nadie te contrata / porque publiques mucho».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R06",
+  "old": "En abril edité ciento ochenta reels en un mes de un podcast, y no salió un cliente. Hoy cada pieza lleva un trabajo, un público y un sitio al que manda: así diseñé la estrategia de Luis Villanueva, de Webpositer. Si tus clientes no te compran sin hablar contigo antes, esto va contigo.",
+  "new": "En abril edité ciento ochenta reels en un mes de un podcast. Llegué a la conclusión de que el volumen no tiene por qué ser la mejor estrategia de contenido.",
+  "porque": "auditoría 20 oct, 4.3: el pie conservaba «y no salió un cliente», que quitó Miguel, y describía la locución anterior"
+ },
+ {
+  "ambito": "R06",
+  "old": "¿Alguna vez te han ofrecido contenido al peso? Cuéntame qué te prometían.",
+  "new": "Si tus clientes no te compran sin una llamada de ventas, y muchos llegan con dudas sobre tu servicio, no necesitas una estrategia de contenido basada en el volumen.",
+  "porque": "auditoría 20 oct, 4.1: la pieza no pide; el pie termina en la tesis, sin pregunta de interacción (con la tesis de su voz, fase 4)"
+ },
+ {
+  "ambito": "N04",
+  "old": "Repetir los videos virales",
+  "new": "Repetir los vídeos virales",
+  "porque": "errata que se lee en pantalla en el escrito («videos»)"
+ },
+ {
+  "ambito": "N04",
+  "old": "En «no quién» sube un instante",
+  "new": "En «no a qué público atrajo» sube un instante",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "N04",
+  "old": "Rótulo en «no quién»: «Cuánta gente / no quién».",
+  "new": "Rótulo en «no a qué público atrajo»: «Cuánta gente te vio / no a qué público atrajo».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "N04",
+  "old": "«El que más ventas da / no es el que más se ve»",
+  "new": "«El contenido que más ventas da / no es el que más visitas consigue»",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "N04",
+  "old": "Fase 3: si quitas la pieza por sus números, quitas justo la que te trae negocio",
+  "new": "Fase 3: si haces contenido viral, la mayoría de los que te ven nunca podrán comprarte",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "N04",
+  "old": "Comenta DIAGNÓSTICO y te mando cómo pedirlo: miramos a quién le hablan tus últimas piezas, y te llevas una página con lo que falla y lo que miraría primero.",
+  "new": "Si quieres que personalmente analice a quién le hablan tus últimas piezas, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "auditoría 20 oct, 4.1: el pie no seguía la fórmula de DIAGNÓSTICO y no casaba con la voz"
+ },
+ {
+  "ambito": "R11",
+  "old": "«Alex Hormozi empezó hablándole solo a gimnasios.»",
+  "new": "«Alex Hormozi empezó su marca personal hablando solo de gimnasios como modelo de negocio.»",
+  "porque": "El hablado del gancho, igual que la fase 1 de la locución"
+ },
+ {
+  "ambito": "R11",
+  "old": "la fase 6 termina en la tesis («primero cerrado, luego abrir»)",
+  "new": "la fase 6 termina en la tesis («Primero habla a un grupo de personas cerrado y poco a poco vas abriendo mercado»)",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R11",
+  "old": "«primero cerrado, luego abrir» (léxico 7.6), dicho en el remate;",
+  "new": "«primero cerrado, luego abrir» (léxico 7.6), dicho en el remate con otras palabras;",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R11",
+  "old": "Fase 4: lo que pierde hablándole a todos es ser el nombre que dicen cuando alguien pregunta",
+  "new": "Fase 5: copiar lo viral de su competencia le hace sonar como ella",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R11",
+  "old": "Rótulo: «anicharse = hacerse pequeño».",
+  "new": "Rótulo: «Parece que cierras puertas».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R11",
+  "old": "lo mantiene hasta «el nombre que dicen».",
+  "new": "lo mantiene hasta el final de la fase.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R11",
+  "old": "Rótulo: «una cosa, tu sector». En «el nombre que dicen», rótulo: «el nombre que dicen».",
+  "new": "Rótulo: «Una cosa por la que te conozca tu sector».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R11",
+  "old": "En «primero cerrado, luego abrir», rótulo: «Primero cerrado, luego abrir». En «una serie», rótulo: «Primero cerrado · 1».",
+  "new": "En «Primero habla a un grupo de personas cerrado», rótulo: «Primero, un grupo cerrado». Al terminar la frase, rótulo pequeño: «Primero cerrado · 1».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R11",
+  "old": " Primero cerrado, luego abrir. Fechas:",
+  "new": " Fechas:",
+  "porque": "La tesis pasa al final del pie, con las palabras de la voz"
+ },
+ {
+  "ambito": "R11",
+  "old": "¿Quién de tu sector empezó cerrado y luego abrió?",
+  "new": "Primero habla a un grupo de personas cerrado y poco a poco vas abriendo mercado.",
+  "porque": "auditoría 20 oct, 4.1: la pieza no pide; el pie termina en la tesis, sin pregunta de interacción (con la tesis de su voz)"
+ },
+ {
+  "ambito": "R12",
+  "old": "Rótulo en «palabras de clientes»: «dicho por clientes, tal cual».",
+  "new": "Rótulo en «no es por el precio»: «No es por el precio de tu servicio».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R12",
+  "old": "Golpea la palabra con el capuchón en «comparar números».",
+  "new": "Golpea la palabra con el capuchón en «por precio».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R12",
+  "old": "En «tus clientes saben lo que vales» se gira a cámara y deja de escribir.",
+  "new": "Al terminar la frase se gira a cámara y deja de escribir.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R12",
+  "old": "Rótulo: «“no saben que existo”». En «nadie más lo ve», rótulo a dos líneas: «Saben lo que vales. / Nadie más lo ve.»",
+  "new": "Rótulo: «“no saben que existo”». Entra y sale con la voz.",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice, y era una máxima (4.2)"
+ },
+ {
+  "ambito": "R12",
+  "old": "una flecha y «que te crean», y deja el rotulador.",
+  "new": "una flecha y «percepción de valor», y deja el rotulador.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior (lo que se escribe en la pizarra se lee)"
+ },
+ {
+  "ambito": "R12",
+  "old": "Fuera de Instagram, la pieza termina en «el coste de la autoridad invisible».",
+  "new": "Fuera de Instagram, la pieza termina en «lo que está fallando es el marketing».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R12",
+  "old": "fase 3: «te comparan por precio con gente que no ha hecho ni la mitad», el dolor 4 tal cual",
+  "new": "fase 3: «tus clientes te comparan por precio», el dolor 4, con su frase entera en el rótulo",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R12",
+  "old": "Fase 5: se nombra primero lo que tiene (lo que sus clientes ya saben que vale) y justo después lo que se le va cada mes: que nadie más lo vea",
+  "new": "Fases 5 y 6: los que podrían pagarle no saben que existe, y su cliente ideal ve su oferta como cara porque su percepción de valor es menor",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R12",
+  "old": "Fase 2: las tres frases las han dicho clientes de Miguel con esas palabras",
+  "new": "Fases 3 a 5: los rótulos ponen las tres frases que han dicho clientes de Miguel con esas palabras",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "Rótulo de entrada, los primeros segundos: «Cómo decido qué publico cuando vendo a empresas.»",
+  "new": "Rótulo de entrada, los primeros segundos: «Cómo decido qué contenido publicar en servicios B2B.»",
+  "porque": "auditoría 20 oct, 4.3: el rótulo de entrada no casaba con el escrito"
+ },
+ {
+  "ambito": "R13",
+  "old": "(en el escrito: cómo decido yo qué publico vendiendo a empresas, con mi tabla debajo)",
+  "new": "(en el escrito: cómo decido yo qué contenido publicar en servicios B2B, con mi tabla debajo)",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "Señala hacia abajo en «es mi mes». Marca tres con la mano en «tres preguntas».",
+  "new": "Señala hacia abajo en «a 3 meses».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "Rótulo: «3 preguntas por pieza». Se queda",
+  "new": "Rótulo: «Planificación a 3 meses». Se queda",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R13",
+  "old": "Rótulo con la voz: «1 · ¿qué trabajo hace?». En «no entra», el cursor se para en una fila vacía que se borra.",
+  "new": "Rótulos con la voz, uno por objetivo: «1 · Que te descubra tu cliente ideal» / «2 · Que te posicione como autoridad» / «3 · Que confíe en ti» / «4 · Que conozca tu metodología y tu producto».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice: la voz dice cuatro objetivos"
+ },
+ {
+  "ambito": "R13",
+  "old": "En «fuera» hace un gesto corto de apartar con la mano.",
+  "new": "A cámara, sin gesto.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "La columna «Anillo» resaltada. En «lo que solo da visitas», aparece debajo de la tabla una lista tachada: «crecer en Instagram / tendencias / trucos de edición».",
+  "new": "La tabla quieta, con las columnas legibles en naranja.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "Rótulo con la voz: «2 · ¿a quién le habla?». La lista tachada, con la tipografía de la casa, tres líneas.",
+  "new": "Sin rótulo: la voz sola.",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R13",
+  "old": "A cámara, fijo, en «nada que medir».",
+  "new": "A cámara, fijo. Corte seco al terminar.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "Rótulo con la voz: «3 · ¿a dónde manda?». En «noventa días», rótulo: «90 días: piezas, y nada que medir».",
+  "new": "«DIAGNÓSTICO» en grande al decirlo, hasta el corte. La palabra solo va en Instagram: en TikTok, Shorts y Facebook el reel termina en la fase 4.",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice; la fase 5 es ya la llamada"
+ },
+ {
+  "ambito": "R13",
+  "old": "Coste de la inacción. Fase 5: sin las tres columnas, en noventa días hay piezas y nada que medir; el plazo son los noventa días de la casa",
+  "new": "Coste de la inacción. Fase 1: decidir cada semana qué grabar es no tener una estrategia",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "Fase 2: la tabla es la de este mes, de la cuenta que está viendo publicada.",
+  "new": "Fase 3: «Esta es mi planificación de noviembre», con la tabla de este mes, de la cuenta que está viendo publicada.",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "El reparto de noviembre de la propia cuenta; los cuatro pilares de contenido; los anillos; la zona prohibida (ficha 2.2); los noventa días.",
+  "new": "El reparto de noviembre de la propia cuenta; los cuatro objetivos de cada pieza; la planificación a tres meses.",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R13",
+  "old": "En mi mes, cada pieza contesta tres preguntas antes de entrar: qué trabajo hace, a quién le habla y a dónde manda. Lo que solo da visitas se queda fuera.",
+  "new": "Mi planificación de contenido es a tres meses, y cada pieza lleva uno de cuatro objetivos: que te descubra tu cliente ideal, que te posicione como una autoridad, que confíe en ti o que conozca tu metodología y tu producto.",
+  "porque": "auditoría 20 oct, 4.3: el pie contaba tres preguntas y la voz, cuatro objetivos"
+ },
+ {
+  "ambito": "R14",
+  "old": "Dice las dos primeras frases a cámara, pulsa reproducir en «Luis Villanueva»,",
+  "new": "Dice la primera frase a cámara, pulsa reproducir al terminarla,",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "sobre el reel congelado: «El viral que te llena de curiosos.»",
+  "new": "sobre el reel congelado: «No hagas contenido viral (en B2B).»",
+  "porque": "El rótulo de entrada, igual que el escrito"
+ },
+ {
+  "ambito": "R14",
+  "old": "A cámara. En «a ellos les enseña tu siguiente pieza» señala arriba, a la diana. En «dentro de tu sector» dibuja un círculo pequeño en el aire; en «el de fuera», uno grande.",
+  "new": "A cámara. En «dirigido a todo el mundo» dibuja un círculo grande en el aire; en «si vendes B2B», uno pequeño. En «un montón de gente que no te va a comprar» señala arriba, a la diana.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "atenuado hasta «fuera de tu público»; ahí se sustituye por la foto fija de la diana de R02 con el círculo de fuera tachado. En «la trampa viral», rótulo sobre la diana.",
+  "new": "atenuado hasta «Por eso tu contenido atrae curiosos»; ahí se sustituye por la foto fija de la diana de R02 con el círculo de fuera tachado.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "Rótulos con la voz: «el algoritmo aprende con cada pieza» / «dentro de tu sector» / «la trampa viral — Kallaway (@kallawaymarketing)». Uno cada vez.",
+  "new": "Rótulos con la voz: «Por eso tu contenido atrae curiosos» / «Un montón de gente que no te va a comprar». Uno cada vez.",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice (la voz ya no dice «la trampa viral»; el crédito a Kallaway queda en el pie)"
+ },
+ {
+  "ambito": "R14",
+  "old": "Rótulo en «el mismo criterio»: «Lo miro con criterio · 3».",
+  "new": "Al terminar la frase, rótulo pequeño: «Lo miro con criterio · 3».",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "¿Quién te comenta: gente que podría pagarte, o curiosos?",
+  "new": "Si vendes B2B, o un servicio que requiere cualificación para ser vendido, haz contenido de nicho para resolver los problemas de tu cliente ideal.",
+  "porque": "auditoría 20 oct, 4.1: la pieza no pide; el pie termina en la tesis, sin pregunta de interacción (con la tesis de su voz)"
+ },
+ {
+  "ambito": "R14",
+  "old": "Bucle de curiosidad. Gancho: «no es ese vídeo, es el siguiente», y el porqué no se dice hasta la fase 2. El hueco es estrecho: sabe qué es un viral y le falta qué le hace al siguiente",
+  "new": "Patrón roto. Gancho escrito: «No hagas contenido viral (en B2B)», contra lo que casi todos buscan; el porqué no se dice hasta la fase 2",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "Error o peligro (en el escrito: el viral que te llena de curiosos) · molde: escena, en el visual (un reel concreto parado en un punto concreto) · trigger de atención: bucle de curiosidad.",
+  "new": "Error o peligro (en el escrito: no hagas contenido viral si vendes a empresas) · molde: escena, en el visual (un reel concreto parado en un punto concreto) · trigger de atención: patrón roto.",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "Fase 2: el viral fuera de tu público le enseña al algoritmo a quién parecerse; lo que se le va es el público que ya tenía cerca",
+  "new": "Fase 2: si vende B2B, el viral le trae un montón de gente que no le va a comprar",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "la trampa viral con su crédito a Kallaway, dicha en el remate;",
+  "new": "la trampa viral con su crédito a Kallaway, en el pie;",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R14",
+  "old": "hablado: adaptado de la trampa viral de Kallaway (ficha 2.8), acreditada en el remate",
+  "new": "hablado: no lleva (Por decidir); la trampa viral de Kallaway (ficha 2.8) queda acreditada en el pie",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "N17",
+  "old": "«Tu archivo enseña / cómo has llegado a pensar así»",
+  "new": "«Tu archivo también enseña / cómo ha evolucionado tu forma de pensar»",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "N17",
+  "old": "Comenta DIAGNÓSTICO y te mando cómo pedirlo: miramos qué tienes ya hecho que tu comprador no está viendo, y te llevas una página con lo que falla y lo que miraría primero.",
+  "new": "Si quieres que personalmente analice qué tienes ya hecho que tu comprador no está viendo, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "auditoría 20 oct, 4.1: el pie no seguía la fórmula de DIAGNÓSTICO y no casaba con la voz"
+ },
+ {
+  "ambito": "N24",
+  "old": "DIAGNÓSTICO por WhatsApp, mirando si su problema se arregla con contenido",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando si su problema se arregla con contenido",
+  "porque": "Ficha del CTA a su fórmula"
+ },
+ {
+  "ambito": "N21",
+  "old": "DIAGNÓSTICO por WhatsApp, mirando si las piezas que le hicieron enseñan por qué elegirle",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando si las piezas que le hicieron enseñan por qué elegirle",
+  "porque": "Ficha del CTA a su fórmula"
+ },
+ {
+  "ambito": "R18",
+  "old": "Te invitaron",
+  "new": "«Te invitaron",
+  "porque": "Faltaba la comilla de apertura en el hablado",
+  "fila": "Hablado"
+ },
+ {
+  "ambito": "R18",
+  "old": "Familia del rótulo: «cómo» muy concreto ·",
+  "new": "Familia del rótulo: la orden con el filtro dentro («Escucha esto si…») ·",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "escrito: propio, del método del clipper tal como lo hace Miguel (ficha 3.3) y del subtítulo del recurso 2 (8.3: «cómo decido qué minutos… salen»)",
+  "new": "escrito: propio, tu molde de orden con el filtro dentro («Escucha esto si…»)",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "hablado: el dolor 11 tal cual, pasado a tú, con la consecuencia del gancho del recurso 2 (8.3: «un enlace en tu bio»)",
+  "new": "hablado: el dolor 11 pasado a tú y contado como escena (los reels que te etiquetaron)",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "El gancho (cómo se eligen los minutos de un podcast)",
+  "new": "El gancho (si has ido a algún podcast)",
+  "porque": "La ficha describía el escrito anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "el modelo del clipper, acreditado a Hormozi en el rótulo y en el pie; los tres minutos que buscar, que son el recurso 2 a medias.",
+  "new": "el modelo del clipper (una persona que decide qué reels salen), acreditado a Hormozi en la voz, en el rótulo y en el pie.",
+  "porque": "La ficha describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "Fase 1: «fuiste a un podcast, salió bien, y ya está», el dolor 11 tal cual, pasado a tú, con su consecuencia («un enlace en tu bio»)",
+  "new": "Fase 1: «Te invitaron a un podcast, fuiste, subiste los reels que te etiquetaron a Instagram, y ya está», el dolor 11 pasado a tú",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "Coste hundido. Fase 3: la hora que ya pagó con su tiempo está muerta en un enlace; como espejo, sin culpar",
+  "new": "Coste hundido. Fase 2: «Eso es lo que la mayoría hace», y lo que se pierde: de una sola respuesta salen varias ideas de contenido; como espejo, sin culpar",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "Fase 2: notas reales de una grabación reciente, en pantalla, y el editor que monta sobre ellas.",
+  "new": "Fase 3: «apunto minuto y segundo», con las notas reales de una grabación reciente en pantalla, y el editor que monta sobre ellas.",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "levanta la vista a cámara en «un podcast no te trae nada».",
+  "new": "levanta la vista a cámara con la primera palabra.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "Rótulo de entrada durante la primera frase: «Cómo elijo los minutos que salen de un podcast». Rótulo en «alguien con criterio»: «alguien con criterio». Sin música.",
+  "new": "Rótulo de entrada durante la primera frase: «Escucha esto si has ido a algún podcast.» Sin música.",
+  "porque": "auditoría 20 oct, 4.3: el rótulo de entrada no casaba con el escrito, y «alguien con criterio» no lo dice la voz"
+ },
+ {
+  "ambito": "R18",
+  "old": "Señala hacia abajo en «son mis notas». A cámara en «no elige nada».",
+  "new": "A cámara. En «Hormozi tiene a una persona que decide» señala hacia abajo, a las notas.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "Rótulo al nombrarlo: «Píldoras del Conocimiento · con permiso». Rótulo con crédito en «no elige nada»: «el clipper — modelo de Alex Hormozi».",
+  "new": "Rótulo con crédito en «Hormozi tiene a una persona»: «Una persona decide qué reels salen — modelo de Alex Hormozi».",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice; Píldoras se nombra en la fase 3"
+ },
+ {
+  "ambito": "R18",
+  "old": "Marca tres con la mano, despacio. En «muerta en un enlace» baja la mano.",
+  "new": "A cámara. En «apunto minuto y segundo» señala hacia abajo, a las notas; en la llamada, a la lente.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "R18",
+  "old": "Se sustituyen las notas por una hoja en blanco con tres líneas numeradas que se escriben con la voz: «1 · lo que te preguntan antes de contratarte» / «2 · lo que tu sector no dice» / «3 · un caso».",
+  "new": "Las notas otra vez, quietas; en «apunto minuto y segundo» se resalta en naranja la columna de tiempos.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior: la voz no dice las tres líneas"
+ },
+ {
+  "ambito": "R18",
+  "old": "Rótulo en «pide la grabación entera»: «pide la grabación entera, sin cortar». Las tres líneas entran con la voz. En «muerta en un enlace», sin rótulo. En la llamada,",
+  "new": "Rótulo al nombrarlo: «Píldoras del Conocimiento · con permiso». Rótulo en «el editor monta sobre esta lista»: «El editor monta sobre esta lista». En la llamada,",
+  "porque": "auditoría 20 oct, 4.3: rótulo con palabras que la voz no dice"
+ },
+ {
+  "ambito": "R18",
+  "old": "Si fuiste a un podcast, pide la grabación entera, sin cortar, y busca tres minutos: lo que te preguntan antes de contratarte, lo que tu sector no dice y un caso.",
+  "new": "Cuando vas a un podcast, tienes una oportunidad de sacar ideas de contenido dirigidas a tu cliente ideal: una sola respuesta te da varias.",
+  "porque": "auditoría 20 oct, 4.3: el pie contaba las tres líneas y «pide la grabación entera», que la voz no dice; termina en la tesis de su voz"
+ },
+ {
+  "ambito": "S01",
+  "old": "La palabra «reflejo» en negrita. ",
+  "new": "",
+  "porque": "auditoría 20 oct, 4.3: la palabra «reflejo» no está en el texto"
+ },
+ {
+  "ambito": "S01",
+  "old": "Responde DIAGNÓSTICO si quieres que revise personalmente la estrategia de contenido.",
+  "new": "Responde DIAGNÓSTICO y analizo si tu contenido enseña la autoridad que tus clientes ya te reconocen.",
+  "porque": "Llamada de historia a su fórmula, con lo que mira esta pieza (su ficha)"
+ },
+ {
+  "ambito": "S01",
+  "old": "«está en el trabajo que hace cada pieza»",
+  "new": "«está en la estrategia de contenido que estás ejecutando»",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S03",
+  "old": "las horas que tu y tu equipo",
+  "new": "las horas que tú y tu equipo",
+  "porque": "errata que se lee en pantalla («tu»)"
+ },
+ {
+  "ambito": "S03",
+  "old": "El texto en dos bloques: la instrucción arriba, la frase de la pieza abajo, en cuerpo mayor.",
+  "new": "El texto en dos bloques: «Haz esto hoy.» arriba, en cuerpo mayor; la instrucción abajo.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior: la frase de la pieza no está en el texto"
+ },
+ {
+  "ambito": "S03",
+  "old": "la pregunta es ¿has conseguido resultados?.",
+  "new": "la pregunta es: ¿has conseguido resultados? Responde DIAGNÓSTICO y analizo cuánto te cuesta hoy tu contenido cada mes.»",
+  "porque": "auditoría 20 oct, 4.3: la pantalla 3 es el CTA y su nota pide DIAGNÓSTICO, y el texto no pedía; erratas «?.» y comilla"
+ },
+ {
+  "ambito": "S03",
+  "old": "Si tienes una marca personal B2B, En 30 minutos analizo que partes de tu contenido pueden mejorarse. Responde DIAGNÓSTICO a esta historia y lo vemos juntos.",
+  "new": "Si tienes una marca personal B2B, responde DIAGNÓSTICO a esta historia y en 30 minutos analizo qué partes de tu contenido pueden mejorarse.",
+  "porque": "Llamada a su fórmula («Responde DIAGNÓSTICO» y lo que miro); erratas «En» y «que»"
+ },
+ {
+  "ambito": "S03",
+  "old": "Trabajo con dos empresas a la vez.»",
+  "new": "«Trabajo con dos empresas a la vez.»",
+  "porque": "Faltaba la comilla de apertura",
+  "fila": "Texto en pantalla"
+ },
+ {
+  "ambito": "S04",
+  "old": "El texto arriba, en dos frases;",
+  "new": "El texto arriba, en una frase;",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "S04",
+  "old": "seguro que es bueno pero probablemente vaya dirigido a quién quiera aprender a hacerlo, en vez de a tu público a quién quieres ayudar.",
+  "new": "seguro que es bueno, pero probablemente vaya dirigido a quien quiera aprender a hacerlo, en vez de a tu público, a quien quieres ayudar.",
+  "porque": "errata que se lee en pantalla («quién» sin pregunta, comas)"
+ },
+ {
+  "ambito": "S04",
+  "old": "Tres bloques: la regla, el caso (con «Caleb Ralston» y «Grace Andrews» en negrita, es el crédito) y la medida. «mide cada pieza por lo que tenía que hacer» en cuerpo mayor.",
+  "new": "Un solo bloque, centrado. «en vez de a tu público» en cuerpo mayor.",
+  "porque": "auditoría 20 oct, 4.3: Caleb, Grace Andrews y la medida no están en el texto"
+ },
+ {
+  "ambito": "S04",
+  "old": "Responde DIAGNÓSTICO y analizo si puedes mejorar el enfoque con tu contenido.",
+  "new": "Responde DIAGNÓSTICO y analizo si tus últimas piezas le hablan a tu cliente o a quien quiere aprender a hacerlo.»",
+  "porque": "Llamada de historia a su fórmula, con lo que mira esta pieza (su ficha); faltaba la comilla"
+ },
+ {
+  "ambito": "S04",
+  "old": "(pantalla 2: «los que más ves publicando consejos viven de eso», el colectivo, nunca una cuenta)",
+  "new": "(pantalla 2: «una de las creencias erróneas más expandidas del sector», el colectivo, nunca una cuenta)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S04",
+  "old": "(pantalla 3: la creencia concedida en la 2 y rota con el caso de Grace Andrews vía Caleb)",
+  "new": "(pantalla 3: el contenido puede ser bueno y aun así ir dirigido a quien quiere aprender a hacerlo, y no a tu público)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S07",
+  "old": "Autoridad · MOFU · cierre blando",
+  "new": "Autoridad · MOFU · sin cierre",
+  "porque": "Marca de estado: la secuencia no pide (Miguel quitó la 2 y la 4)"
+ },
+ {
+  "ambito": "S07",
+  "old": "Blando.",
+  "new": "Sin cierre: termina en la pantalla 3, sin llamada.",
+  "porque": "Marca de estado: la secuencia no pide",
+  "fila": "Tipo de cierre"
+ },
+ {
+  "ambito": "S07",
+  "old": "4.",
+  "new": "2 (la 1 y la 3; Miguel quitó la 2 y la 4).",
+  "porque": "auditoría 20 oct, 4.3: la ficha decía 4 y tiene 2",
+  "fila": "Número de pantallas"
+ },
+ {
+  "ambito": "S07",
+  "old": "Identificación: dolor identitario (pantalla 2: «si has necesitado un “y también”, cuenta como no»; pantalla 3: «tu sector hablando, no tú»)",
+  "new": "Identificación: dolor identitario (pantalla 3: «son las creencias de tu sector, no las tuyas»)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S07",
+  "old": "Credibilidad: contraste creencia/realidad (pantalla 3: «me falta constancia» frente a «te falta lo que defiendes»)",
+  "new": "Credibilidad: contraste creencia/realidad (pantalla 3: las creencias de tu sector frente a lo que debes defender tú)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S07",
+  "old": "«Una frase.» en cuerpo mayor.",
+  "new": "«en una frase» en cuerpo mayor.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior"
+ },
+ {
+  "ambito": "S07",
+  "old": "Dos bloques, uno por respuesta, separados por una línea. «lo que defiendes» y «tu sector hablando, no tú» en negrita.",
+  "new": "Tres frases, en tres bloques. «lo que debes defender» y «las creencias de tu sector, no las tuyas» en negrita.",
+  "porque": "auditoría 20 oct, 4.3: la nota pedía en negrita palabras que no están"
+ },
+ {
+  "ambito": "S09",
+  "old": "Demostración · BOFU · cierre duro",
+  "new": "Demostración · BOFU · sin cierre",
+  "porque": "auditoría 20 oct, 4.3: dice «Duro» y no pide"
+ },
+ {
+  "ambito": "S09",
+  "old": "Duro.",
+  "new": "Sin cierre: termina en la encuesta de la pantalla 2.",
+  "porque": "auditoría 20 oct, 4.3: dice «Duro» y no pide",
+  "fila": "Tipo de cierre"
+ },
+ {
+  "ambito": "S09",
+  "old": "4.",
+  "new": "2 (Miguel quitó la 3 y la 4).",
+  "porque": "La ficha decía 4 pantallas y tiene 2",
+  "fila": "Número de pantallas"
+ },
+ {
+  "ambito": "S09",
+  "old": "publique los reels",
+  "new": "publiqué los reels",
+  "porque": "errata que se lee en pantalla («publique»)"
+ },
+ {
+  "ambito": "S09",
+  "old": "la frase del equipo de ventas abajo, en cuerpo mayor",
+  "new": "«tienes material para meses de contenido» abajo, en cuerpo mayor",
+  "porque": "auditoría 20 oct, 4.3: la frase del equipo de ventas no existe"
+ },
+ {
+  "ambito": "S09",
+  "old": "Identificación: riesgo profesional (pantalla 2: el testigo es su equipo de ventas, que sin ese permiso no puede mandar ni un trozo antes de una reunión)",
+  "new": "Identificación: dolor identitario (pantalla 2: «Si has salido en más de un podcast o tienes un podcast propio»)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "NS5",
+  "old": "La semana cierra en duro el viernes 20, con S09.",
+  "new": "El viernes 20, S09 termina en su encuesta, sin pedir.",
+  "porque": "Marca de estado: S09 ya no es de cierre duro"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "va la secuencia de cierre duro (S03, NS2, S09, S12)",
+  "new": "va la secuencia del viernes (S03, NS2, S09, S12)",
+  "porque": "Marca de estado: S09 y S12 ya no piden"
+ },
+ {
+  "ambito": "S10",
+  "old": "«vas a tener respuesta» en cuerpo mayor.",
+  "new": "«esta es la pregunta» en cuerpo mayor.",
+  "porque": "auditoría 20 oct, 4.3: «vas a tener respuesta» no está en el texto"
+ },
+ {
+  "ambito": "S10",
+  "old": "«¿qué quieres que pase?",
+  "new": "«¿Qué quieres que pase?",
+  "porque": "errata que se lee en pantalla (mayúscula)"
+ },
+ {
+  "ambito": "S10",
+  "old": "con las opciones «Clientes» / «Que me inviten o me fichen».",
+  "new": "con las opciones «Clientes» / «Invitaciones» / «Fichajes».",
+  "porque": "auditoría 20 oct: la encuesta tenía 2 opciones para las 3 respuestas del texto"
+ },
+ {
+  "ambito": "S10",
+  "old": "El crédito a Caleb en la primera línea, en cuerpo pequeño; la pregunta en cuerpo mayor; las tres respuestas en lista; la frase del socio abajo, separada.",
+  "new": "La pregunta en cuerpo mayor; las tres respuestas en lista.",
+  "porque": "auditoría 20 oct, 4.3: el crédito y la frase del socio no están en el texto"
+ },
+ {
+  "ambito": "S10",
+  "old": "Tres bloques cortos, uno por respuesta, y la última frase separada abajo. «yo la contesté en octubre» en negrita.",
+  "new": "«Lo que cambia con cada una:» arriba y tres bloques cortos debajo, uno por respuesta.",
+  "porque": "auditoría 20 oct, 4.3: «yo la contesté en octubre» no está en el texto"
+ },
+ {
+  "ambito": "S10",
+  "old": "Atención: bucle de curiosidad (pantalla 1: la respuesta que vas a poder darle a tu socio, sin decir todavía cuál es)",
+  "new": "Atención: bucle de curiosidad (pantalla 1: la pregunta que todo el mundo se debería hacer, sin decir todavía cuál es)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S10",
+  "old": "Identificación: riesgo profesional (pantallas 1 y 2: el socio que pregunta para qué publicas y la respuesta que no es respuesta)",
+  "new": "Identificación: dolor identitario (pantalla 1: «si ya la tienes creada puede que no la tengas contestada»)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S10",
+  "old": "Credibilidad: autoridad en activo (pantalla 3: la contesté en octubre y de ahí sale lo que ves esta semana)",
+  "new": "Credibilidad: autoridad prestada (pantalla 1: la pregunta la cuenta el estratega detrás de las marcas de Hormozi y Gary Vee; su nombre, Por decidir)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "S11",
+  "old": "inicio del video",
+  "new": "inicio del vídeo",
+  "porque": "errata que se lee en pantalla («video»)"
+ },
+ {
+  "ambito": "S11",
+  "old": "Este vídeo lo hice yo, si fuiste",
+  "new": "Este vídeo lo hice yo. Si fuiste",
+  "porque": "errata que se lee en pantalla (puntuación)"
+ },
+ {
+  "ambito": "S11",
+  "old": "«tu minuto cincuenta sigue dentro» en negrita.",
+  "new": "«estás desaprovechando material» en negrita.",
+  "porque": "auditoría 20 oct, 4.3: «tu minuto cincuenta sigue dentro» no está en el texto"
+ },
+ {
+  "ambito": "S11",
+  "old": "grabaciones pasada,",
+  "new": "grabaciones pasadas,",
+  "porque": "errata que se lee en pantalla («grabaciones pasada»)"
+ },
+ {
+  "ambito": "S12",
+  "old": "Autoridad · BOFU · cierre duro",
+  "new": "Autoridad · BOFU · sin cierre",
+  "porque": "auditoría 20 oct, 4.3: dice «Duro» y no pide"
+ },
+ {
+  "ambito": "S12",
+  "old": "Duro. Es la última de la semana",
+  "new": "Sin cierre: termina en la encuesta de la pantalla 2, como decidió Miguel. Es la última de la semana",
+  "porque": "auditoría 20 oct, 4.3: dice «Duro» y no pide"
+ },
+ {
+  "ambito": "S12",
+  "old": "4.",
+  "new": "2 (Miguel quitó la 3 y la 4).",
+  "porque": "La ficha decía 4 pantallas y tiene 2",
+  "fila": "Número de pantallas"
+ },
+ {
+  "ambito": "S12",
+  "old": "plantea esto ¿de quién se fiarías más de una persona o de una empresa?",
+  "new": "plantea esto: ¿de quién te fiarías más, de una persona o de una empresa?",
+  "porque": "errata que se lee en pantalla (puntuación y «se fiarías»)"
+ },
+ {
+  "ambito": "S12",
+  "old": "Foto de la pizarra con «precio = lo único que puede defender» escrito.",
+  "new": "Foto de la pizarra con «¿persona o empresa?» escrito.",
+  "porque": "auditoría 20 oct, 4.3: la nota describía la locución anterior (la pizarra se lee)"
+ },
+ {
+  "ambito": "S12",
+  "old": "«él no sabe que no la ha hecho» en negrita.",
+  "new": "«no te conocen» en negrita.",
+  "porque": "auditoría 20 oct, 4.3: «él no sabe que no la ha hecho» no está en el texto"
+ },
+ {
+  "ambito": "S12",
+  "old": "Identificación: riesgo profesional (pantalla 2: el que decide, delante de su socio, solo puede defender el precio)",
+  "new": "Identificación: dolor identitario (pantalla 2: te comparan por precio con tu competencia, que no ha hecho ni la mitad, el dolor 4)",
+  "porque": "auditoría 20 oct: el trigger describía la locución anterior"
+ },
+ {
+  "ambito": "NS1",
+  "old": "Responder DIAGNÓSTICO → mensaje privado automático con el enlace a tu WhatsApp → contestas tú → el diagnóstico, que termina en una página con tres hallazgos (8.5). Lo que mira el de esta secuencia: qué preguntas de sus llamadas de ventas no contesta su contenido.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué preguntas de sus llamadas de ventas no contesta su contenido (8.5).",
+  "porque": "Ficha del CTA a su fórmula"
+ },
+ {
+  "ambito": "NS2",
+  "old": "Responde DIAGNÓSTICO: le haces a su bio las mismas tres preguntas.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando su bio con las mismas tres preguntas.",
+  "porque": "Ficha del CTA a su fórmula"
+ },
+ {
+  "ambito": "NS5",
+  "old": "Responde DIAGNÓSTICO → el mensaje automático con el enlace a tu WhatsApp → contestas tú → la página con tres hallazgos (8.5).",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué le trae cada pieza (8.5).",
+  "porque": "Ficha del CTA a su fórmula"
+ }
+]
