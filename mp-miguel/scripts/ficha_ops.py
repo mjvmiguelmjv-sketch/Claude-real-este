@@ -22,7 +22,7 @@ sys.path.insert(0, __file__.rsplit('/', 1)[0])
 from docxedit import apply_edits, body_els, ptext, style, W_P, qn
 from piezas import set_p, fill_cell
 
-W_TR, W_TC, W_TBL = qn('w:tr'), qn('w:tc'), qn('w:tbl')
+W_TR, W_TC, W_TBL, W_HL = qn('w:tr'), qn('w:tc'), qn('w:tbl'), qn('w:hyperlink')
 
 
 class Plantillas:
@@ -37,7 +37,12 @@ class Plantillas:
                 trs = e.findall(W_TR)
                 n = len(trs[0].findall(W_TC))
                 if len(trs) >= 2 and n not in self.tablas:
-                    self.tablas[n] = copy.deepcopy(e)
+                    t = copy.deepcopy(e)
+                    # un enlace de la celda de plantilla no lo borra set_p y se quedaba
+                    # delante del texto nuevo («6sense, nov 2025…»): fuera los enlaces
+                    for h in list(t.iter(W_HL)):
+                        h.getparent().remove(h)
+                    self.tablas[n] = t
 
     def bloque(self, tipo, valor):
         if tipo == 'tabla':
