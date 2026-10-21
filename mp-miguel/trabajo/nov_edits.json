@@ -1,0 +1,518 @@
+[
+ {
+  "ambito": "CABECERA",
+  "old": "Estado de auditoría: ronda r2 del 7 oct 2026 (criterios de los reels de Caleb Ralston y crítica de los 35 miniproblemas); auditoria-marca y gancho en análisis y pasada de los 35 miniproblemas, el 7 oct 2026",
+  "new": "Estado de auditoría: ronda r6 del 20 oct 2026: crítica del 19 oct aplicada (puerta delegada por Miguel; lo suyo, en Pendientes como Por decidir). Antes, ronda r2 del 7 oct 2026 (criterios de los reels de Caleb Ralston y crítica de los 35 miniproblemas).",
+  "porque": "Estado de la ronda r6, con el texto que fija el encargo"
+ },
+ {
+  "ambito": "CABECERA",
+  "old": "Mes 1 · noviembre 2026. Veinte reels (R01–R20), doce secuencias de historias (S01–S12), la ranura diaria de prueba social y los pendientes. Recursos vivos del mes: PILARES (recurso 4: hoja y vídeo V1, palabra VALOR; V1 sale el jueves 5 de noviembre) y, desde el jueves 19 de noviembre, RAÍZ (recurso 6: hoja y vídeo V2, palabra IMPROVISO). Destino final: DIAGNÓSTICO (recurso 1: formulario de tres preguntas y llamada de treinta minutos, palabra FRÍAS). Las piezas de la semana 1 que mandan al vídeo dicen «el jueves sale el vídeo» porque V1 todavía no existe el lunes. Las seis palabras clave están POR DECIDIR por Miguel (leyenda del reparto); hasta que las confirme, las piezas con palabra no se publican. R01 y S03 son las dos piezas de la plantilla, copiadas tal cual.",
+  "new": "Mes 1 · noviembre 2026. Quince reels (R01, N01, N23, R04, R06, N04, N25, R11, R12, R13, R14, N17, N24, R18 y N21), once secuencias de historias (S01, S03, S04, NS1, NS2, S07, NS5, S09, S10, S11 y S12), la ranura diaria de prueba social y los pendientes. Por día: lun 2 R01 · mar 3 N01 (en el sitio de R02) y S01 · mié 4 N23 (en el de R03) · jue 5 R04 · vie 6 S03 · lun 9 R06 · mar 10 N04 y S04 · jue 12 N25 y NS1 · vie 13 NS2 (en el de S06) · lun 16 R11 · mar 17 R12 y S07 · mié 18 R13 · jue 19 R14 y NS5 · vie 20 S09 · lun 23 N17 · mar 24 N24 y S10 · mié 25 R18 · jue 26 N21 y S11 · vie 27 S12. Quitadas: R02, R03, R05, R08, S02, S05 y S06. Un solo destino: DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos). La palabra y la llamada van solo en Instagram. Ninguna pieza que pida se publica hasta que el mensaje automático de DIAGNÓSTICO esté montado y probado.",
+  "porque": "Calendario nuevo; destino único DIAGNÓSTICO; fuera VALOR/IMPROVISO/FRÍAS y el anuncio de V1 (crítica 19 oct, partes 6, 7 y 8)"
+ },
+ {
+  "ambito": "R01",
+  "old": "DIAGNÓSTICO (recurso 1: formulario de tres preguntas y llamada de treinta minutos), palabra FRÍAS. La llamada va después del remate, añadida, porque el avance no la trae (Miguel pidió \"CTA al recurso del contenido de nicho\": ese recurso no existe; va al diagnóstico, PENDIENTE de su visto bueno).",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando a qué público está atrayendo con su contenido. La llamada va después del remate, añadida, porque el avance no la trae.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "R01",
+  "old": "En el remate, la llamada añadida fuera de la estructura: una sola palabra, FRÍAS, y lo que se lleva (a quién le está hablando su perfil, en treinta minutos)",
+  "new": "En el remate, la llamada añadida fuera de la estructura: una sola palabra, DIAGNÓSTICO, y lo que miro (a qué público está atrayendo su contenido)",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "R01",
+  "old": "Rótulo en «comenta FRÍAS»: «FRÍAS», grande, hasta el corte.",
+  "new": "Rótulo en «comenta diagnóstico»: «DIAGNÓSTICO», grande, hasta el corte.",
+  "porque": "La nota pedía FRÍAS (crítica 19 oct, R01)"
+ },
+ {
+  "ambito": "R01",
+  "old": "Comenta Diagnóstico y en treinta minutos te digo a quién le está hablando tu perfil y qué cambiaría yo primero.",
+  "new": "Si quieres que personalmente analice a qué público estás atrayendo con tu contenido, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); la X, la de su locución"
+ },
+ {
+  "ambito": "R04",
+  "old": "Hacerte viral ≠ traer clientes.",
+  "new": "No es que el contenido no funcione en B2B.",
+  "porque": "Tu filtro, pieza a pieza: «Sí, el reel de la semana» (crítica 19 oct, parte 4)"
+ },
+ {
+  "ambito": "R04",
+  "old": "A la contra (en el escrito: hacerte viral no basta)",
+  "new": "A la contra (en el escrito: no es que el contenido no funcione en B2B)",
+  "porque": "Casa la ficha con el gancho escrito nuevo (parte 4)"
+ },
+ {
+  "ambito": "R04",
+  "old": "escrito: propio, de la corriente de la marca (ficha 4.1: la viralidad sola no sirve)",
+  "new": "escrito: propio, de la web de Miguel (crítica 19 oct, parte 4)",
+  "porque": "Casa la ficha con el gancho escrito nuevo (parte 4)"
+ },
+ {
+  "ambito": "R04",
+  "old": "Seguir la cuenta. Sin palabra clave.",
+  "new": "Ninguno: la pieza termina en su tesis (fase 3), sin pedir. Sin palabra clave.",
+  "porque": "Fuera «seguir»; si no pide, termina en la tesis (MEMORIA 3)"
+ },
+ {
+  "ambito": "R04",
+  "old": "Siguiente paso único. Fase 3: seguir, y una sola razón",
+  "new": "No lleva: la fase 3 termina en la tesis, sin pedir",
+  "porque": "Fuera «seguir» (MEMORIA 3)"
+ },
+ {
+  "ambito": "R06",
+  "old": "(9.5: abril, 180 reels al mes por 1.200 €; mayo, el posicionamiento descartado)",
+  "new": "(9.5: abril, el volumen; mayo, el posicionamiento descartado)",
+  "porque": "Cifra retirada «180 reels al mes por 1.200 €» (crítica 19 oct, R06 y punto 11)"
+ },
+ {
+  "ambito": "R06",
+  "old": "difuminada salvo el «180» y el precio;",
+  "new": "difuminada salvo el «180»;",
+  "porque": "El visual contradecía su versión: fuera el precio (crítica 19 oct, R06)"
+ },
+ {
+  "ambito": "R06",
+  "old": "La propuesta de abril difuminada en montaje salvo «180» y «1.200 €».",
+  "new": "La propuesta de abril difuminada en montaje salvo «180».",
+  "porque": "El visual contradecía su versión: fuera «1.200 €» (crítica 19 oct, R06)"
+ },
+ {
+  "ambito": "R06",
+  "old": "En abril vendía 180 reels al mes por 1.200 €, y no salió un cliente.",
+  "new": "En abril edité ciento ochenta reels en un mes de un podcast, y no salió un cliente.",
+  "porque": "El pie contradecía su locución de la fase 1 (crítica 19 oct, R06)"
+ },
+ {
+  "ambito": "R11",
+  "old": "y no en copiar lo que dice la competencia en redes sociales.",
+  "new": "y no en copiar lo viral de tu competencia, que te hace sonar como ella.",
+  "porque": "Tu filtro, pieza a pieza: R11, cuerpo (fase 5), «Sí» (crítica 19 oct, parte 4)"
+ },
+ {
+  "ambito": "R11",
+  "old": "Seguir la cuenta (la serie «Primero cerrado» sigue en diciembre). Sin palabra clave.",
+  "new": "Ninguno: la fase 6 termina en la tesis («primero cerrado, luego abrir»), sin pedir. Sin palabra clave.",
+  "porque": "Fuera «seguir»; si no pide, termina en la tesis (MEMORIA 3)"
+ },
+ {
+  "ambito": "R11",
+  "old": "Siguiente paso único. Fase 6: seguir, con la serie como razón",
+  "new": "No lleva: la fase 6 termina en la tesis, sin pedir",
+  "porque": "Fuera «seguir» (MEMORIA 3)"
+ },
+ {
+  "ambito": "R12",
+  "old": "DEVOLVER AL REPARTO: la hoja del destino PILARES no contiene lo que la pieza enseña (las tres facturas), y el criterio 8 pide que lo que se lleva sea lo que el vídeo acaba de enseñar; va escrita con el único puente honesto, que el primer pilar baja la factura del precio.",
+  "new": "",
+  "porque": "El aviso era por el destino PILARES, que sale: con DIAGNÓSTICO la llamada mira lo que la pieza enseña"
+ },
+ {
+  "ambito": "R12",
+  "old": "PILARES: comentar VALOR y recibir la hoja de los cuatro pilares (y V1). Solo en Instagram lleva la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando cuál de las tres facturas está pagando. Solo en Instagram lleva la palabra.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "R12",
+  "old": "Siguiente paso único. Fase 6: una palabra y qué factura baja con el primer trabajo",
+  "new": "Siguiente paso único. Fase 6: una palabra, DIAGNÓSTICO, y que lo analizo yo personalmente",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "R12",
+  "old": "«Sientes que tus clientes cuando compran tu servicio están agradecidos.»",
+  "new": "«Sientes que los que podrían pagarte no saben que existes.»",
+  "porque": "La tercera factura no se leía como coste (crítica 19 oct, R12; plan de mejora 15 oct: «que no saben que existes»)"
+ },
+ {
+  "ambito": "R12",
+  "old": "Promote (opcional): no se usa. La hoja del CTA ya es la mención del criterio de la casa; con la tercera factura dicha, meter el servicio antes de la palabra sonaría a venta.",
+  "new": "Promote (opcional): no se usa. Con la tercera factura dicha, meter el servicio antes de la palabra sonaría a venta.",
+  "porque": "Fuera la hoja de VALOR, que ya no es el destino"
+ },
+ {
+  "ambito": "R12",
+  "old": "Rótulo «VALOR» en grande con la flecha hacia los comentarios.",
+  "new": "Rótulo «DIAGNÓSTICO» en grande con la flecha hacia los comentarios.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "R12",
+  "old": "Comenta VALOR y te mando la hoja de los cuatro pilares: el primero, que te crean, es el que baja la factura del precio.",
+  "new": "Si quieres que personalmente analice cuál de estas tres facturas estás pagando, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "R13",
+  "old": "DIAGNÓSTICO: comentar FRÍAS → formulario de tres preguntas → llamada de treinta minutos. Solo en Instagram lleva la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué objetivo tiene cada pieza de su último mes. Solo en Instagram lleva la palabra.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); la X, la de la parte 9"
+ },
+ {
+  "ambito": "R13",
+  "old": "Reducción de riesgo. Fase 7: lo que se lleva por escrito aunque no sigamos, y a qué no compromete el primer paso (tres preguntas, treinta minutos)",
+  "new": "Siguiente paso único. Fase 5: DIAGNÓSTICO, y lo que miro (qué objetivo tiene cada pieza de su último mes)",
+  "porque": "Fuera el formulario y la llamada de treinta minutos (ronda de llamadas)"
+ },
+ {
+  "ambito": "R13",
+  "old": "Se va en «un lunes», y entra el rótulo «un lunes no es un sistema».",
+  "new": "Se va al terminar la primera frase.",
+  "porque": "«no tienes sistema: tienes un lunes» lo quitó Miguel de la voz (crítica 19 oct, R13)"
+ },
+ {
+  "ambito": "R13",
+  "old": "«Y cada pieza de contenido persigue uno de estos 4 objetivos. 1 que te descubra",
+  "new": "«Esta es mi planificación de noviembre: en esta columna, cada pieza lleva uno de los cuatro objetivos. 1 que te descubra",
+  "porque": "Que la voz recorra la tabla (crítica 19 oct, parte 9, R13)"
+ },
+ {
+  "ambito": "R13",
+  "old": " Y consigo  resultados como acortar el tiempo desde que te descubre tu cliente ideal hasta que te agende una llamada de ventas.»",
+  "new": "»",
+  "porque": "Fuera la frase de resultados sin prueba (crítica 19 oct, parte 9, R13)"
+ },
+ {
+  "ambito": "R13",
+  "old": "«Si quieres que personalmente analice tu estrategia comenta DIAGNÓSTICO.»",
+  "new": "«Si quieres que personalmente analice qué objetivo tiene cada pieza de tu último mes, comenta DIAGNÓSTICO y hablamos por privado.»",
+  "porque": "La llamada concreta (crítica 19 oct, parte 9, R13)"
+ },
+ {
+  "ambito": "R13",
+  "old": "Comenta FRÍAS y te mando el formulario de la llamada: en treinta minutos paso tus últimas piezas por estas tres preguntas, y te lo llevas por escrito.",
+  "new": "Si quieres que personalmente analice qué objetivo tiene cada pieza de tu último mes, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "El pie llevaba FRÍAS y el formulario (crítica 19 oct, parte 9, R13)"
+ },
+ {
+  "ambito": "R14",
+  "old": "«Mi cliente Luis tiene razón. Cuando",
+  "new": "«Luis tiene razón. Cuando",
+  "porque": "Fuera «Mi cliente Luis tiene razón»: Luis es prueba de método, no cliente con resultado (crítica 19 oct, R14)"
+ },
+ {
+  "ambito": "R14",
+  "old": "Seguir la cuenta. Sin palabra clave.",
+  "new": "Ninguno: la fase 3 termina en la tesis, sin pedir. Sin palabra clave.",
+  "porque": "Fuera «seguir»; si no pide, termina en la tesis (MEMORIA 3)"
+ },
+ {
+  "ambito": "R14",
+  "old": "Siguiente paso único. Fase 3: seguir, con el jueves siguiente como razón",
+  "new": "No lleva: la fase 3 termina en la tesis, sin pedir",
+  "porque": "Fuera «seguir» (MEMORIA 3)"
+ },
+ {
+  "ambito": "R18",
+  "old": "DIAGNÓSTICO: comentar FRÍAS → formulario de tres preguntas → llamada de treinta minutos (y en ella, cuánto material grabado tiene sin usar). Solo en Instagram lleva la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué minutos de su última entrevista darían piezas para su cliente ideal. Solo en Instagram lleva la palabra.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); la X, la del plan de mejora 15 oct"
+ },
+ {
+  "ambito": "R18",
+  "old": "Siguiente paso único. Fase 4: una palabra, tres preguntas, treinta minutos, y lo que se lleva",
+  "new": "Siguiente paso único. Final de la fase 3: DIAGNÓSTICO, y lo que miro (qué minutos de su última entrevista darían piezas)",
+  "porque": "Fuera el formulario y la llamada de treinta minutos (ronda de llamadas)"
+ },
+ {
+  "ambito": "R18",
+  "old": "tienes una oportunidad de sacar 20 piezas de contenido que van dirigidas a tu cliente ideal.",
+  "new": "tienes una oportunidad de sacar ideas de contenido que van dirigidas a tu cliente ideal: una sola respuesta te da varias.",
+  "porque": "«20 piezas» va contra su modelo, una respuesta da varias ideas (crítica 19 oct, parte 4, punto 8; plan de mejora 15 oct)"
+ },
+ {
+  "ambito": "R18",
+  "old": "El editor monta sobre esta lista y no elige nada.»»",
+  "new": "El editor monta sobre esta lista y no elige nada. Si quieres que personalmente analice qué minutos de tu última entrevista darían piezas para tu cliente ideal, comenta DIAGNÓSTICO y hablamos por privado.»»",
+  "porque": "La llamada iba solo en el pie (crítica 19 oct, R18); la voz, DIAGNÓSTICO (plan de mejora 15 oct)"
+ },
+ {
+  "ambito": "R18",
+  "old": "Las tres líneas entran con la voz. En «muerta en un enlace», sin rótulo.",
+  "new": "Las tres líneas entran con la voz. En «muerta en un enlace», sin rótulo. En la llamada, rótulo «DIAGNÓSTICO» en grande hasta el corte. La palabra solo va en Instagram: en TikTok, Shorts y Facebook el reel termina antes de la llamada.",
+  "porque": "La palabra y la llamada, solo en Instagram"
+ },
+ {
+  "ambito": "R18",
+  "old": "Comenta FRÍAS y te mando el formulario de tres preguntas: en treinta minutos miramos cuánto de lo que ya tienes grabado le contesta a tu cliente, y te lo llevas por escrito.",
+  "new": "Si quieres que personalmente analice qué minutos de tu última entrevista darían piezas para tu cliente ideal, comenta DIAGNÓSTICO y hablamos por privado.",
+  "porque": "El pie llevaba FRÍAS y el formulario (crítica 19 oct, R18)"
+ },
+ {
+  "ambito": "S01",
+  "old": "Responder VALOR → hoja de los cuatro pilares (recurso 4). El jueves sale el vídeo V1: la secuencia lo dice. POR DECIDIR la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando si la estrategia de contenido que ejecuta enseña la autoridad que sus clientes ya le reconocen.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); fuera el anuncio de V1 (secuencias, decidido 19 oct)"
+ },
+ {
+  "ambito": "S01",
+  "old": "Captura de la hoja del recurso 4, la portada (PENDIENTE: la hoja maquetada; hasta entonces, la pizarra con las cuatro palabras escritas).",
+  "new": "Fondo liso en el azul de la casa.",
+  "porque": "La hoja del recurso 4 ya no es el destino"
+ },
+ {
+  "ambito": "S01",
+  "old": "La palabra VALOR rotulada en grande, con la flecha apuntando a la barra de respuesta. El resto del texto en cuerpo menor, encima. «El jueves sale el vídeo entero» en la última línea, en cuerpo pequeño.",
+  "new": "La palabra DIAGNÓSTICO rotulada en grande, con la flecha apuntando a la barra de respuesta. El resto del texto en cuerpo menor, encima.",
+  "porque": "Nota con VALOR y anuncio del vídeo: fuera (crítica 19 oct, S01 y parte 7)"
+ },
+ {
+  "ambito": "S03",
+  "old": "Responder FRÍAS → formulario de tres preguntas → llamada de treinta minutos. POR DECIDIR la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando cuánto le cuesta hoy su contenido cada mes, en horas o en agencia, y qué partes pueden mejorarse.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "S03",
+  "old": "Acción: reducción de riesgo y siguiente paso único (pantalla 3: te lo llevas por escrito aunque no sigamos; una palabra) · Tensión: coste de la inacción con cuenta (pantalla 4).",
+  "new": "Acción: siguiente paso único (pantalla 4: una palabra, y lo que miro) · Tensión: coste de la inacción con cuenta (pantallas 2 y 3) y la escasez real (pantalla 4: «Trabajo con dos empresas a la vez.»).",
+  "porque": "Fuera «por escrito aunque no sigamos» y los huecos"
+ },
+ {
+  "ambito": "S03",
+  "old": "el mes pasado: pensar qué publicar, guionizar, grabar, editar.»",
+  "new": "el mes pasado (pensar qué publicar, guionizar, grabar, editar), o lo que le pagaste a tu agencia.»",
+  "porque": "Tu filtro, pieza a pieza: S03, pantalla 2, «Sí, en el cuerpo» (crítica 19 oct, parte 4)"
+ },
+ {
+  "ambito": "S03",
+  "old": "(PENDIENTE: la primera llamada hecha;",
+  "new": "(PENDIENTE: el primer diagnóstico entregado, con permiso;",
+  "porque": "El diagnóstico es la página por WhatsApp, no la llamada"
+ },
+ {
+  "ambito": "S03",
+  "old": "La palabra FRÍAS rotulada en grande",
+  "new": "La palabra DIAGNÓSTICO rotulada en grande",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "S03",
+  "old": "Esta semana tengo solo 2 huecos para diagnósticos.",
+  "new": "Trabajo con dos empresas a la vez.",
+  "porque": "La escasez, solo como «Trabajo con dos empresas a la vez.» (crítica 19 oct, parte 4, punto 6; MEMORIA 3)"
+ },
+ {
+  "ambito": "S03",
+  "old": "Captura de la agenda real de la semana con los cuatro huecos marcados (PENDIENTE: Miguel fija el número real; si no hay escasez real, la pantalla cambia a la cuenta del coste y el cierre pasa a blando).",
+  "new": "Fondo liso en el azul de la casa.",
+  "porque": "Sin huecos no hay agenda que enseñar"
+ },
+ {
+  "ambito": "S03",
+  "old": "FRÍAS otra vez en grande, con la flecha. La razón nueva (los huecos) arriba; la cuenta del coste, en medio.",
+  "new": "DIAGNÓSTICO otra vez en grande, con la flecha. «Trabajo con dos empresas a la vez.» debajo, en cuerpo menor.",
+  "porque": "Fuera FRÍAS y los huecos"
+ },
+ {
+  "ambito": "S04",
+  "old": "Responder VALOR → hoja de los cuatro pilares y vídeo V1 (recurso 4). POR DECIDIR la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando si sus últimas piezas le hablan a su cliente o a quien quiere aprender a hacerlo.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); la ficha mandaba a V1 (crítica 19 oct, parte 7)"
+ },
+ {
+  "ambito": "S04",
+  "old": "Captura de la hoja del recurso 4 (PENDIENTE: la hoja maquetada).",
+  "new": "Fondo liso en el azul de la casa.",
+  "porque": "La hoja del recurso 4 ya no es el destino"
+ },
+ {
+  "ambito": "S04",
+  "old": "VALOR en grande, con la flecha apuntando a la barra de respuesta.",
+  "new": "DIAGNÓSTICO en grande, con la flecha apuntando a la barra de respuesta.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "S07",
+  "old": "Responder IMPROVISO → la hoja de las dos columnas (recurso 6). V2 sale el jueves 19: la secuencia lo dice. PENDIENTE: la hoja del recurso 6 tiene que existir el martes 17, dos días antes de V2; si no, la secuencia pasa al jueves 19 o manda a VALOR. POR DECIDIR la palabra.",
+  "new": "Ninguno: la secuencia termina en la pantalla 3, sin llamada (Miguel quitó las pantallas 2 y 4). Es de nutrición.",
+  "porque": "Fuera IMPROVISO y el anuncio de V2 (secuencias, decidido 19 oct; crítica 19 oct, parte 7)"
+ },
+ {
+  "ambito": "S07",
+  "old": "Acción: siguiente paso único (pantalla 4: una palabra).",
+  "new": "Acción: no lleva (sin pantalla de cierre).",
+  "porque": "Ya no hay pantalla 4"
+ },
+ {
+  "ambito": "S07",
+  "old": "son las creencias de tu sector, no las tuyas.»",
+  "new": "son las creencias de tu sector, no las tuyas. Si tu agencia copió lo que era viral en tu sector, esa frase también la dice tu competencia.»",
+  "porque": "Tu filtro, pieza a pieza: S07, pantalla 3, «Sí, en el cuerpo» (crítica 19 oct, parte 4)"
+ },
+ {
+  "ambito": "S09",
+  "old": "Responder FRÍAS → formulario de tres preguntas → llamada de treinta minutos (y en ella, cuánto material grabado tiene sin usar). POR DECIDIR la palabra.",
+  "new": "Ninguno en pantalla: la secuencia termina en la encuesta de la pantalla 2 (Miguel quitó las pantallas 3 y 4). Si vuelve a pedir: DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando cuánto material grabado tiene sin usar.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "S09",
+  "old": "Acción: reducción de riesgo y siguiente paso único (pantalla 3: por escrito aunque no sigamos; una palabra) · Tensión: coste de la inacción con cuenta (pantalla 4: los episodios publicados después del suyo, que cuenta él) y el coste hundido de la hora pagada con su tiempo.",
+  "new": "Acción: compromiso progresivo (pantalla 2: la encuesta) · Tensión: coste hundido de la hora pagada con su tiempo (pantalla 1, el episodio enterrado bajo los nuevos).",
+  "porque": "Fuera «por escrito aunque no sigamos»; ya no hay pantallas 3 y 4"
+ },
+ {
+  "ambito": "S10",
+  "old": "DEVOLVER AL REPARTO: lo que enseña es la pregunta 1 del recorrido de marca de Caleb Ralston (recurso 5, que en noviembre no existe) y el destino es IMPROVISO (recurso 6, la hoja de las dos columnas), que no la contiene: la pantalla 4 es un puente, no lo que se lleva.",
+  "new": "",
+  "porque": "El aviso era por el destino IMPROVISO, que sale: con DIAGNÓSTICO la llamada mira lo que la pieza enseña"
+ },
+ {
+  "ambito": "S10",
+  "old": " El destino es RAÍZ porque la pregunta 1 es lo que va justo antes de decidir de qué hablar un año.",
+  "new": "",
+  "porque": "Fuera el destino RAÍZ (V2)"
+ },
+ {
+  "ambito": "S10",
+  "old": "Responder IMPROVISO → la hoja de las dos columnas y el vídeo V2 (recurso 6). POR DECIDIR la palabra.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué objetivo tiene con su marca, viendo a quién se dirigen sus últimas piezas.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); la ficha mandaba a V2 (crítica 19 oct, parte 7)"
+ },
+ {
+  "ambito": "S10",
+  "old": "Captura de la hoja del recurso 6 (PENDIENTE: la hoja maquetada).",
+  "new": "Fondo liso en el azul de la casa.",
+  "porque": "La hoja del recurso 6 ya no es el destino"
+ },
+ {
+  "ambito": "S10",
+  "old": "IMPROVISO en grande, con la flecha apuntando a la barra de respuesta.",
+  "new": "DIAGNÓSTICO en grande, con la flecha apuntando a la barra de respuesta.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "S11",
+  "old": " En enero sale el recurso del podcast (V6, jueves 21 de enero).",
+  "new": "",
+  "porque": "Fuera el anuncio de V6 (secuencias, decidido 19 oct; crítica 19 oct, parte 7)"
+ },
+ {
+  "ambito": "S11",
+  "old": "Seguir la cuenta: en enero sale el recurso del podcast. Sin palabra. Quien ve historias ya la sigue, así que cierra con una pregunta abierta: la caja de preguntas es el CTA, no una micro acción, y por eso va en la última pantalla.",
+  "new": "DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué minutos de su última grabación darían piezas.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3); fuera «seguir» y el anuncio de V6; la palabra, DIAGNÓSTICO (plan de mejora 15 oct)"
+ },
+ {
+  "ambito": "S11",
+  "old": " https://www.instagram.com/reel/DZNqnPij4B2/ .»",
+  "new": ".»",
+  "porque": "Un enlace pegado en el texto no funciona (crítica 19 oct, S11): pasa a un sticker"
+ },
+ {
+  "ambito": "S11",
+  "old": "Rótulo pequeño con el tiempo real del fragmento, tipo «50:12».",
+  "new": "Rótulo pequeño con el tiempo real del fragmento, tipo «50:12». El enlace al reel (https://www.instagram.com/reel/DZNqnPij4B2/) va en un sticker de enlace, no en el texto.",
+  "porque": "El enlace, en sticker (crítica 19 oct, S11)"
+ },
+ {
+  "ambito": "S11",
+  "old": "responde a esta historia.»",
+  "new": "responde DIAGNÓSTICO a esta historia y miro qué minutos de tu última grabación darían piezas.»",
+  "porque": "En historias, «Responde DIAGNÓSTICO» y lo que miras (ronda de llamadas; plan de mejora 15 oct)"
+ },
+ {
+  "ambito": "S11",
+  "old": "Caja de preguntas con el texto «¿En qué podcast saliste?». Es el CTA de la secuencia.",
+  "new": "Ninguno: el CTA es responder DIAGNÓSTICO a la historia.",
+  "porque": "La llamada pasa a DIAGNÓSTICO"
+ },
+ {
+  "ambito": "S11",
+  "old": "La caja de preguntas en el centro, grande, fuera del tercio inferior. El resto del texto en cuerpo menor. Ninguna palabra clave.",
+  "new": "DIAGNÓSTICO en grande, con la flecha apuntando a la barra de respuesta, fuera del tercio inferior. El resto del texto en cuerpo menor.",
+  "porque": "La llamada pasa a DIAGNÓSTICO"
+ },
+ {
+  "ambito": "S12",
+  "old": "Responder FRÍAS → formulario de tres preguntas → llamada de treinta minutos, que empieza por el perfil en semáforo. POR DECIDIR la palabra.",
+  "new": "Ninguno en pantalla: cierra en la encuesta de la pantalla 2, como decidió Miguel. Si vuelve a pedir: DIAGNÓSTICO por WhatsApp (comentario o respuesta → mensaje privado automático con el enlace a WhatsApp → contestas tú → el diagnóstico, una página con tres hallazgos), mirando qué ve de él, en su perfil, el que recibe su presupuesto.",
+  "porque": "Ronda de llamadas: DIAGNÓSTICO por WhatsApp (crítica 19 oct, parte 4, punto 10; MEMORIA 3)"
+ },
+ {
+  "ambito": "S12",
+  "old": "Acción: reducción de riesgo y siguiente paso único (pantalla 3: el perfil en semáforo por escrito aunque no sigamos; una palabra) · Tensión: aversión a la pérdida construida como coste de la inacción con cuenta (pantalla 4: los presupuestos del mes, que cuenta él).",
+  "new": "Acción: compromiso progresivo (pantalla 2: la encuesta) · Tensión: aversión a la pérdida (pantalla 2: te comparan por precio porque no te conocen).",
+  "porque": "Fuera «por escrito aunque no sigamos»; ya no hay pantallas 3 y 4"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "La palabra del destino es la del recurso vivo esa semana: VALOR en las semanas 1 y 2, IMPROVISO en las 3 y 4, FRÍAS para lo que enseña trabajo hecho. Los martes, jueves y viernes la ranura no se usa: ese día va la secuencia entera y una historia suelta delante o detrás le partiría el bucle.",
+  "new": "El destino es siempre DIAGNÓSTICO por WhatsApp: «Responde DIAGNÓSTICO» y lo que miro. Los martes, jueves y viernes la ranura no se usa: ese día va la secuencia entera y una historia suelta delante o detrás le partiría el bucle. El jueves 5 no tiene secuencia.",
+  "porque": "Destino único DIAGNÓSTICO (crítica 19 oct, punto 11; ronda de llamadas)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Luis: sí. Es prueba de método, no de resultado: el rótulo no promete ninguna cifra",
+  "new": "Luis: sí (PENDIENTE reconfirmarlo). Es prueba de método, no de resultado: su plan no se ha ejecutado, así que ni el rótulo ni la historia lo enseñan como demostración de resultado ni prometen ninguna cifra",
+  "porque": "Los documentos de Luis no se enseñan como resultado; su permiso, reconfirmado (crítica 19 oct, punto 11)"
+ },
+ {
+  "ambito": "R13",
+  "old": "Dolor identitario. Fase 1: «si cada semana decides qué grabar, no tienes sistema: tienes un lunes», el dolor 25 en escena",
+  "new": "Dolor identitario. Fase 1: «si cada semana decides con tu equipo qué grabar, probablemente no tengas una estrategia», el dolor 25 en escena",
+  "porque": "La ficha, con la frase que dejó Miguel en la voz (crítica 19 oct, R13)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Ver el reel (sin palabra; el destino es la pieza publicada de Luis). Semana 4: responde FRÍAS",
+  "new": "Ver el reel (sin palabra; el destino es la pieza publicada de Luis). Semana 4: responde DIAGNÓSTICO, y miro qué minutos de tu última grabación darían piezas",
+  "porque": "Fuera FRÍAS (ronda de llamadas)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Luis: sí. PDC: sí; el nombre del invitado, difuminado salvo permiso",
+  "new": "Luis: sí (PENDIENTE reconfirmarlo). PDC: sí; el nombre del invitado, difuminado salvo permiso",
+  "porque": "El permiso de Luis, reconfirmado (crítica 19 oct, punto 11)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "No se usa: va la secuencia (S02, S05, S08, S11)",
+  "new": "No se usa los jueves 12, 19 y 26: va la secuencia (NS1, NS5, S11). El jueves 5 no tiene secuencia: la ranura queda libre, sin historia escrita (por decidir)",
+  "porque": "Códigos del calendario nuevo; S02, S05 y S08 ya no están (crítica 19 oct, parte 7)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "No se usa: va la secuencia de cierre duro (S03, S06, S09, S12)",
+  "new": "No se usa: va la secuencia de cierre duro (S03, NS2, S09, S12)",
+  "porque": "Códigos del calendario nuevo: NS2 en el sitio de S06"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Un dato con fuente, como captura de la página o del gráfico del informe, con la fuente legible y un rótulo de una línea. Semana 1: BRANDfog, el 77 % compraría antes a una empresa cuyo CEO está activo en redes. Semana 2: FTI Consulting, el 81 % de las cien empresas cuya acción más subió entre 2015 y 2019 tenía un CEO con marca pública. Semana 3: PeopleXBrand 2025, solo el 2,26 % de los directivos españoles analizados está activo en redes profesionales. Semana 4: el censo propio, 23 proveedores de marca personal en España y «autoridad» en 9 webs",
+  "new": "Un dato con fuente, como captura de la página o del gráfico del informe, con la fuente legible y un rótulo de una línea. Semana 1: 6sense, el 95 %. Semana 2: Edelman, el 73 %. Semana 3: Gartner, el 67 %. Cada rótulo dice lo que mide la cifra tal como lo dice la ficha y su fuente, sin añadir nada. Semana 4: el censo propio, 23 proveedores de marca personal en España y «autoridad» en 9 webs",
+  "porque": "Fuera los datos retirados (BRANDfog, PeopleXBrand); los datos con fuente de la ficha: 6sense, Edelman y Gartner (crítica 19 oct, punto 11)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "9.6: datos con fuente (enlaces en el concepto 1.1 y en la parte 12); el censo, material propio (9.6)",
+  "new": "9.6: los datos con fuente de la ficha (6sense, Edelman y Gartner), con su enlace; el censo, material propio (9.6)",
+  "porque": "Las fuentes de los datos nuevos"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "semana 2, la propuesta de abril difuminada salvo «180» y «1.200 €», rótulo",
+  "new": "semana 2, la propuesta de abril difuminada entera, rótulo",
+  "porque": "Fuera «180» y «1.200 €», la versión retirada (crítica 19 oct, punto 11)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Propio. La propuesta de abril: PENDIENTE confirmar con Miguel que se enseña difuminada",
+  "new": "Propio. La propuesta de abril: PENDIENTE confirmar con Miguel que se enseña difuminada, y sus cifras reales",
+  "porque": "Lo que trae Miguel: las cifras reales de la propuesta (crítica 19 oct, punto 11)"
+ },
+ {
+  "ambito": "RANURA DIARIA DE PRUEBA SOCIAL",
+  "old": "Responde FRÍAS → el formulario de tres preguntas y la llamada",
+  "new": "Responde DIAGNÓSTICO → DIAGNÓSTICO por WhatsApp, y miro qué trabajo hace cada pieza de tu último mes",
+  "porque": "Fuera FRÍAS y el formulario (ronda de llamadas)"
+ }
+]

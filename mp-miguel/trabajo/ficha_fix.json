@@ -1,0 +1,68 @@
+[
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "los pilares y el lenguaje",
+  "new": "los pilares, el lenguaje y lo que tu comprador ya probó"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "De cada raíz, sus conceptos, y de cada concepto, sus piezas: las 133 frases de tu documento en 90 piezas",
+  "new": "De cada raíz, sus conceptos: qué cuenta cada uno, sus dolores y sus ganchos de partida. El detalle pieza a pieza vive en el banco"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "las historias, la primera llamada, la firma y las reglas",
+  "new": "las historias, la firma y las reglas"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "9 · Los dos formularios",
+  "new": "9 · Lo que solo puedes traer tú"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "El Punto Cero y La Profundidad, rellenados con lo que ya has dicho",
+  "new": "Lo que ninguna escritura sube: tus conversaciones con compradores, tu llamada de diagnóstico, tu historia, un caso, tus números y lo de Fernando"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "fila": "9 · Lo que solo puedes traer tú",
+  "old": "C y A",
+  "new": "Todo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "Las puertas, lo que decides tú, el material que solo puedes traer tú, las comprobaciones, lo que cambia en otros sitios, tu perfil y tus notas",
+  "new": "Las puertas, una sola lista de lo que decides tú, las comprobaciones, lo que cambia en otros sitios, tu perfil y lo que escribí yo"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "M · MARCO PROPIO: LO QUE TE HACE DISTINTO",
+  "fila": "«sígueme»",
+  "old": "Seguir con una razón, o nada",
+  "new": "Nada: si la pieza no pide, termina en la tesis"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LO QUE LE FALTA A CADA APARTADO",
+  "old": "La fuente primaria donde falta, y fuera Joe Rogan;",
+  "new": "La fuente primaria donde falta (Romuald Fons);"
+ },
+ {
+  "op": "borrar",
+  "desde": "Joe Rogan: https",
+  "hasta": "Caleb Ralston: la entrevista"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "El árbol: de cada raíz, sus piezas",
+  "texto": "El árbol: de cada raíz, sus conceptos"
+ }
+]

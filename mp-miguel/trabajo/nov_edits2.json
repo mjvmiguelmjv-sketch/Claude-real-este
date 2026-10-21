@@ -1,0 +1,7 @@
+[
+ {"ambito":"R13","fila":"Frase de la pieza","old":"«Si cada semana decides qué grabar, no tienes sistema: tienes un lunes.»","new":"«Si cada semana decides con tu equipo qué grabar, probablemente no tengas una estrategia.»","porque":"crítica: la quitaste de la voz; va tu frase"},
+ {"ambito":"R13","fila":"Hablado","old":"«Si cada semana decides qué grabar, no tienes sistema: tienes un lunes.»","new":"«Si cada semana decides con tu equipo qué grabar, probablemente no tengas una estrategia.»","porque":"ídem"},
+ {"ambito":"R13","old":"Si cada semana decides qué grabar, no tienes sistema: tienes un lunes.","new":"Si cada semana decides con tu equipo qué grabar, probablemente no tengas una estrategia.","porque":"ídem, en el pie"},
+ {"ambito":"RANURA DIARIA DE PRUEBA SOCIAL","fila":"Lunes","old":"Responde VALOR (semanas 1 y 2) / IMPROVISO (semanas 3 y 4) → la hoja del recurso vivo","new":"Responde DIAGNÓSTICO → DIAGNÓSTICO por WhatsApp, y miro si tu contenido sale de una estrategia escrita antes del primer guion","porque":"ronda de llamadas"},
+ {"ambito":"RANURA DIARIA DE PRUEBA SOCIAL","fila":"Sábado","old":"Responde VALOR (semanas 1 y 2) / IMPROVISO (semanas 3 y 4) → la hoja del recurso vivo","new":"Responde DIAGNÓSTICO → DIAGNÓSTICO por WhatsApp, y miro a quién le está hablando tu perfil","porque":"ronda de llamadas"}
+]

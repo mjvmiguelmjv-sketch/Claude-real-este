@@ -1,0 +1,733 @@
+[
+ {
+  "op": "sustituir",
+  "ambito": "CABECERA",
+  "old": "Ficha de marca · v6 · 19 oct 2026",
+  "new": "Ficha de marca · v7 · 20 oct 2026"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "CABECERA",
+  "old": " Cada apartado lleva su nota del 0 al 10 y lo que le falta para el 10.",
+  "new": ""
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "La cabecera, lo más importante en cinco, la nota de datos, la cadena, tus decisiones del 15 y el 18 oct y lo que cambia de la v5",
+  "new": "La cabecera, lo que hace falta para escribir, lo más importante en cinco, la nota de datos, la cadena y tus decisiones del 15 al 20 oct"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "2 · La nota CALMA",
+  "new": "2 · Lo que le falta a cada apartado"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "Cada apartado del 0 al 10, puntuado por una revisión independiente: la v5, esta versión, el techo de hoy y lo que falta para el 10",
+  "new": "Lo que le falta a cada elemento de la ficha y del posicionamiento para el 10, sin nota"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "INDICE",
+  "old": "Tu punto de partida, los datos con fuente, la competencia, a quién parecerte y a quién no, los mensajes gastados y los tuyos, los sitios libres",
+  "new": "Tu punto de partida en una foto, los datos con fuente, la competencia y quién se acerca a tu hueco, a quién parecerte y a quién no, los mensajes gastados, el mapa de mensajes, el tuyo y los sitios libres"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LO PRIMERO QUE TIENES QUE LEER",
+  "old": "19 oct 2026. Sustituye a la v5 del 8 oct",
+  "new": "20 oct 2026. Sustituye a la v6 del 19 oct",
+  "fila": "Fecha"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "Lo más importante, en cinco",
+  "bloques": [
+   [
+    "etiqueta",
+    "Para escribir"
+   ],
+   [
+    "texto",
+    "Lo que tiene que estar delante para escribir cualquier pieza. El detalle, en su parte."
+   ],
+   [
+    "tabla",
+    {
+     "filas": [
+      [
+       "Tu cliente ideal",
+       "El fundador o socio visible de una agencia o consultora que vende a empresas, de cinco a treinta personas, que cierra en una llamada de ventas servicios de varios miles de euros (4.1)"
+      ],
+      [
+       "Lo que ya probó",
+       "Publicar él, pagar una agencia, contratar a alguien que copió lo viral de su sector o ir a un podcast que no le trajo nada (D05, D07, D12 y D15). Tiene que salir más (19 oct). Se ataca la práctica, nunca a quien la vendió ni a quien la contrató"
+      ],
+      [
+       "Los dolores",
+       "Los siete que propone el barrido, por orden: D03 antes de la llamada no lo entienden; D02 me comparan por precio; D15 delegar fue un desastre; D01 parezco uno más; D10 miedo a parecer vendedor; D11 no sé contar por qué me contrataron; D12 fui a un podcast y ya está. Los quince, con sus frases, en 4.6. Cuáles abren el primer mes: Por decidir. Son hipótesis hasta oírlos a un comprador"
+      ],
+      [
+       "El deseo",
+       "Que el que le escribe llegue a la llamada sabiendo quién es y por qué él: prevendido (8.2). En tu lenguaje, hipótesis hasta oírlo en el suyo: dejar de justificar su precio, que le busquen a él y delegar el contenido sin que le dé más trabajo (4.8)"
+      ],
+      [
+       "El filtro, en los dos sitios",
+       "Lo que el comprador ya vivió, en los tres primeros segundos; el sector y el tamaño, en el cierre (19 oct). Así abre R04: «Te dijeron que contratando una agencia para hacer contenido te llegarían clientes.»"
+      ],
+      [
+       "La llamada",
+       "«Si quieres que personalmente analice X, comenta DIAGNÓSTICO y hablamos por privado». En historias, «Responde DIAGNÓSTICO». Fuera FRÍAS, VALOR, PILARES, IMPROVISO, CURIOSOS, el formulario y «sígueme»"
+      ],
+      [
+       "El destino",
+       "DIAGNÓSTICO por WhatsApp, solo en las piezas con encaje (15 oct). El camino termina en el diagnóstico (18 oct). Las piezas sin encaje terminan en la tesis o en seguir con una razón"
+      ],
+      [
+       "Cuándo hay encaje",
+       "Por decidir. La lectura de la crítica del 20 oct: cuando la pieza enseña algo que el diagnóstico mira en tu cuenta (claridad, relevancia, pruebas y puente a la venta)"
+      ],
+      [
+       "La escasez",
+       "«Trabajo con dos empresas a la vez». Nunca «huecos esta semana» ni parecidas"
+      ],
+      [
+       "El léxico",
+       "Una sola tabla, con tus notas, en 6.6. Manda sobre cualquier otra lista de palabras de esta ficha"
+      ],
+      [
+       "Fernando",
+       "Su caso se cuenta sin plazo ni cifra de contactos. Sus seguidores y los episodios de más de 100.000 no son prueba tuya. Falta su visto bueno al texto de su testimonio"
+      ],
+      [
+       "Luis",
+       "Su estrategia no se ejecuta: es prueba de método, nunca de resultado ni caso futuro"
+      ]
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LO PRIMERO QUE TIENES QUE LEER",
+  "old": "Cinco · Lo que más sube la nota no se escribe: se trae.",
+  "new": "Cinco · Lo que más mejora la ficha no se escribe: se trae."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LO PRIMERO QUE TIENES QUE LEER",
+  "old": "(4.6), y la competencia está copiada de sus webs",
+  "new": "(4.6); las de Caleb Ralston van como suyas, traducidas del inglés (20 oct); y la competencia está copiada de sus webs"
+ },
+ {
+  "op": "borrar",
+  "desde": "Tus decisiones del 15 y el 18 oct",
+  "hasta": "Fuentes y bloqueos"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "Fuentes y bloqueos",
+  "bloques": [
+   [
+    "etiqueta",
+    "Tus decisiones del 15 al 20 oct"
+   ],
+   [
+    "texto",
+    "Las dijiste entre el 15 y el 20 oct, al leer los diagnósticos y las críticas de tus guiones y de esta ficha, y mandan sobre lo que diga el resto de esta ficha."
+   ],
+   [
+    "tabla",
+    {
+     "cabecera": [
+      "Cuándo",
+      "Decisión",
+      "En tus palabras",
+      "Qué corrige"
+     ],
+     "filas": [
+      [
+       "15 oct",
+       "Destino único: DIAGNÓSTICO por WhatsApp, solo en las piezas con encaje",
+       "«cta va todo a whatsapp», «la ronda de llamadas de ctas va todo a diagnóstico en los vídeos con encaje»",
+       "Las llamadas a recursos y a palabras clave (FRÍAS, PILARES, VALOR…). Las piezas sin encaje terminan en la tesis o en seguir con una razón"
+      ],
+      [
+       "15 oct",
+       "El camino después del WhatsApp se define y se mide",
+       "«el camino después de whatsapp sí, hay que anotar kpis»",
+       "El camino de 8.5. Cerrado el 18 oct: termina en el diagnóstico (fila siguiente)"
+      ],
+      [
+       "18 oct",
+       "Nada después del diagnóstico: el camino termina en él",
+       "«no quiero nada después del diagnóstico, está de puta madre ya»",
+       "Ni llamada ni propuesta en el camino que se define y se mide: los KPIs llegan hasta el diagnóstico (8.6). El diagnóstico se queda como está"
+      ],
+      [
+       "15 oct",
+       "El mecanismo se llama «la trampa viral»",
+       "«sería la trampa viral»",
+       "No se usa «la trampa del alcance». Es el nombre de Kallaway: se acredita (6.4)"
+      ],
+      [
+       "15 oct",
+       "La escasez se dice así: «trabajo con dos empresas a la vez»",
+       "«la escasez está bien, dila así»",
+       "Fuera «esta semana tengo solo 2 huecos» y parecidas"
+      ],
+      [
+       "15 oct",
+       "Fernando: el caso se cuenta sin datos concretos de plazo ni de contactos",
+       "«los datos de Fer no los tengo específicamente, pero sí puedo decirlo»",
+       "Las piezas que lo cuentan (V1, el VSL, N02 y N13), y 5.3"
+      ],
+      [
+       "15 oct",
+       "Los episodios de más de 100.000 no se usan como prueba tuya",
+       "«los episodios de 100 k no solo vienen por mí y tampoco apoyan mi posicionamiento realmente»",
+       "Las piezas que los citan como prueba tuya"
+      ],
+      [
+       "15 oct",
+       "Luis: su estrategia no se ejecuta",
+       "Dicho el 15 oct por la mañana",
+       "Luis es prueba de método, nunca de resultado ni caso futuro (5.4)"
+      ],
+      [
+       "15 oct",
+       "Cada guion maximiza un apartado de CALMA, normalmente uno",
+       "«no todos los guiones tienen que maximizar cada uno de los apartados, sino cada uno normalmente maximizará uno»",
+       "Cada guion se juzga por su trabajo, el apartado que maximiza; en los demás, solo lo que resta. Los cinco se juntan en el calendario (8.8)"
+      ],
+      [
+       "19 oct",
+       "CALMA, por dentro y en cada paso de la estrategia, no solo en los guiones",
+       "«skill pero no solo para los guioones es para toda la estrategia para cada paso»",
+       "Cada paso se juzga con CALMA antes de su puerta. CALMA, su nota y el nombre de Carlos no salen en nada que lea el público (6.6)"
+      ],
+      [
+       "19 oct",
+       "El filtro, en los dos sitios",
+       "Elegiste «Los dos», cuya descripción era: «Lo que ya vivió el comprador (la agencia, lo viral copiado) va en los 3 primeros segundos; el sector y el tamaño, en el cierre.»",
+       "El filtro entero en el gancho (4.10, 4.11 y 8.4)"
+      ],
+      [
+       "19 oct",
+       "El formulario, antes de la primera llamada y ya rellenado",
+       "Elegiste «Antes, ya rellenado», cuya descripción era: «Le mando solo lo que falta, con lo que ya sé rellenado, y en la llamada profundizamos en sus respuestas.»",
+       "Los formularios después de la primera llamada (8.10)"
+      ],
+      [
+       "19 oct",
+       "Fuera las secuencias que anuncian un vídeo de YouTube o son un trozo del vídeo largo",
+       "«quiero que borres las que hablan de un vídeo de youtube de hoy sale tal esas no las quiero»",
+       "S02 y S05 en noviembre; S14, S17, S20 y S23 en diciembre; S32 y S44 en enero y febrero. Y sus restos en la semana tipo, el árbol, la guía de historias y los ejemplos de tu voz"
+      ],
+      [
+       "19 oct",
+       "Lo que el comprador ya probó sale más",
+       "«el filtro de mi marca de haber trabajado con otra agencia y haber investigado y buscado a la viralidad aparece poco y es un perfil traje / dolor que me gusta utilizar mucho porque el cliente se ve muy representado y debe de aparecer más en los guiones y en los que crees»",
+       "Lo que estaba repartido en cinco sitios con cinco nombres (4.1, 4.3, 4.6, 4.9 y 9.2). Cuántas piezas al mes lo llevan: Por decidir"
+      ],
+      [
+       "19 oct",
+       "Lo superado se renombra y va a «Descartados»; nada se borra",
+       "«quiero que las antiguas las pongas en una carpeta dentro de la carpeta de miguel estrategia 90 días descartados (no solo estas antiguas sino TODAS los documentos pasados que no sirven)»",
+       "Las versiones superadas, al lado de la buena. La v6 sigue intacta en su Doc"
+      ],
+      [
+       "20 oct",
+       "La puerta de la v7, delegada",
+       "«sigue tú con todo»",
+       "Las cuatro preguntas de la crítica del 20 oct, con su recomendación: lo de sus partes 3 a 5, aplicado; lo que sobra, recortado, y la ficha abre con «Para escribir»; las frases de Caleb Ralston, como suyas y traducidas; y la mezcla de nicho, el 80 %. Lo demás va a una sola lista «Por decidir»"
+      ]
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LO PRIMERO QUE TIENES QUE LEER",
+  "old": "tu v5 con tus notas; tu documento de ideas raíz",
+  "new": "tu v6 del 19 oct, que es la base; tu v5 con tus notas; tu documento de ideas raíz"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "LO PRIMERO QUE TIENES QUE LEER",
+  "old": "onboarding); y tres investigaciones hechas el 19 oct.",
+  "new": "onboarding); tres investigaciones hechas el 19 oct; y la crítica de tu ficha v6, del 20 oct."
+ },
+ {
+  "op": "parrafo",
+  "empieza": "La nota CALMA, apartado por apartado",
+  "texto": "Lo que le falta a cada apartado"
+ },
+ {
+  "op": "borrar",
+  "desde": "Cada apartado de la ficha, puntuado",
+  "hasta": "PARTE 3"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "PARTE 3",
+  "bloques": [
+   [
+    "texto",
+    "Lo que le falta a cada elemento para el 10, sacado de la crítica a ciegas de tu ficha v6 (20 oct). Sin nota: la ficha no se puntúa a sí misma, y la nota está en el registro. Lo que se arreglaba escribiendo entra en esta v7; lo que queda pide, sobre todo, lo que solo puedes traer tú (parte 10)."
+   ],
+   [
+    "etiqueta",
+    "La ficha"
+   ],
+   [
+    "tabla",
+    {
+     "filas": [
+      [
+       "C · La foto del punto de partida",
+       "Tus números, con captura y fecha, y de dónde te llegan hoy los clientes; lo de 3.1 y 9.1, junto"
+      ],
+      [
+       "C · El cliente ideal real",
+       "Que salga de tus mejores clientes y pase la prueba en voz alta con un socio de tu red, con nombre"
+      ],
+      [
+       "A · Los segmentos",
+       "Lo que ya probó cada avatar y su anillo; su día a día y su voz, oídos a compradores"
+      ],
+      [
+       "A · Los dolores",
+       "De quién es cada frase (Caleb, Fer), bien dicho; frases de compradores en los que pasen"
+      ],
+      [
+       "A · Lo que el comprador ya probó",
+       "Su bloque, con su fuente y quién lo tiene, en la voz del avatar 1 y como gancho; dicho por compradores"
+      ],
+      [
+       "A · El deseo",
+       "Código, fuente y quién lo tiene, como los dolores; deseos dichos por compradores"
+      ],
+      [
+       "A · Las objeciones",
+       "Objeciones oídas en llamadas y respuestas con tus palabras; la exclusividad, decidida"
+      ],
+      [
+       "A · Los anillos y la zona prohibida",
+       "Una condición por salto y una sola cifra de mezcla; la mezcla, medida con lo publicado"
+      ],
+      [
+       "A · El lenguaje del comprador",
+       "La fuente de cada palabra, con las del barrido; palabras oídas en tus conversaciones"
+      ],
+      [
+       "A · Los pilares y su peso",
+       "Pilar y apartado por separado; los pesos, decididos por ti con datos"
+      ],
+      [
+       "L · Los casos con cifra",
+       "Un caso del avatar 1, con antes, decisión y después, y su cifra con dueño"
+      ],
+      [
+       "L · El trabajo que se puede enseñar",
+       "Los logos y Luis, aclarados; los permisos confirmados y el material grabado"
+      ],
+      [
+       "L · Los errores propios, en una sola versión",
+       "Una sola versión de abril, con la cifra pública que decidas"
+      ],
+      [
+       "L · Lo que puede probar",
+       "Cada cosa de 5.1, con su prueba de 5.2; un resultado tuyo publicado"
+      ],
+      [
+       "M · La voz y el léxico",
+       "El léxico con tus notas, en un solo sitio, y las citas retocadas, listadas; tu voz, reconocida por otro"
+      ],
+      [
+       "M · El material narrativo",
+       "Tus respuestas a las siete preguntas, sobre todo el origen y la victoria"
+      ],
+      [
+       "Ac · El objetivo declarado",
+       "Qué cuenta como una conversación con encaje"
+      ],
+      [
+       "Ac · La meta y el ritmo diana",
+       "La fecha de la meta y, al cerrar noviembre, conversaciones y diagnósticos por semana"
+      ],
+      [
+       "Ac · La cadena de conversión",
+       "Comprobarla con datos: que quien pide el diagnóstico lo pide por el criterio que vio"
+      ],
+      [
+       "Ac · El destino y los recursos",
+       "La página del diagnóstico maquetada y el mensaje automático montado"
+      ],
+      [
+       "Ac · Quién convierte, y con qué",
+       "En cuánto contestas y cuánto dura el diagnóstico"
+      ],
+      [
+       "Ac · Los formatos",
+       "El porqué de cada formato fijo; los vídeos de referencia de cada uno"
+      ]
+     ]
+    }
+   ],
+   [
+    "etiqueta",
+    "El posicionamiento"
+   ],
+   [
+    "tabla",
+    {
+     "filas": [
+      [
+       "C · La tesis contra el consenso",
+       "Quién dice cada mitad, con su enlace; la frase, elegida por ti; mirada en Instagram y TikTok"
+      ],
+      [
+       "C · El mapa de mensajes",
+       "Una tabla con el estado, quién y dónde de cada mensaje; Instagram y TikTok"
+      ],
+      [
+       "C · El hueco",
+       "Quién se acerca, dicho junto al hueco; comprobado en redes y con un caso"
+      ],
+      [
+       "A · A qué dolor sirve cada idea raíz",
+       "La tabla de 6.5 con los dolores que elijas; la raíz 2, con uno de ellos"
+      ],
+      [
+       "A · El mecanismo del problema",
+       "Que cubra el podcast y la agencia que copió lo viral; probado en tres llamadas"
+      ],
+      [
+       "L · El material propio que sostiene la tesis",
+       "Tu llamada de diagnóstico convertida en piezas, y lo que pasó después"
+      ],
+      [
+       "L · Las señales premium",
+       "Dónde sale cada una; un no real a quien no encaja, contado con permiso"
+      ],
+      [
+       "L · Los referentes, investigados",
+       "La fuente primaria donde falta, y fuera Joe Rogan; Diego Abreu, Caleb y Kallaway, con el mismo rigor"
+      ],
+      [
+       "M · La tesis en tus palabras, y que te la creas",
+       "Preguntártelo en directo y que elijas la frase; la vuelta ya la escribiste tú"
+      ],
+      [
+       "M · El enemigo, en una línea",
+       "Una sola línea en toda la ficha, validada por ti"
+      ],
+      [
+       "M · Las ideas raíz, validadas una a una",
+       "Cada raíz con su dolor y sus tres pruebas; validadas contigo, una a una"
+      ],
+      [
+       "M · Los modelos con nombre",
+       "El autor de cada uno y un nombre por mecanismo, elegido por ti"
+      ],
+      [
+       "M · Lo que la tesis prohíbe y las palabras que no usa",
+       "Tu léxico de 6.6, en todos los sitios"
+      ],
+      [
+       "M · Los referentes por su ADN y los anti-referentes",
+       "Lo que se coge de cada uno, como tono; validados por ti"
+      ],
+      [
+       "M · El mensaje propio, por tipos",
+       "Fuera lo compartido y lo dudoso; dentro, lo tuyo sobre el contenido que sale de la llamada"
+      ],
+      [
+       "M · La historia de la marca, en tres frases",
+       "Tu origen y tu victoria, contados por ti"
+      ],
+      [
+       "Ac · La promesa",
+       "Un plazo con dato y el riesgo de tu lado sobre el resultado: hoy la garantía es de implantación"
+      ],
+      [
+       "Ac · Lo que piensa el comprador antes de escribir",
+       "El paso «se para», con el filtro en los dos sitios; comprobado con lo que dicen quienes piden el diagnóstico"
+      ]
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "op": "parrafo",
+  "empieza": "3.1 Tu punto de partida",
+  "texto": "3.1 Tu punto de partida, a 20 oct 2026"
+ },
+ {
+  "op": "insertar",
+  "despues_de": "3.1 Tu punto de partida",
+  "bloques": [
+   [
+    "texto",
+    "Una sola foto, con fecha. Lo que estaba repartido entre aquí y el formulario 1 (tus enlaces, de dónde llegan hoy los clientes y la facturación) va junto."
+   ]
+  ]
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "el precio no está en la web desde el 9 oct",
+  "new": "el precio no está en la web desde el 9 oct. Facturación de los últimos seis meses: no consta",
+  "fila": "Lo que vendes"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "No publicas con regularidad (26 sep) y nada del plan está publicado. Noviembre está escrito (23 piezas, 12 de ellas reels) y su mañana de grabación no tiene fecha. Metricool, sin conectar",
+  "new": "Instagram, migueljimenezvazquez_; el canal de YouTube no consta. Seguidores en cada red: sin captura. No publicas con regularidad (26 sep) y nada del plan está publicado. Noviembre (r6) y diciembre (r4) están escritos desde el 20 oct, con 15 reels y 11 secuencias de historias cada uno, y la mañana de grabación no tiene fecha. Metricool, sin conectar: hoy no aparece tu Instagram",
+  "fila": "Tus redes"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "Publicada desde el 8 oct.",
+  "new": "miguel-jimenez.netlify.app, publicada desde el 8 oct.",
+  "fila": "Tu web"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "Comentario con DIAGNÓSTICO, mensaje privado, WhatsApp y el diagnóstico. El camino termina ahí (18 oct)",
+  "new": "Hoy, por relación directa: Píldoras y Luis llegaron así, y por tu contenido no llega ninguno (valídalo). El camino que se mide: comentario con DIAGNÓSTICO, mensaje privado, WhatsApp y el diagnóstico, y termina ahí (18 oct)",
+  "fila": "Cómo se llega a ti"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "El formulario entero, rellenado con lo que hay, está en la parte 9",
+  "new": "Y tus números de partida, con captura y fecha: seguidores en cada red, Metricool conectado y de dónde te llegan hoy los clientes (Por resolver)",
+  "fila": "Lo que falta"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "con el contenido sacado de esa llamada y la prueba medida en ella. Ninguno de los 22 ocupa ese sitio.",
+  "new": "con el contenido sacado de esa llamada y la prueba medida en ella. Ninguno de los 22 ocupa ese sitio. Quién se acerca, para que no se lea como un vacío total: Monetiza, que saca los temas de las preguntas reales del cliente final de un despacho e impulsa con anuncios, sin un solo caso; AGLV, que habla a empresas de servicios y usa las objeciones antes de la reunión, mezclado con prospección automática; y Kimoon, entre los adyacentes leídos el 19 oct (falta anotar en qué se acerca)."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "En el ADN, no en el sector. De cada uno se coge una cosa:",
+  "new": "En el ADN, no en el sector. Los he elegido yo: si son los tuyos, Por decidir. De cada uno se coge una cosa:"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "No son personas a las que atacar: son hábitos que se ven en el sector",
+  "new": "Los he elegido yo (Por decidir si son los tuyos). No son personas a las que atacar: son hábitos que se ven en el sector"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "La regla de oro:",
+  "new": "La regla de oro, escrita por mí:"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "«el secreto mejor guardado de su sector» y «Llamada",
+  "new": "«el secreto mejor guardado de su sector» (Saúl Sánchez Agency, con su web leída en resumen) y «Llamada"
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "Gastado no es lo mismo que prohibido: estos se pueden decir, pero no te diferencian. Lo que tu tesis no te deja decir está en 6.6.",
+  "new": "Gastado no es lo mismo que prohibido: estos se pueden decir, pero no te diferencian. Tu léxico, con tus notas («High Ticket», «autoridad» y «referente», «viralidad de nicho»), está en una sola tabla, en 6.6, y manda ella. Lo que tu tesis no te deja decir, también en 6.6."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "«Lo viral no vende» sale cuatro veces en noviembre (R02, R04, R14 y S02)",
+  "new": "«Lo viral no vende» salía cuatro veces en noviembre (R02, R04, R14 y S02; R02 y S02 ya no están en la r6 del 20 oct)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "3.6 Los mensajes gastados",
+  "texto": "3.6 Los mensajes gastados y el mapa de mensajes"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "3.7 Tu mensaje propio",
+  "bloques": [
+   [
+    "texto",
+    "El mapa de mensajes. Cada mensaje tuyo: si es propio, compartido o del feed, quién lo dice ya tal cual y dónde está en esta ficha (los enlaces, en la parte 11)."
+   ],
+   [
+    "tabla",
+    {
+     "cabecera": [
+      "Estado",
+      "Mensaje",
+      "Quién lo dice tal cual",
+      "Dónde"
+     ],
+     "filas": [
+      [
+       "Compartido",
+       "La tesis, primera mitad: si vendes con llamada de ventas, lo viral es subóptimo",
+       "«no es por likes ni por lo viral», 7 de 22 webs; «clientes, no seguidores», más de quince ya el 21 sep; Adrián Garme, «sin contenido viral» (14 oct)",
+       "Las webs del censo del 19 oct y el barrido (4.7); 6.1"
+      ],
+      [
+       "Propio",
+       "La tesis, segunda mitad: tu contenido sale de lo que te preguntan en la llamada de ventas",
+       "Ninguno de los 22 en castellano. Se acercan Monetiza (saca los temas de las preguntas reales del cliente final de un despacho) y, fuera de España, Marcus Sheridan («They Ask, You Answer»)",
+       "3.3 y 6.1"
+      ],
+      [
+       "Compartido",
+       "Raíz 1 · La venta empieza antes de la llamada",
+       "Anónimos: que «lleguen a una reunión conociéndote»; AGLV: que «“te compran” antes de que les ofrezcas tus servicios»",
+       "Sus webs (3.3)"
+      ],
+      [
+       "Propio a medias",
+       "Raíz 2 · El contenido empieza en tu comprador, no en el algoritmo",
+       "Que salga de tus ventas no lo dice ninguno de los 22. Que no salga de lo viral, sí: «no es por likes ni por lo viral», 7 de 22",
+       "3.3 y 6.1"
+      ],
+      [
+       "Compartido",
+       "Raíz 3 · No creamos autoridad. Hacemos visible la que ya tienes",
+       "«autoridad», 17 de 22; «eres bueno, pero no te ven», 6 de 22. Fer la llamó «súper cliché» (8 oct)",
+       "Sus webs (3.6); Villa del Prado, 39:51 (6.5)"
+      ],
+      [
+       "Propio a medias",
+       "Raíz 4 · No necesitas convertirte en creador",
+       "«una mañana» o «una sesión» de grabación, 4 de 22 («Una mañana de grabación. Un mes entero de contenido estratégico.», Expresiona). Tu archivo antes que volver a grabar, en vídeo, no lo vende ninguno",
+       "Sus webs (3.3 y 3.8)"
+      ],
+      [
+       "Propio",
+       "El mecanismo: la trampa viral (el problema) y el Método Reflejo (la solución)",
+       "La trampa viral es el nombre de Kallaway («The Viral Trap»), y se le acredita. Sacar el contenido de las preguntas de la llamada no lo dice ninguno de los 22",
+       "6.4"
+      ],
+      [
+       "Propio a medias",
+       "La promesa: que tus leads lleguen prevendidos a la llamada",
+       "Nadie en su titular; de pasada, 5 de 22: Anónimos, FullAgenda, AGLV, Expresiona y Monetiza",
+       "6.4 y 3.8"
+      ],
+      [
+       "Propio",
+       "FollowMe Ads: anuncios solo detrás de lo que ya ha traído a tu cliente",
+       "Nadie lo dice así",
+       "3.8"
+      ],
+      [
+       "Compartido",
+       "Tu web: «Tus clientes te hacen caso en todo. En redes pareces uno más.» (15 oct)",
+       "«eres bueno, pero no te ven», 6 de 22",
+       "3.6"
+      ],
+      [
+       "Compartido",
+       "Tu web: «Sin equipo, sin millones de visualizaciones y sin funnels complejos.»",
+       "«no es por likes ni por lo viral», 7 de 22",
+       "8.3 y 3.6"
+      ],
+      [
+       "Compartido",
+       "Tu web: el diagnóstico por WhatsApp",
+       "B9 y B2Bpro",
+       "3.6"
+      ],
+      [
+       "Del feed",
+       "«lo viral no vende», «aporta valor», «publica con constancia», «la marca personal murió», el contenido de la semana en una hora y clonar lo viral",
+       "El feed. «Esta iA Clona Videos Virales En Minutos», 126.992 visualizaciones",
+       "El barrido del 19 oct (4.7)"
+      ]
+     ]
+    }
+   ],
+   [
+    "texto",
+    "Falta para cerrarlo: Instagram y TikTok, que no se pudieron mirar, y lo que dice tal cual Daniel Fela, que el barrido da como competidor directo (4.7)."
+   ]
+  ]
+ },
+ {
+  "op": "parrafo",
+  "empieza": "«Si vendes un servicio que se cierra en una llamada de ventas, la estrategia",
+  "texto": "«El contenido debe salir de las ventas»… «Son las preguntas de tu cliente» (8 oct, Parque Polvoranca, 9:30 a 9:37)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "«Nadie te contrata porque publiques mucho.»",
+  "texto": "«Esa pregunta debe ser una idea de contenido que debes publicar mes a mes» (N01)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "«Hoy sale el primer vídeo en YouTube.",
+  "texto": "«Las objeciones de tus clientes en una llamada de ventas son mejores ideas de contenido que las tendencias de Instagram.» (tu documento del 8 oct; si la escribiste tú o la elegiste de otro asistente, Por decidir)"
+ },
+ {
+  "op": "parrafo",
+  "empieza": "«No quiero que me conozca todo el mundo.",
+  "texto": "«No quiero que me conozca todo el mundo. Quiero que me conozca únicamente mi cliente ideal.» (N08, tuya: está en tu versión de la sustitución) · «Si consigo 10.000 visitas significará que lo hice mal.» (tuya; salía en S02, que ya no está en noviembre)"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "El espejo de tu cliente",
+  "bloques": [
+   [
+    "texto",
+    "Salen de aquí lo compartido y lo que no es tuyo. La de R04 («…la estrategia de hacer contenido viral es subóptima…»), porque su primera mitad ya la dice el sector (6.1), y «subóptima» es de Fer. La de R06 («Nadie te contrata porque publiques mucho.»), que dice lo mismo que «clientes, no seguidores» (3.6). Las dos siguen en sus piezas. Y «Hoy sale el primer vídeo en YouTube.», que anunciaba un vídeo: esas secuencias ya no se hacen (19 oct)."
+   ]
+  ]
+ },
+ {
+  "op": "borrar",
+  "desde": "«Si no te conocen antes de necesitarte",
+  "hasta": "3.8 Los sitios libres"
+ },
+ {
+  "op": "insertar",
+  "antes_de": "3.8 Los sitios libres",
+  "bloques": [
+   [
+    "texto",
+    "«Si no te conocen antes de necesitarte, no estás en esa lista.» sale de tus frases hasta que me digas que es tuya: aparece en el código de la web que escribió el asistente y nada dice quién la escribió (Por decidir)."
+   ]
+  ]
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "Lo que te preguntan en ella es lo que se publica. Nadie de los 22 lo dice.",
+  "new": "Lo que te preguntan en ella es lo que se publica. Nadie de los 22 lo dice; se acercan Monetiza y AGLV (3.3)."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "En castellano nadie lo trata; en inglés funciona (Lori Harder, 30.342 visualizaciones en seis días).",
+  "new": "En castellano nadie lo trata; en inglés hay conversación (Lori Harder, 30.342 visualizaciones en seis días), que no prueba que funcione."
+ },
+ {
+  "op": "sustituir",
+  "ambito": "C · CONTEXTO: DÓNDE ESTÁS Y CONTRA QUIÉN JUEGAS",
+  "old": "y si dice «High Ticket» (6.6).",
+  "new": "y si dice «High Ticket» con todas sus letras, nunca «HT» (6.6)."
+ }
+]
