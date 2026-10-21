@@ -13,7 +13,7 @@ CREDITOS = {  # los reels de Miguel no llevan la fila «Crédito»: va en su pie
     'R04': 'Diego Abreu, en Píldoras del Conocimiento (minuto 52:50), dicho en el vídeo, en el pie y en los textos.',
     'R11': 'Alex Hormozi, por su nombre, con la fuente de las fechas (acquisition.com/firm).',
     'R14': 'Luis Villanueva (Webpositer), el reel del ejemplo, con su permiso.',
-    'R18': 'El modelo del clipper, de Alex Hormozi; las notas, de Píldoras del Conocimiento, con permiso.',
+    'R18': 'El modelo de Alex Hormozi, una persona que decide qué reels se sacan; las notas, de Píldoras del Conocimiento, con permiso.',
     'R21': 'La trampa viral, de Kallaway (@kallawaymarketing).',
     'R25': 'Kallaway (@kallawaymarketing), la idea de los dos tipos de personas.',
     'R31': 'Los datos de José Elías, con su fuente: The Objective, octubre de 2024 y agosto de 2025.',
