@@ -2,7 +2,7 @@
 
 Para retomar el trabajo en cualquier sesión, aunque se acaben los créditos o se corte el contenedor. **Léela entera antes de tocar nada.** Esta carpeta vive dentro del repositorio de otro cliente (Hugo, inmobiliaria: `content-plan/`) solo porque es el único sitio que persiste; lo de Miguel no se mezcla con `content-plan/`.
 
-Última actualización: 20 oct 2026, noche (tercera ronda cerrada).
+Última actualización: 21 oct 2026, mañana (cuarta ronda y revisión final cerradas; Drive al día).
 
 ---
 
@@ -80,3 +80,12 @@ El formato es el mismo de sus Docs: se editan sus `.docx` (sustituciones por pá
 - Antes de tocar un Doc suyo: el diff de su versión contra la última entrega (regla madre de `ronda-correccion`). Si Miguel cambia algo a mano en r8/r6, se parte de su versión.
 - Para rehacer una hoja de rodaje: `python3 scripts/hoja_rodaje.py <su hoja v3 .docx> <guiones del mes .docx> <salida.docx> "<mes>" "<nota>"` (la hoja v3 está en `fuentes/`).
 - Lo que espera a Miguel está en los Pendientes de cada mes: «Resuelto por ti», «Decidido por Claude», «Lo que he cambiado en tu voz», las filas de material real y «Tus textos, como los dejaste».
+
+## 8. Cuarta ronda y revisión final (noche del 20 al 21 oct)
+
+- «Las del 22 al 25 no me gustan» → leído como N22, S22, R38 y NS4 (diciembre). Entran N05, NS8, N16 y NS9. Si Miguel quería decir otras, se vuelve atrás (siguen en la r6, en `entregas/Descartados/`).
+- Revisión a ciegas: `registro/auditorias-calma-meses-21oct-r9r7.md` (nov 5,8 → 6,2; dic 5,5 → 5,9; 18 de 54 en 7). Sus 35 arreglos y los míos aplicados con `trabajo/revfinal_mias.py` y `trabajo/revfinal_revisor.py`.
+- Escritos de N04, N05, N07, N13, N15 y N18 pasan al gancho B (regla 1 de su voz). N01 y N17, por decidir.
+- Lo bueno ahora: guiones nov r9 y dic r7 (21 oct), hojas nov v7 y dic v4, textos de publicación v1 (`trabajo/gen_textos.py` + `textos_plataformas.py`), «Para cuando vuelvas».
+- Drive (carpeta «MP Miguel · Estrategia 90 días · 6 oct 2026»): subidos como Google Docs las hojas, los textos, el diseño y «Para cuando vuelvas». Los guiones (1,4 MB) y la ficha v7 NO caben por el conector: Miguel los arrastra. Superados renombrados «(superada: ver «…») …» y movidos a su Descartados. Nada en «Recursos gratuitos» (es pública).
+- Subir a Drive: `scripts/sin_fuentes.py` quita las fuentes del .docx; base64 hasta ~50 KB funciona.

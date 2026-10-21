@@ -1,4 +1,30 @@
-# Lo que cambió · noviembre r8 y diciembre r6 · 20 oct 2026
+# Lo que cambió · noviembre r9 y diciembre r7 · 21 oct 2026
+
+## Cuarta pasada: noviembre r9 y diciembre r7, y la revisión final (noche del 20 al 21 oct)
+
+Me pediste tres cosas antes de irte: rehacer las piezas del 22 al 25 de diciembre, que no te gustaban; revisarlo todo; y subirlo a tu Drive con el nombre y la fecha de hoy, marcando como superado lo anterior. Y que hoy estuviera todo hecho y comprobado, pasado por el sistema paso a paso.
+
+- **Las piezas del 22 al 25.** Lo he leído como las cuatro de diciembre del martes 22 al viernes 25: salen N22, S22, R38 y NS4, que siguen enteras en la r6, en Descartados. Entran, en los mismos días, N05 y N16 (de tu sustitución, con tus frases) y NS8 y NS9 (nuevas, con tus ideas 3.2.4 y 3.3.2 del documento del 8 oct). Si querías decir otras, dímelo y lo vuelvo atrás.
+- **Lo que se pierde con el cambio**, en Pendientes: el Método Reflejo ya no se nombra en ninguna pieza de los dos meses, y la semana del 21 queda con cinco piezas de autoridad y una de demostración.
+- **Los pies, con tu voz.** Fuera la coletilla fija «Si tus clientes no te compran sin hablar contigo antes» y las máximas mías; en su lugar, frases tuyas de cada locución. Y ningún pie repite ya el gancho escrito de su pieza, que es la regla principal de los textos de publicación.
+- **En R28 vuelve a quedar fuera «Empieza por tu enlace»**, la fase que quitaste el 18 oct y que el pie había recuperado; y el perfil se mira en los cuatro bloques que dice tu voz, sin la foto.
+- **La revisión final**: noviembre de 5,8 a 6,2 y diciembre de 5,5 a 5,9 (registro, por dentro); sus 35 arreglos en texto mío, hechos. Los escritos de N04, N05, N07, N13, N15 y N18 pasan al de su gancho B.
+- **Textos de publicación**, nuevos: el texto de cada reel en Instagram, TikTok, YouTube Shorts y Facebook, con sus hashtags. No se ha programado nada.
+- **Hojas de rodaje nuevas**: noviembre v7 y diciembre v4.
+- La r8, la r6 y las hojas v6 y v3 están en `entregas/Descartados/`, con el prefijo «superada».
+
+### Diciembre r7: lo que cambia en el calendario
+
+| Día | Reel | Historias |
+|---|---|---|
+| lun 21 | **N18** | |
+| mar 22 | **N05** (antes N22) | **NS8** (antes S22) |
+| mié 23 | **N16** (antes R38) | |
+| jue 24 | | **NS9** (antes NS4; se programa por la mañana) |
+| sáb 26 | | S24 |
+
+El resto de los dos meses sigue como en la tercera pasada.
+
 
 ## Tercera pasada: noviembre r8 y diciembre r6, las buenas (20 oct, noche)
 
